@@ -1,1 +1,1 @@
-# trendnews
+# FunnyTrap Privacy copywrite contents
