@@ -1,0 +1,34 @@
+/*
+Theme Name: Funnytrap
+Version: 7.0.1
+Theme URI: https://www.funnytrap.com
+Description: Funnytrap
+Author: Funnytrap
+Author URI: https://www.funnytrap.com
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:  custom-background,custom-colors, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: funnytrap
+*/
+.jeg_mobile_logo img {
+	max-height:180px;
+	height:160px;
+}
+
+.jeg_meta_author{
+	
+	display:none !important;
+}
+.jscroll-to-top {
+   
+    right: 12px !important;
+    bottom: 44px !important;
+}
+
+.grecaptcha-badge{
+   visibility: collapse !important;
+}
+
+.cn-button.bootstrap{
+	background:#f70d28 !important;
+}

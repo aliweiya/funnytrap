@@ -1,0 +1,898 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head lang="en">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Template Documentation Template</title>
+    <link
+href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700"
+      rel="stylesheet" type="text/css">
+    <!-- Framework CSS -->
+    <link rel="stylesheet" href="assets/blueprint-css/screen.css"
+      type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="assets/blueprint-css/print.css"
+      type="text/css" media="print">
+    <!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <link rel="stylesheet"
+      href="assets/blueprint-css/plugins/fancy-type/screen.css"
+      type="text/css" media="screen, projection">
+    <style type="text/css" media="screen">
+p, table, hr, .box { margin-bottom:25px; }
+.box p { margin-bottom:10px; }
+</style>
+  </head>
+  <body>
+    <div class="container">
+      <h3 class="center alt">“Autolinks Manager” Documentation by
+        “DAEXT” v1.12</h3>
+      <hr>
+      <h1 class="center">“Autolinks Manager”</h1>
+      <div class="borderTop">
+        <div class="span-6 colborder info prepend-1">
+          <p class="prepend-top">Created: 29/06/2020<br>
+            By: DAEXT<br>
+            Email: support@daext.com</p>
+        </div>
+        <!-- end div .span-6 -->
+        <div class="span-12 last">
+          <p class="prepend-top append-0">Thank you for using Autolinks
+            Manager. If you have any questions that are beyond the scope
+            of this help file please contact us via email or with the
+            contact form available in our <a
+              href="https://codecanyon.net/user/daext">CodeCanyon
+              Profile</a>.</p>
+        </div>
+      </div>
+      <!-- end div .borderTop -->
+      <hr>
+      <h2 id="toc" class="alt">Table of Contents</h2>
+      <ol class="alpha">
+        <li><a href="#video-tutorials">Video Tutorials<br>
+          </a></li>
+        <li><a href="#installation-single-site">Installation (Single
+            Site)</a></li>
+        <li><a href="#installation-multisite">Installation (Multisite)</a></li>
+        <li><a href="#update-single-site">Update (Single Site)</a></li>
+        <li><a href="#update-multisite">Update (Multisite)</a></li>
+        <li><a href="#statistics-menu">Statistics Menu</a></li>
+        <li><a href="#wizard-menu">Wizard Menu</a></li>
+        <li><a href="#autolinks-menu">Autolinks Menu</a></li>
+        <li><a href="#categories-menu">Categories Menu</a></li>
+        <li><a href="#term-groups-menu">Term Groups Menu</a></li>
+        <li><a href="#tracking-menu">Tracking Menu</a></li>
+        <li><a href="#import-menu">Import Menu</a></li>
+        <li><a href="#export-menu">Export Menu</a></li>
+        <li><a href="#maintenance-menu">Maintenance Menu</a></li>
+        <li><a href="#options-menu">Options Menu</a></li>
+        <li><a href="#credits">Credits</a><br>
+        </li>
+        <li><a href="#faq">FAQ</a></li>
+      </ol>
+      <span style="text-decoration: underline;"></span>
+      <hr>
+      <h3 id="video-tutorials">A) Video Tutorials</h3>
+      <p>This video series covers the functionalities of the Autolinks
+        Manager plugin.</p>
+      <p>Please note that not all the aspects and implications are
+        covered in this section, it's recommended that you read the
+        entire documentation (FAQ included) before using this plugin in
+        a production environment or asking for support to the plugin
+        author.</p>
+      <ul>
+        <li> <a href="https://www.youtube.com/watch?v=MgWm_wKy2cI">Generate
+
+
+
+
+
+
+
+
+
+            statistics about the autolinks</a></li>
+        <li><a href="https://www.youtube.com/watch?v=M6xV8QqTqlM">Export
+            the statistics in a spreadsheet software</a></li>
+        <li><a href="https://www.youtube.com/watch?v=fHqFqWGfQNo">Create
+            an autolink (basic tutorial)</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Yj_ldL30nHQ">Create
+            an autolink (advanced tutorial)</a></li>
+        <li><a href="https://www.youtube.com/watch?v=TXs0pUmt6WQ">Create
+            multiple autolinks with the Wizard menu</a></li>
+        <li><a href="https://www.youtube.com/watch?v=wckoaT29AE8">Create
+            a category</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dtKnrrRX-2g">Create
+            a term group</a></li>
+        <li><a href="https://www.youtube.com/watch?v=FCtMNy8gzR0">Overview
+
+
+
+
+
+
+
+
+
+            of the tracking menu</a></li>
+        <li><a href="https://www.youtube.com/watch?v=mYKpT2oeEIk">Export
+            the tracked clicks</a></li>
+        <li><a href="https://www.youtube.com/watch?v=hBrWcqYEurY">Import
+            autolinks, categories and term groups</a></li>
+        <li><a href="https://www.youtube.com/watch?v=2_TqOy6jQDc">Export
+            autolinks, categories and term groups</a></li>
+        <li><a href="https://www.youtube.com/watch?v=AMMbiKRxuls">Overview
+
+
+
+
+
+
+
+
+
+            of the plugin options</a><br>
+        </li>
+      </ul>
+      <hr>
+      <h3 id="installation-single-site">B) Installation (Single Site)</h3>
+      <p>With this procedure you will be able to install the Autolinks
+        Manager plugin on your WordPress website.</p>
+      <ol>
+        <li> Visit the <span style="font-weight: bold;">Plugins -&gt;
+            Add New</span> menu</li>
+        <li>Click on the <span style="font-weight: bold;"
+            class="aa-highlighter">Upload Plugin</span> button and
+          select the zip file you just downloaded<span
+            style="font-style: italic;"></span></li>
+        <li>Click on <span style="font-weight: bold;">Install Now</span></li>
+        <li>Click on <span style="font-weight: bold;">Activate Plugin</span></li>
+      </ol>
+      <hr>
+      <h3 id="installation-multisite">C) Installation (Multisite)</h3>
+      <p>This plugin supports both a <span style="font-weight: bold;">Network
+
+
+
+
+
+
+
+
+
+
+
+
+          Activation</span> (the plugin will be activated on all the
+        sites of your WordPress Network) and a <span
+          style="font-weight: bold;">Single Site Activation</span> in a
+        <span style="font-weight: bold;">WordPress Network</span>
+        environment (your plugin will be activated on single sites of
+        the network).</p>
+      <p>With this procedure you will be able to perform a <span
+          style="font-weight: bold;">Network Activation</span>:</p>
+      <ol>
+        <li> Visit the <span style="font-weight: bold;">Plugins -&gt;
+            Add New</span> menu</li>
+        <li>Click on the <span style="font-weight: bold;"
+            class="aa-highlighter">Upload Plugin</span> button and
+          select the zip file you just downloaded<span
+            style="font-style: italic;"></span></li>
+        <li>Click on <span style="font-weight: bold;">Install Now</span></li>
+        <li>Click on <span style="font-weight: bold;">Network Activate</span></li>
+      </ol>
+      <p>With this procedure you will be able to perform a <span
+          style="font-weight: bold;">Single Site Activation</span> in a
+        <span style="font-weight: bold;">WordPress Network</span>
+        environment:</p>
+      <ol>
+        <li>Visit the specific site of the <span style="font-weight:
+            bold;">WordPress Network</span> where you want to install
+          the plugin<br>
+        </li>
+        <li>Visit the <span style="font-weight: bold;">Plugins</span>
+          menu</li>
+        <li>Click on the <span style="font-weight: bold;"
+            class="aa-highlighter">Activate</span> button<br>
+        </li>
+      </ol>
+      <p>Please note that this plugin should be not activated on sites
+        of a <span style="font-weight: bold;">WordPress Network</span>
+        managed by untrusted users. The ability of the untrusted users
+        to create an unlimited number of autolinks in the <b>Autolinks</b>
+        and in the <b>Wizard</b> menus might expose your website to <a
+          href="https://en.wikipedia.org/wiki/Denial-of-service_attack">DOS
+
+
+
+
+
+
+
+
+
+
+
+
+          attacks</a> caused by an overload of your server CPU.</p>
+      <hr>
+      <h3 id="update-single-site">D) Update (Single Site)</h3>
+      <p>With this procedure you will be able to update the Autolinks
+        Manager plugin:</p>
+      <ol>
+        <li> Visit the <span style="font-weight: bold;">Plugins</span>
+          menu</li>
+        <li>Click on <span style="font-weight: bold;"
+            class="aa-highlighter">Deactivate</span></li>
+        <li>Update the plugin files with your favorite FTP client
+          (delete the files of the old version and add the files of the
+          new version)<span style="font-weight: bold;"></span></li>
+        <li>Click on <span style="font-weight: bold;">Activate</span></li>
+      </ol>
+      <hr>
+      <h3 id="update-multisite">E) Update (Multisite)</h3>
+      <p>To update the plugin in all the sites of your <b>WordPress
+          Network</b> follow this procedure:</p>
+      <ol>
+        <li> Visit the <span style="font-weight: bold;">Plugins</span>
+          menu</li>
+        <li>Click on <span style="font-weight: bold;"
+            class="aa-highlighter">Network Deactivate</span></li>
+        <li>Update the plugin files with your favorite FTP client
+          (delete the files of the old version and add the files of the
+          new version)<span style="font-weight: bold;"></span></li>
+        <li>Click on <span style="font-weight: bold;">Network Activate</span></li>
+      </ol>
+      <p>To update the plugin in single sites of the <b>WordPress
+          Network</b> follow this procedure:</p>
+      <ol>
+        <li>Visit the specific site of the <span style="font-weight:
+            bold;">WordPress Network</span> where you want to update the
+          plugin</li>
+        <li>Visit the <span style="font-weight: bold;">Plugins</span>
+          menu</li>
+        <li>Click on <span style="font-weight: bold;"
+            class="aa-highlighter">Deactivate</span></li>
+        <li>Update the plugin files with your favorite FTP client (skip
+          this step if you have already updated the plugin files during
+          the plugin update of another single site of the <b>WordPress
+            Network</b>)<span style="font-weight: bold;"></span></li>
+        <li>Click on <span style="font-weight: bold;">Activate</span></li>
+      </ol>
+      <p> </p>
+      <hr>
+      <h3 id="statistics-menu">F) Statistics Menu</h3>
+      <p>The Statistics menu allows you to generate statistics about the
+        autolinks applied in the posts, pages and custom post types of
+        your blog.</p>
+      <p>You can generate these data for the first time or update your
+        data by following this procedure:</p>
+      <ol>
+        <li>Visit the <span style="font-weight: bold;">Autolinks -&gt;
+            Statistics</span> menu</li>
+        <li>Click the <span style="font-weight: bold;">Generate</span>
+          button</li>
+        <li>Wait until the analysis of the posts is completed</li>
+      </ol>
+      <p>Each row of the generated table will present the following
+        information:</p>
+      <ul>
+        <li><b>Post ID</b> - The post ID<br>
+          <span style="font-weight: bold;"></span></li>
+        <li><span style="font-weight: bold;">Post</span> - The post
+          title</li>
+        <li><span style="font-weight: bold;">Content Length</span> - The
+          length of the raw (with filters not applied) post content<br>
+        </li>
+        <li><span style="font-weight: bold;">Autolinks </span>- The
+          number autolinks applied on the post</li>
+        <li><span style="font-weight: bold;">Clicks</span> - The number
+          of clicks generated with the autolinks applied on the post</li>
+      </ul>
+      <p>With the <span style="font-weight: bold;">Download</span>
+        button available in the <span style="font-weight: bold;">Export
+          CSV</span> section you can export all the data in <a
+          href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV
+
+
+
+
+
+
+
+
+
+
+
+
+          format</a>. For details on how to read the generated CSV files
+        in a spreadsheet software see the FAQ <a
+          href="#how-to-import-the-generated-csv-data-in-a-spreadsheet-software">How
+
+
+
+
+
+
+
+
+
+
+
+
+          to import the generated CSV data in a spreadsheet software</a>.</p>
+      <ul>
+      </ul>
+      <hr>
+      <h3 id="wizard-menu">G) Wizard Menu</h3>
+      <p>The Wizard menu gives you the ability to generate multiple
+        autolinks in a single operation.<br>
+      </p>
+      <p>To create autolinks proceed as follows:<br>
+      </p>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Wizard</b> menu<br>
+        </li>
+        <li>In the <b>Name</b> field enter the name that will be
+          assigned to all the autolinks generated with this procedure<br>
+        </li>
+        <li>In the <b>Category</b> field select if you want to assign
+          the autolinks to a specific category</li>
+        <li>In the <b>Data</b> table enter a list of keywords (in the
+          first column) with the related URLs (in the second column)</li>
+      </ol>
+      <p>Please note that when the autolinks are created with the Wizard
+        menu the other information associated with the autolink will be
+        automatically retrieved from the options defined in the <b>Defaults</b>
+        tab of the <b>Autolinks -&gt; Options </b>menu.<br>
+      </p>
+      <hr>
+      <h3 id="autolinks-menu">H) Autolinks Menu</h3>
+      <p>The Autolinks menu allows you to create an autolink at a time
+        and specify all the information associated with the autolink.<br>
+      </p>
+      <p><span style="color: #444444;">To create an autolink enter the
+          following information:</span><br>
+      </p>
+      <ul>
+        <li><b>Name</b> - The name of the autolink.</li>
+        <li><b>Category</b> - The category of the autolink.<br>
+        </li>
+        <li><span style="font-weight: bold;">Keyword</span> - The
+          keyword that will be converted to a link.</li>
+        <li> <span style="font-weight: bold;">URL</span> - The
+          destination address of the link automatically generated on the
+          keyword.</li>
+        <li><b>Title</b> - The title attribute of the link automatically
+          generated on the keyword.</li>
+        <li><b>Open New Tab</b> - If you select "Yes" the link generated
+          on the defined keyword opens the linked document in a new tab.</li>
+        <li><b>Use Nofollow</b> - If you select "Yes" the link generated
+          on the defined keyword will include the rel="nofollow"
+          attribute.</li>
+        <li><b>Post Types</b> - With this option you are able to
+          determine in which post types the defined keywords will be
+          automatically converted to a link. Leave this field empty to
+          convert the keyword in any post type.</li>
+        <li><b>Categories</b> - With this option you are able to
+          determine in which categories the defined keywords will be
+          automatically converted to a link. Leave this field empty to
+          convert the keyword in any category.</li>
+        <li><b>Tags</b> - With this option you are able to determine in
+          which tags the defined keywords will be automatically
+          converted to a link. Leave this field empty to convert the
+          keyword in any tag.</li>
+        <li><b>Term Group</b> - The terms that will be compared with the
+          ones available on the posts where the autolinks are applied.
+          Please note that when a term group is selected the
+          "Categories" and "Tags" options will be ignored.</li>
+        <li><b>Case Sensitive Search</b> - If you select "No" the
+          defined keyword will match both lowercase and uppercase
+          variations.</li>
+        <li><b>Left Boundary</b> - Use this option to match keywords
+          preceded by a generic boundary or by a specific character.</li>
+        <li><b>Right Boundary</b> - Use this option to match keywords
+          followed by a generic boundary or by a specific character.</li>
+        <li><b>Keyword Before</b> - Use this option to match occurences
+          preceded by a specific string.</li>
+        <li><b>Keyword After</b> - Use this option to match occurences
+          followed by a specific string.</li>
+        <li><b>Limit</b> - With this option you can determine the
+          maximum number of matches of the defined keyword automatically
+          converted to a link.</li>
+        <li><b>Priority</b> - The priority value determines the order
+          used to apply the autolinks on the post.<br>
+        </li>
+      </ul>
+      <p>Please note that the default values of the various field
+        available in the form are based on the options defined in the <b>Defaults</b>
+        tab of the <b>Autolinks -&gt; Options </b>menu.</p>
+      <ul>
+      </ul>
+      <hr>
+      <h3 id="categories-menu">I) Categories Menu<br>
+      </h3>
+      <p>The Categories menu allows you to create categories for the
+        autolinks.<br>
+      </p>
+      <p>To create a category proceed as follows:<br>
+      </p>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Categories</b> menu<b><br>
+          </b></li>
+        <li>In the <b>Name</b> field enter the name of the category</li>
+        <li>In the <b>Description</b> field enter the description of
+          the category</li>
+        <li>Click the <b>Add Category</b> button<br>
+        </li>
+      </ol>
+      <ul>
+      </ul>
+      <hr>
+      <h3 id="term-groups-menu">J) Term Groups menu<br>
+      </h3>
+      With this menu you will be able to create term groups. A term
+      group is a an entity that includes from 1 to 50 terms. Each term
+      present in a term group will be compared with the ones available
+      on the posts where the autolinks are applied, if the considered
+      post has at least one term present in the term group the autolink
+      will be applied.<br>
+      <br>
+      To create a term group proceed as follows:<br>
+      <br>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Term Groups</b> menu</li>
+        <li>In the <b>Name</b> field enter the name of the term group</li>
+        <li>With <b>Post Type 1 </b>select the post type for which you
+          want to retrieve the taxonomies</li>
+        <li>With <b>Taxonomy 1</b> select the taxonomy for which you
+          want to retrieve the terms</li>
+        <li>With <b>Term 1</b> select the term that will be compared
+          with the ones available on the posts where the autolinks are
+          applied</li>
+        <li>Repeat steps three to five if you want to include other
+          terms in the term group</li>
+      </ol>
+      <p>Please note that you can increase or decrease the number of
+        terms available in the <b>Term Groups</b> menu with the <b>Supported
+
+
+
+
+
+
+          Terms</b> option available in the <b>Advanced</b> tab of the
+        <b>Autolinks -&gt; Options</b> menu.<br>
+      </p>
+      <hr>
+      <h3 id="tracking-menu">K) Tracking Menu<br>
+      </h3>
+      In the Tracking Menu you will be able to see the clicks performed
+      on the autolinks.<br>
+      <br>
+      When the click of the user is tracked the following information
+      are stored:<br>
+      <br>
+      <ul>
+        <li><b>Tracking ID</b> - An auto-generated value used to
+          identify the click</li>
+        <li><b>IP Address</b> - The IP address of the user that
+          performed the click</li>
+        <li><b>Date</b> - The date on which the autolink has been
+          clicked</li>
+        <li><b>Autolink</b> - The autolink associated with the tracked
+          click</li>
+        <li><b>Post</b> - The post, page or custom post type that
+          includes the autolink that received the click</li>
+      </ul>
+      <p>With the <b>Reset</b> button available in the <b>Reset
+          Tracking</b> section you can delete all the tracked clicks.<br>
+      </p>
+      <p>With the <span style="font-weight: bold;">Download</span>
+        button available in the <span style="font-weight: bold;">Export
+          CSV</span> section you can export all the data in <a
+          href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV
+
+
+
+
+
+
+
+
+
+
+
+
+          format</a>. For details on how to read the generated CSV files
+        in a spreadsheet software see the FAQ <a
+          href="#how-to-import-the-generated-csv-data-in-a-spreadsheet-software">How
+
+
+
+
+
+
+
+
+
+
+
+
+          to import the generated CSV data in a spreadsheet software</a>.<br>
+      </p>
+      <hr>
+      <h3 id="import-menu">L) Import Menu<br>
+      </h3>
+      The Import menu should be used to import autolinks, categories and
+      term groups previously stored inside XML files generated with the
+      Export menu.<br>
+      <br>
+      Import your autolinks, categories and term groups with this
+      procedure:<br>
+      <br>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Import</b> menu</li>
+        <li>Click the <b>Choose File</b> button and select the XML file
+          that includes the autolinks, categories and term groups</li>
+        <li>Click the <b>Upload file and import</b> button to start the
+          process</li>
+        <li>Verify the number of autolinks, categories and term groups
+          actually imported by reading the message provided at the end
+          of the procedure</li>
+      </ol>
+      <hr>
+      <h3 id="export-menu">M) Export Menu<br>
+      </h3>
+      The Export menu gives you the ability to generate an XML file with
+      included all your autolinks, categories and term groups.<br>
+      <br>
+      Export your autolinks, categories and term groups by following
+      this procedure:<br>
+      <br>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Export</b> menu</li>
+        <li>Click the <b>Export</b> button</li>
+        <li>You can now access to the generated XML file from your
+          downloads folder</li>
+      </ol>
+      <hr>
+      <h3 id="maintenance-menu">N) Maintenance Menu<br>
+      </h3>
+      The Maintenance menu gives you the ability to automatically
+      perform repetitive operations.<br>
+      <br>
+      The following tasks are available:<br>
+      <br>
+      <ul>
+        <li>Delete Autolinks</li>
+        <li>Delete Categories</li>
+        <li>Delete Term Groups</li>
+        <li>Delete Tracking</li>
+      </ul>
+      To execute a task proceed as follows:<br>
+      <br>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Maintenance</b> menu</li>
+        <li>With the <b>Task</b> field select the task that you want to
+          perform</li>
+        <li>With the <b>From</b> and <b>To</b> field select the range
+          of IDs on which the task should be performed</li>
+        <li>Click the <b>Execute Task</b> button</li>
+      </ol>
+      <hr>
+      <h3 id="options-menu">O) Options Menu<br>
+      </h3>
+      The Options menu includes a total of 50 options, you can hover the
+      mouse over the question mark available on the right of each option
+      to receive additional information on how the specific option
+      should be used.<br>
+      <br>
+      <hr>
+      <h3 id="credits">P) Credits</h3>
+      <p>This plugin makes use of the following resources:</p>
+      <ul>
+        <li><a href="https://github.com/harvesthq/chosen"><span
+              style="color: #000099;">Chosen</span></a> licensed under
+          the <a
+            href="http://www.opensource.org/licenses/mit-license.php"
+            target="_blank" rel="nofollow">MIT License</a></li>
+        <li><a href="https://github.com/handsontable/handsontable">Handsontable</a><a
+            href="https://github.com/harvesthq/chosen"><span
+              style="color: #000099;"></span></a> licensed under the <a
+            href="http://www.opensource.org/licenses/mit-license.php"
+            target="_blank" rel="nofollow">MIT License</a></li>
+      </ul>
+      <p>For each library you can find the actual copy of the license
+        inside the folder used to store the library files.</p>
+      <hr>
+      <h3 id="faq">Q) FAQ</h3>
+      <h4
+        id="how-to-import-the-generated-csv-data-in-a-spreadsheet-software"><span
+          style="font-weight: bold;">How to import the generated CSV
+          data in a spreadsheet software?</span><br>
+      </h4>
+      <p> All the CSV data generated with this plugin can be imported in
+        your favorite spreadsheet software by selecting the following
+        options:</p>
+      <ul>
+        <li>Character Set -&gt; Unicode (UTF-8)</li>
+        <li>Text Delimiter -&gt; Double Quotes</li>
+        <li>Separator -&gt; Comma</li>
+      </ul>
+      <h4
+        id="hot-to-enable-disable-specific-plugin-features-to-specific-users"><span
+          style="font-weight: bold;">How to enable specific plugin menus
+          to specific users?</span><br>
+      </h4>
+      <p> In the <span style="font-weight: bold;">Capabilities</span>
+        tab available in the <span style="font-weight: bold;">Autolinks
+          -&gt; Options</span> menu you can select the capability
+        required to get access on specific plugin menus.</p>
+      <p>If you are not familiar with the WordPress roles and
+        capabilities please check out <a
+          href="https://codex.wordpress.org/Roles_and_Capabilities">Roles
+
+
+
+
+
+
+
+
+
+
+
+
+          and Capabilities</a>. To grant the access to a specific plugin
+        menu only to specific users find the proper capability by using
+        the <a
+href="https://codex.wordpress.org/Roles_and_Capabilities#Capability_vs._Role_Table">Capability
+
+
+
+
+
+
+
+
+
+
+
+
+          vs Role</a> table.</p>
+      <p>For security reasons the access to the <span
+          style="font-weight: bold;">Autolinks -&gt; Options</span> menu
+        is only granted to the users with the "manage_options"
+        capability, and by default this capability is available only to
+        the <span style="font-weight: bold;">Administrator</span> and
+        to the <span style="font-weight: bold;">Super Admin</span>
+        roles.</p>
+      <h4><span style="font-weight: bold;">How to solve performance and
+          post analysis issues?</span><br>
+      </h4>
+      <p> The analysis on your posts performed in the <b>Autolinks
+          -&gt; Statistics</b> menu can be slow if one or more of the
+        following conditions occur:</p>
+      <ul>
+        <li>The blog has a high number of posts and you are not limiting
+          the analysis of the posts with the <span style="font-weight:
+            bold;">Limit Posts Analysis</span> option</li>
+        <li>You have defined a high number of autolinks<span
+            style="font-weight: bold;"></span><br>
+        </li>
+        <li>Your server performance are below the norm</li>
+      </ul>
+      <p>To avoid errors such as "Maximum execution time of x seconds
+        exceeded" or "Allowed memory size of x bytes exhausted" it's
+        important to consider that:</p>
+      <ul>
+        <li>Some server have a limited maximum number of seconds to
+          execute the PHP scripts and long running scripts can't be
+          completed. If this is your case simply set "Yes" on the <span
+            style="font-weight: bold;">Set Max Execution Time</span>
+          option and enter an appropriate value in the <span
+            style="font-weight: bold;">Max Execution Time Value</span>
+          option.</li>
+        <li>Sometimes the PHP memory limit is very limited and long
+          running scripts can't be completed. If you want to increase
+          the PHP memory limit set "Yes" on the <span
+            style="font-weight: bold;">Set Memory Limit</span> option
+          and enter an appropriate value in the <span
+            style="font-weight: bold;">Memory Limit Value</span> option.</li>
+      </ul>
+      <p>Please note that the custom <span style="font-weight: bold;">max_execution_time</span>
+        and <span style="font-weight: bold;">memory_limit</span> values
+        defined with the plugin will be applied only on a limited
+        selection of long running scripts used by the plugin and won't
+        affect any script outside the plugin.</p>
+      <p>It's also important to note that in some cases the custom <span
+          style="font-weight: bold;">max_execution_time</span> and <span
+          style="font-weight: bold;">memory_limit</span> values defined
+        through the plugin options (and actually applied with the <a
+          href="http://php.net/manual/en/function.ini-set.php">ini_set()<span
+            style="text-decoration: underline;"></span></a> PHP
+        function) might be ignored. In such cases you have to configure
+        your server (or ask to your hosting provider to configure your
+        server) with different values in the <span style="font-weight:
+          bold;">max_execution_time</span> and <span
+          style="font-weight: bold;">memory_limit</span> directives.</p>
+      <p>If the <span style="font-weight: bold;">max_execution_time</span>
+        and <span style="font-weight: bold;">memory_limit</span> values
+        defined through the plugin option are ignored and your current
+        hosting plan doesn't allow you to increase these values even
+        manually after a support ticket, the only solution is to set the
+        <span style="font-weight: bold;">Limit Posts Analysis</span>
+        option with a value smaller than 1000 and not exceeding more
+        than 100 keywords in the <span style="font-weight: bold;">Autolinks</span>
+        menu.</p>
+      <h4 id="how-the-test-mode-works"><span style="font-weight: bold;">How
+
+
+
+
+
+
+
+
+
+
+
+          the Test Mode works?</span><br>
+      </h4>
+      <p>The <span style="font-weight: bold;">Test Mode</span> is an
+        option available in the <span style="font-weight: bold;">Advanced</span>
+        tab of the <span style="font-weight: bold;">Autolinks -&gt;
+          Options</span> menu.</p>
+      <p>When the test mode is enabled your autolinks will be actually
+        applied on the front-end of your website only to the WordPress
+        users that have the capability defined with the <b>Autolinks
+          Menu</b> option available in the <b>Capabilities</b> menu.</p>
+      <p>This means that, when the test mode is enabled, only the users
+        that have access to the <span style="font-weight: bold;">Autolinks</span>
+        menu will actually see the autolinks applied on the posts. This
+        allows you to easily test the application of the autolinks in a
+        production environment.</p>
+      <p>It's therefore obvious, but important to note, that if the test
+        mode is enabled, your visitors and your logged-in users that
+        don't have the required capability won't see any autolink
+        applied to your posts.</p>
+      <p>Please also note that while in test mode, the data and
+        statistics generated in the back-end of the plugin will consider
+        the autolinks applied. This behavior allows you to have more
+        information about your applied autolinks before you actually
+        activate them (by disabling the test mode) to your visitors.</p>
+      <h4><span style="font-weight: bold;">What are the Protected Tags?</span><br>
+      </h4>
+      <p>The <span style="font-weight: bold;">Protected Tags</span>
+        option, available in the <span style="font-weight: bold;">Advanced</span>
+        tab of the <span style="font-weight: bold;">Autolinks -&gt;
+          Options</span> menu, allows you to not apply the autolinks on
+        specific tags present in your posts.</p>
+      <p>Let's say that you have created an autolink that converts the
+        word<span style="font-weight: bold;"> </span>"dreamer" to a
+        link, but you don't want to convert the word "dreamer" inside a
+        blockquote element with the quote "You may say that I'm a
+        dreamer but I'm not the only one". You can solve the problem
+        simply by adding the tag "blockquote" in the list of protected
+        tags.</p>
+      <p>Please note that by protecting non-void tags you prevent any
+        nested element from having applied an autolink.<br>
+      </p>
+      <h4><span style="font-weight: bold;">What are the Protected
+          Gutenberg Block?</span><br>
+      </h4>
+      <p>The <b>Protected Gutenberg Blocks</b> option, available in the
+        <span style="font-weight: bold;">Advanced</span> tab of the <span
+          style="font-weight: bold;">Autolinks -&gt; Options</span>
+        menu, allows you to not apply the autolinks on specific <b>Gutenberg
+
+
+
+
+
+
+
+
+
+
+          Blocks</b> present in your posts.<br>
+      </p>
+      <p>For more information on the Gutenberg Project please check out
+        <a href="https://wordpress.org/gutenberg/">this article</a>.<br>
+      </p>
+      <h4 id="what-is-the-generic-keyword-boundary-in-the-ail-menu"><span
+          style="font-weight: bold;">What is the "Generic" keyword
+          boundary?</span><br>
+      </h4>
+      <p>The "Generic" boundary available in the select box of the <span
+          style="font-weight: bold;">Left Boundary</span> and <span
+          style="font-weight: bold;">Right Boundary</span> options and
+        in the <b>Autolinks</b> menu is a generic boundary able to
+        detect transitions between Unicode characters and Unicode
+        non-characters.</p>
+      <p>For example if you assign the "Generic" boundary as the <span
+          style="font-weight: bold;">Left Boundary</span> of the keyword
+        "cat", the keyword will be matched by the regular expressions in
+        the following cases:</p>
+      <ul>
+        <li>" cat"</li>
+        <li>",cat"</li>
+        <li>"-cat"</li>
+        <li>"!cat"</li>
+      </ul>
+      <p>but not on the following cases:</p>
+      <ul>
+        <li>"zcat"</li>
+        <li>"àcat"</li>
+        <li>"ìcat"</li>
+      </ul>
+      <h4 id="what-is-the-generic-keyword-boundary-in-the-ail-menu"><span
+          style="font-weight: bold;">What is the "None" keyword
+          boundary?</span><br>
+      </h4>
+      <p>The "None" boundary available in the select box of the <span
+          style="font-weight: bold;">Left Boundary</span> and <span
+          style="font-weight: bold;">Right Boundary</span> options and
+        in the <b>Autolinks</b> menu allows you to match keywords
+        without considering the transition between the keyword and the
+        preceding or following characters.</p>
+      <p>For example if you assign the "None" boundary as the <span
+          style="font-weight: bold;">Left Boundary</span> of the keyword
+        "cat", the keyword will be matched by the regular expressions in
+        any of the following cases:</p>
+      <ul>
+        <li>" cat"</li>
+        <li>",cat"</li>
+        <li>"-cat"</li>
+        <li>"!cat"</li>
+        <li>"zcat"</li>
+        <li>"àcat"</li>
+        <li>"ìcat"</li>
+      </ul>
+      <h4
+id="which-links-are-considered-internal-links-in-a-site-of-a-wordpress-network"><span
+          style="font-weight: bold;">Which personal data are collected
+          by this plugin?</span><br>
+      </h4>
+      <p>The link tracking feature collects the IP address of the users
+        that perform clicks on the autolinks.<br>
+      </p>
+      <p>In case you don't want to collect personal data of the users<b>
+        </b>proceed as follows:<br>
+      </p>
+      <ol>
+        <li>Visit the <b>Tracking</b> tab of the <b>Autolinks -&gt;
+            Options</b> menu</li>
+        <li>Set the value of the <b>Enable Click Tracking</b> option to
+          "No"</li>
+      </ol>
+      <p>If instead you want to keep the link tracking feature active
+        but delete the data of specific users when they request you to
+        do so proceed as follows:<br>
+      </p>
+      <ol>
+        <li>Visit the <b>Autolinks -&gt; Tracking</b> menu</li>
+        <li>Enter the IP address of the user for which you want to
+          delete the personal data in the search field and click the
+          search button<br>
+        </li>
+        <li>Use the trash button to delete the records associated with
+          the clicks of the user<br>
+        </li>
+      </ol>
+      <ul>
+      </ul>
+      <h4
+id="which-links-are-considered-internal-links-in-a-site-of-a-wordpress-network"><span
+          style="font-weight: bold;">Which versions of PHP are
+          supported?</span><br>
+      </h4>
+      <p>PHP 5.3 and later versions are supported.</p>
+      <h4
+id="which-links-are-considered-internal-links-in-a-site-of-a-wordpress-network"><span
+          style="font-weight: bold;">Which versions of WordPress are
+          supported?</span><br>
+      </h4>
+      <p>WordPress 4.5 and later versions are supported.</p>
+      <hr class="space"> </div>
+    <!-- end div .container -->
+  </body>
+</html>

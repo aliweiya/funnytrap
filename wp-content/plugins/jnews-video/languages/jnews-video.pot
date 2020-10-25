@@ -1,0 +1,1746 @@
+# Copyright (C) 2020 JNews Video
+# This file is distributed under the same license as the JNews Video package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Video\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-video/class/class-init.php:160
+msgid "My Channel"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:165
+msgid "Favorite Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:170, wordpress/jnews-video/class/helper.php:92, wordpress/jnews-video/class/objects/class-playlist.php:64
+msgid "Watch Later"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:175
+msgid "Watch History"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:195, wordpress/jnews-video/class/frontend/class-frontend-video.php:71, wordpress/jnews-video/class/objects/class-playlist.php:1090
+msgid "You must login to do this thing!"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:372, wordpress/jnews-video/class/class-init.php:474, wordpress/jnews-video/class/class-init.php:539, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:57
+msgid "Show Time Duration"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:373, wordpress/jnews-video/class/class-init.php:475, wordpress/jnews-video/class/class-init.php:540, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:58
+msgid "Show time duration on your block"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:392, wordpress/jnews-video/class/class-init.php:485, wordpress/jnews-video/class/class-init.php:554, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:66, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:196
+msgid "Choose Post Meta Style"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:393, wordpress/jnews-video/class/class-init.php:486, wordpress/jnews-video/class/class-init.php:555, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:67, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:197
+msgid "Choose which post meta style that fit with your block."
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:395, wordpress/jnews-video/class/class-init.php:489, wordpress/jnews-video/class/class-init.php:558, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:71, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:201
+msgid "Style 1"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:396, wordpress/jnews-video/class/class-init.php:490, wordpress/jnews-video/class/class-init.php:559, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:72, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:202
+msgid "Style 2"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:415, wordpress/jnews-video/class/class-init.php:500, wordpress/jnews-video/class/class-init.php:573, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:78, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:209
+msgid "Show Avatar"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:416, wordpress/jnews-video/class/class-init.php:501, wordpress/jnews-video/class/class-init.php:574
+msgid "Show avatar on the post meta. (Video Block)"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:440, wordpress/jnews-video/class/class-init.php:511, wordpress/jnews-video/class/class-init.php:588, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:91, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:222
+msgid "Show More Menu"
+msgstr ""
+
+#: wordpress/jnews-video/class/class-init.php:441, wordpress/jnews-video/class/class-init.php:512, wordpress/jnews-video/class/class-init.php:589, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:92, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:223
+msgid "Show more menu on block."
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:88, wordpress/jnews-video/class/objects/class-playlist.php:69
+msgid "Favorite"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:104
+msgid "Add to playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:106, wordpress/jnews-video/class/objects/class-playlist.php:247
+msgid "New Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:366
+msgid "Facebook"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:371
+msgid "Twitter"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:376
+msgid "Google+"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:381
+msgid "Linked In"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:386
+msgid "Pinterest"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:391
+msgid "Tumblr"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:396
+msgid "StumbleUpon"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:401
+msgid "WhatsApp"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:406
+msgid "E-mail"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:411
+msgid "VK"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:416
+msgid "Reddit"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:421, wordpress/jnews-video/class/helper.php:426
+msgid "WeChat"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:431
+msgid "Telegram"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:436
+msgid "Line"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:441
+msgid "Hatena"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:447
+msgid "QR Code"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:455
+msgid "Share"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:518, wordpress/jnews-video/class/buddypress/class-buddypress.php:95, wordpress/jnews-video/class/buddypress/class-buddypress.php:386
+msgid "Subscribe"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:527, wordpress/jnews-video/class/buddypress/class-buddypress.php:395
+msgid "Unsubscribe"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:666
+msgid "Select Visibility"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:669, wordpress/jnews-video/class/buddypress/class-buddypress-menu.php:118
+msgid "Public"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:673, wordpress/jnews-video/class/buddypress/class-buddypress-menu.php:127
+msgid "Private"
+msgstr ""
+
+#: wordpress/jnews-video/class/helper.php:762
+msgid "edit playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/buddypress/class-buddypress-menu.php:99, wordpress/jnews-video/class/objects/class-playlist.php:241, wordpress/jnews-video/class/objects/class-playlist.php:242, wordpress/jnews-video/class/objects/class-playlist.php:243, wordpress/jnews-video/class/playlist/class-single-playlist.php:117
+msgid "Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/buddypress/class-buddypress-menu.php:106
+msgid "Home"
+msgstr ""
+
+#: wordpress/jnews-video/class/buddypress/class-buddypress-menu.php:137
+msgctxt "Member profile view"
+msgid "View"
+msgstr ""
+
+#: wordpress/jnews-video/class/buddypress/class-buddypress-menu.php:193
+msgid "About"
+msgstr ""
+
+#: wordpress/jnews-video/class/buddypress/class-buddypress.php:103
+msgid "Add Friend"
+msgstr ""
+
+#: wordpress/jnews-video/class/buddypress/class-buddypress.php:567
+msgid "BuddyPress Single Member Home"
+msgstr ""
+
+#: wordpress/jnews-video/class/category/class-video-option-category.php:32
+msgid "Media Settings"
+msgstr ""
+
+#: wordpress/jnews-video/class/category/class-video-option-category.php:58
+msgid "Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:70
+msgid "BuddyPress Member"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:75
+msgid "BuddyPresss"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:92, wordpress/jnews-video/class/customizer/class-video-customizer.php:98
+msgid "Single Post Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:108
+msgid "Single Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:179
+msgid "JNews : Video Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:180
+msgid "JNews video setting."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:193
+msgid "BuddyPress Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:203
+msgid "Single Post Video Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:213, wordpress/jnews-video/class/customizer/class-video-customizer.php:223
+msgid "Single Playlist Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/class-video-customizer.php:233
+msgid "History Template Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video-endpoint.php:53
+msgid "Upload New Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video-endpoint.php:58
+msgid "My Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video-endpoint.php:213
+msgid "Edit Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video-endpoint.php:217
+msgid "Upload "
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video-endpoint.php:269
+msgid "Upload Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:100
+msgid "Provider is not supported"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:107, wordpress/jnews-video/class/frontend/class-frontend-video.php:115, wordpress/jnews-video/class/objects/class-playlist.php:1207
+msgid "Internal Server Error!"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:162, wordpress/jnews-video/class/frontend/class-frontend-video.php:167
+msgid "Post not found!"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:171, wordpress/jnews-video/class/objects/class-playlist.php:1242, wordpress/jnews-video/class/objects/class-playlist.php:1316, wordpress/jnews-video/class/objects/class-playlist.php:1368, wordpress/jnews-video/class/objects/class-playlist.php:1434
+msgid "User %s is not the owner!"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:176
+msgid "Post title cannot be empty"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:193
+msgid "Video cannot be empty"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:197
+msgid "URL or embed code is not supported"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:339
+msgid "Post updated successfully"
+msgstr ""
+
+#: wordpress/jnews-video/class/frontend/class-frontend-video.php:341
+msgid "Your post has submitted for review"
+msgstr ""
+
+#: wordpress/jnews-video/class/metabox/post-single-video.php:11, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:274
+msgid "Duration"
+msgstr ""
+
+#: wordpress/jnews-video/class/metabox/post-single-video.php:12, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:276
+msgid "Human-read time value, ex. mm:ss."
+msgstr ""
+
+#: wordpress/jnews-video/class/metabox/post-single-video.php:17, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:224
+msgid "3 Second Video Preview"
+msgstr ""
+
+#: wordpress/jnews-video/class/metabox/post-single-video.php:18
+msgid "Upload 3 Second Video Preview. Only Support WEBP format."
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-history.php:85
+msgid "History"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:244
+msgid "Add New"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:245, wordpress/jnews-video/fragment/playlist/playlist-create.php:4
+msgid "Add New Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:246, wordpress/jnews-video/fragment/playlist/playlist-edit.php:8
+msgid "Edit Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:248
+msgid "All Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:249
+msgid "View Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:250
+msgid "Search Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:251
+msgid "No Playlist found"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:252
+msgid "No Playlist in Trash"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:254
+msgid "Playlist Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:255
+msgid "Set Playlist Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:256
+msgid "Remove Playlist Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:257
+msgid "Use as Playlist Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:258
+msgid "Playlist Attributes"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:259
+msgid "Filter Playlist list"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:260
+msgid "Playlist list navigation"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:261
+msgid "Playlist list"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:326
+msgid "%s is empty"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:388, wordpress/jnews-video/class/objects/class-playlist.php:390, wordpress/jnews-video/class/single/class-single-post-video.php:177, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:248, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:248, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:149, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:149
+msgid "Show More"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:389, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:248, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:149
+msgid "Loading..."
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:631, wordpress/jnews-video/class/objects/class-playlist.php:949
+msgid "Playlist not found!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:677, wordpress/jnews-video/class/objects/class-playlist.php:1225, wordpress/jnews-video/class/objects/class-playlist.php:1295
+msgid "Playlist ID not set!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:693, wordpress/jnews-video/class/objects/class-playlist.php:1360
+msgid "Playlist name cannot be empty"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:730
+msgid "Your playlist has been created"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1050
+msgid "Could not delete playlist posts!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1116
+msgid "Added to %s"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1123, wordpress/jnews-video/class/objects/class-playlist.php:1174
+msgid "Added to playlist %s"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1147
+msgid "Removed from playlist %s"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1168, wordpress/jnews-video/class/objects/class-playlist.php:1239, wordpress/jnews-video/class/objects/class-playlist.php:1312, wordpress/jnews-video/class/objects/class-playlist.php:1364, wordpress/jnews-video/class/objects/class-playlist.php:1430
+msgid "Playlist with id %s not found!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1228, wordpress/jnews-video/class/objects/class-playlist.php:1298
+msgid "Post ID not set!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1250
+msgid "Post not exists!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1255
+msgid "Post type not allowed!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1276
+msgid "Could not insert into the playlist!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1335, wordpress/jnews-video/class/objects/class-playlist.php:1440
+msgid "Could not delete playlist post!"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1403
+msgid "Playlist updated successfully"
+msgstr ""
+
+#: wordpress/jnews-video/class/objects/class-playlist.php:1446
+msgid "Playlist deleted"
+msgstr ""
+
+#: wordpress/jnews-video/class/playlist/class-playlist-archive.php:72, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:233, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:134
+msgid "Prev"
+msgstr ""
+
+#: wordpress/jnews-video/class/playlist/class-playlist-archive.php:73, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:234, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:240, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:135, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:141
+msgid "Next"
+msgstr ""
+
+#: wordpress/jnews-video/class/single/class-single-post-video.php:631
+msgid "Category:"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/buddypress-template.php:3
+msgid "BuddyPress Template"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/profile-template.php:43
+msgid "Member primary navigation"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/list-video.php:42
+msgid "Sort by latest"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/list-video.php:44
+msgid "Sort by older"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/list-video.php:48
+msgid "Showing %1$s-%2$s of %3$s post results"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/list-video.php:79
+msgid "Edit Post"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/list-video.php:82
+msgid "View Post"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/list-video.php:107
+msgid "No Content Available"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-form.php:34
+msgid "Choose Video"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-form.php:57
+msgid "Add Media"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-form.php:59
+msgid "Insert"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:40, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:79
+msgid "Embed Video"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:44, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:178, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:228
+msgid "Browse File"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:74
+msgid "Insert video url or embed code"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:82
+msgid "e.g.: https://www.youtube.com/watch?v=SAID1iaq0KI"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:85
+msgid "Supported Video:"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:104
+msgid "Enter title here"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:112
+msgid "Enter subtitle here"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:120
+msgid "Post Content"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:143
+msgid "Source"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:145
+msgid "Source name"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:149
+msgid "Insert source url link"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:156
+msgid "Via"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:158
+msgid "Via name"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:162
+msgid "Insert via url link"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:174
+msgid "Featured Image"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:182, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:232
+msgid "Get From URL"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:215, wordpress/jnews-video/fragment/frontend-submit/upload-video.php:266
+msgid "Insert image url"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:284
+msgid "Categories"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:336
+msgid "Type a category"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:348
+msgid "Primary Category"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:400
+msgid "Choose primary category"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:411
+msgid "Tags"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/frontend-submit/upload-video.php:463
+msgid "Type a tag"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/history/history-login.php:6
+msgid "Keep track of what you watch"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/history/history-login.php:9
+msgid "Watch history isn't viewable when signed out."
+msgstr ""
+
+#: wordpress/jnews-video/fragment/history/history-login.php:13
+msgid "Login"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/meta-playlist.php:19
+msgid "Created by"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/meta-playlist.php:26, wordpress/jnews-video/class/module/element/class.jnews-category-module-view.php:89, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:201, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-view.php:51
+msgid "Videos"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/option-playlist.php:28
+msgid "Edit"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/option-playlist.php:33, wordpress/jnews-video/fragment/playlist/playlist-edit.php:91, wordpress/jnews-video/fragment/playlist/playlist-edit.php:93
+msgid "Delete"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-content-item.php:34, wordpress/jnews-video/fragment/playlist/playlist-content-loop.php:52
+msgid "Added"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-content-item.php:46, wordpress/jnews-video/fragment/playlist/playlist-content-loop.php:65
+msgid "Remove"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-content-loop.php:78
+msgid "Playlist is empty"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-content.php:49
+msgid "List Videos"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-create.php:12, wordpress/jnews-video/fragment/playlist/playlist-edit.php:35
+msgid "Playlist Name"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-create.php:26, wordpress/jnews-video/fragment/playlist/playlist-create.php:28, wordpress/jnews-video/fragment/playlist/playlist-edit.php:64, wordpress/jnews-video/fragment/playlist/playlist-edit.php:66
+msgid "Save"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-create.php:27, wordpress/jnews-video/fragment/playlist/playlist-edit.php:65, wordpress/jnews-video/fragment/playlist/playlist-edit.php:92
+msgid "Processing . . ."
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-edit.php:37
+msgid "Enter name here"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-edit.php:44
+msgid "Description"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-edit.php:51
+msgid "Visibility"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/playlist/playlist-edit.php:75
+msgid "Delete Playlist ?"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/post/single-post-header.php:26, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:105, wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:141, wordpress/jnews-video/class/module/carousel/class-video-carousel-view-abstract.php:107, wordpress/jnews-video/class/module/carousel/class-video-carousel-view-abstract.php:139
+msgid "Views"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/post/single-post-meta.php:29
+msgid "Subscriber"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:45
+msgid "History Page Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:53
+msgid "Page Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:54
+msgid "Choose your page layout."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:77
+msgid "History Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:78
+msgid "Choose your history sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:101
+msgid "Second History Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:102
+msgid "Choose your second sidebar for history page. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:125
+msgid "History Sticky Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:126
+msgid "Enable sticky sidebar on history result page."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:147
+msgid "History Content"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:155
+msgid "History Content Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:156
+msgid "Choose your history content layout."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:181
+msgid "Enable Boxed"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:182
+msgid "This option will turn the module into boxed."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:212, wordpress/jnews-video/class/customizer/sections/archive-history-option.php:248
+msgid "Enable Shadow"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:213, wordpress/jnews-video/class/customizer/sections/archive-history-option.php:249
+msgid "Enable shadow on the module template."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:279
+msgid "Posts Per Page"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:280
+msgid "Number of posts per page."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:308
+msgid "Excerpt Length"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:309
+msgid "Set the word length of excerpt on post."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:337
+msgid "Content Date Format"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:338
+msgid "Choose which date format you want to use for history for content."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:341, wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:321
+msgid "Relative Date/Time Format (ago)"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:342, wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:322
+msgid "WordPress Default Format"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:343, wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:323
+msgid "Custom Format"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:367
+msgid "Custom Date Format for Content"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:370
+msgid ""
+"Please set custom date format for post content. For more detail about this format, please refer to\n"
+"								<a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:408, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:227, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:180
+msgid "Choose Pagination Mode"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:409, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:228, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:181
+msgid "Choose which pagination mode that fit with your block."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:412, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:234, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:187
+msgid "Load More"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/archive-history-option.php:413, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:235, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:188
+msgid "Auto Load on Scroll"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:10, wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:56
+msgid "Attention"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:12
+msgid ""
+"<ul>\n"
+"                    <li>Please activate BuddyPress to see the option</li>\n"
+"                </ul>"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:26
+msgid "BuddyPress Template & Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:34
+msgid "BuddyPress User & Group Page Template"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:35
+msgid "Choose your BuddyPress user and group page template."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:53
+msgid "BuddyPress Page Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:54
+msgid "Choose your BuddyPress page layout."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:74
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:75
+msgid "Choose your BuddyPress sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:101
+msgid "BuddyPress Members Navigation"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/buddypress-option.php:102
+msgid "Choose BuddyPress menu for members navigation"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/search-option.php:12
+msgid "Only Video Post"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/search-option.php:13
+msgid "Enable this feature to only search video post."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:47, wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:55
+msgid "Single Playlist Template"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:56
+msgid "Choose your single playlist template."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:71
+msgid "Single Playlist Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:72
+msgid "Choose your single playlist layout."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:92
+msgid "Single Playlist Element"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:100
+msgid "Show Featured Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:101
+msgid "Show featured image single playlist."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:110
+msgid "Show Playlist Meta"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:111
+msgid "Show playlist meta on playlist aside."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:123
+msgid "Show Playlist Author"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:124
+msgid "Show playlist author on playlist meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:138
+msgid "Show Playlist Author Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:139
+msgid "Show playlist author image on playlist meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:160
+msgid "Show Video Counter"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:161
+msgid "Show or hide video counter"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:175
+msgid "Show Playlist Meta Option"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:176
+msgid "Show playlist meta option on playlist aside."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:189, wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:620
+msgid "Show Subscribe Button"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:190
+msgid "Show subscribe button on option container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:210
+msgid "Show Follower Counter"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:211
+msgid "Show follower counter on subscribe button"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:233
+msgid "Show Share Button"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:234
+msgid "Show share button on option container"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:248
+msgid "Show More Option"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-playlist-option.php:249
+msgid "Show more option on option container ( Logged-in user)"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:58
+msgid ""
+"<ul>\n"
+"                    <li>Single Video Post template overrided by Auto Load Post Option, Please use option on Auto Load Post Instead </li>                    \n"
+"                </ul>"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:74
+msgid "Override Single Video Post Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:75
+msgid "Override single video post setting."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:82, wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:93
+msgid "Single Video Post Template"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:94
+msgid "Choose your single video post template."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:112
+msgid "Single Video Post Layout"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:113
+msgid "Choose your single video post layout."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:137
+msgid "Enable Content Truncate"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:138
+msgid "Turn this option on to enable content truncate"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:168
+msgid "Single Video Post Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:169
+msgid "Choose your single video post sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:199
+msgid "Second Single Video Post Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:200
+msgid "Choose your single video post sidebar for the second sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:222
+msgid "Single Video Post Sticky Sidebar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:223
+msgid "Enable sticky sidebar on single video post page."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:248
+msgid "Single Video Post Element"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:259
+msgid "Show Featured Image/Video"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:260
+msgid "Show featured image or video on single video post."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:272
+msgid "Show Video Post Meta Header"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:273
+msgid "Show video post meta on post header."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:288
+msgid "Show View Counter"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:289
+msgid "Show or hide view counter"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:303
+msgid "Show Video Post Date"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:304
+msgid "Show video post date on video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:318
+msgid "Video Post Date Format"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:319
+msgid "Choose which date format you want to use for single video post meta."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:346
+msgid "Show Video Post Relative Date"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:347
+msgid "Show video post relative date on video post meta header."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:362
+msgid "Show Like Button"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:363
+msgid "Adjust the post like button on post meta header."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:365
+msgid "Like + Dislike"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:366
+msgid "Only Like"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:367
+msgid "Hide All"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:389
+msgid "Show Zoom Button"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:390
+msgid "Show zoom button on the video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:404
+msgid "Number of Zoom Out Step"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:405
+msgid "Set the number of zoom out step to limit when zoom out button clicked."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:432
+msgid "Number of Zoom In Step"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:433
+msgid "Set the number of zoom in step to limit when zoom in button clicked."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:460
+msgid "Show Comment Button"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:461
+msgid "Show comment button on video post meta header."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:475
+msgid "Show Video Post Meta"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:476
+msgid "Show video post meta on post content."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:491
+msgid "Show Video Post Author"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:492
+msgid "Show video post author on video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:506
+msgid "Show Video Post Author Image"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:507
+msgid "Show video post author image on video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:529
+msgid "Show Subscribe Counter"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:530
+msgid "Show subscribe counter on video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:544
+msgid "Custom Date Format"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:547
+msgid ""
+"Please set custom date format for single video post meta. For more detail about this format, please refer to\n"
+"                                <a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:582
+msgid "Show Reading Time"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:583
+msgid "Show estimate reading time on video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:597
+msgid "Words Per Minute"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:598
+msgid "Set the average reading speed for the user."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:621
+msgid "Show subscribe button on video post meta container."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:636
+msgid "Show Category"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:637
+msgid "Show video post category ( below article )."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:649
+msgid "Show Video Post Tag"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:650
+msgid "Show single video post tag (below article)."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:671
+msgid "Show Prev / Next Post"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:672
+msgid "Show previous or next post navigation (below article)."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:693
+msgid "Show Popup Post"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:694
+msgid "Show bottom right popup post widget."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:715
+msgid "Number of Popup Post"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:716
+msgid "Set the number of post to show when popup post appear."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:747
+msgid "Show Author Box"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:748
+msgid "Show author box (below article)."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:769
+msgid "Show Reading Progress Bar"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:770
+msgid "Show reading progress bar on single video post."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:791
+msgid "Progress Bar Position"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:792
+msgid "Choose the position of reading progress bar on single video post."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:794
+msgid "Top"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:795
+msgid "Bottom"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:823
+msgid "Progress Bar Color"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:824
+msgid "Set color for the progress bar."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:845
+msgid "Single Thumbnail Setting"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:856
+msgid "Post Thumbnail Size"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:857
+msgid "Choose your post's single image thumbnail size. You can also override this behaviour on your single post editor."
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:860
+msgid "No Crop"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:861
+msgid "Crop 1/2 Dimension"
+msgstr ""
+
+#: wordpress/jnews-video/class/customizer/sections/single-post-video-option.php:862
+msgid "Crop Default Dimension"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:53
+msgid "General"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:79, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:210
+msgid "Show avatar on the post meta."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:100
+msgid "Use Normal Image Load"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:101
+msgid "Force to use the normal image load for this block."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:114, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:127, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:140, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:152, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:164, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:172, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:179, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:190, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:197, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:204, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:65, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:78, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:91, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:103, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:115, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:123, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:130, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:141, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:148, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:155, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:81, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:94, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:107, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:119, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:131, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:139, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:146, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:157, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:164, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:171, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:32, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:45, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:58, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:70, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:82, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:90, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:97, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:108, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:115, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:122, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:123, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:136, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:149, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:161, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:173, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:181, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:188, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:199, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:206, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:213
+msgid "Header"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:115, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:66, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:82, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:33, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:124, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:31
+msgid "Choose Data Type"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:116, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:67, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:83, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:34, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:125, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:32
+msgid "Choose data for this block."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:119, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:70, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:86, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:37, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:128, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:35
+msgid "User data"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:120, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:71, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:87, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:38, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:129, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:36
+msgid "Custom data"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:128, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:79, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:95, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:46, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:137, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:43
+msgid "Choose The User"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:129, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:80, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:96, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:47, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:138, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:44
+msgid "Choose user that will be use as icon and title."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:141, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:92, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:108, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:59, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:150, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:55
+msgid "Header Icon"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:142, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:93, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:109, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:60, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:151, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:56
+msgid "Choose an image for this block icon (recommend to use a square image)."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:153, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:104, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:120, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:71, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:162, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:66
+msgid "Title"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:154, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:166, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:105, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:117, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:121, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:133, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:72, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:84, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:163, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:175, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:67, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:78
+msgid "Main title of Module Block."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:165, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:116, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:132, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:83, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:174, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:77
+msgid "Section"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:173, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:124, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:140, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:91, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:182, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:84
+msgid "Subtitle"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:174, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:125, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:141, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:92, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:183, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:85
+msgid "Subtitle of Module Block."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:180, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:131, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:147, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:98, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:189, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:90
+msgid "Title URL"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:181, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:132, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:148, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:99, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:190, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:91
+msgid "Insert URL of heading title."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:191, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:142, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:158, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:109, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:200, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:100
+msgid "Section URL"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:192, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:143, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:159, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:110, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:201, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:101
+msgid "Insert URL of heading section."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:198, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:149, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:165, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:116, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:207, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:106
+msgid "Enable Follow Button"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:199, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:150, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:166, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:117, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:208, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:107
+msgid "Check this option to enable follow button."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:205, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:156, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:172, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:123, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:214, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:112
+msgid "Choose The User to Follow"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:207, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:158, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:174, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:125, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:216, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:114
+msgid "Choose user that will be followed and make sure you already install <a href='%s' target='_blank'>BuddyPress Follow</a> plugin."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:229, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:243, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:255, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:268, wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:283, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:37, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:182, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:196, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:208, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:221, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:236, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:38
+msgid "Pagination"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:232, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:185
+msgid "No Pagination"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:233, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:186
+msgid "Next Prev"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:241, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:194
+msgid "Show Navigation Text"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:242, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:195
+msgid "Show Next/Prev text in the navigation controls."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:253, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:35, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:206, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:36
+msgid "Move Nav on Header"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:254, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:36, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:207, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:37
+msgid "Check this option to move navigation to the header and it will disable Navigation Text."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:266, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:219
+msgid "Pagination Post"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:267, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:220
+msgid "Number of Post loaded during pagination request."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:281, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:234
+msgid "Auto Load Limit"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:282, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:235
+msgid "Limit of auto load when scrolling, set to zero to always load until end of content."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:306, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:180
+msgid "Show Base on BuddyPress Member"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:307, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:181
+msgid "Show post for this module base on BuddyPress member page."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:308, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:182, wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:195, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:146, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:159, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:168, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:101, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:110
+msgid "Content Filter"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:327, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:254
+msgid "Title Typography"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:328, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:255
+msgid "Set typography for post title"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:337, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:264
+msgid "Meta Typography"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-option-abstract.php:338, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:265
+msgid "Set typography for post meta"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class-video-block-view-abstract.php:239, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-view.php:140
+msgid "Previous"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class.jnews-video-block-1-option.php:14
+msgid "JNews - Video Block 1"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class.jnews-video-block-1-option.php:18, wordpress/jnews-video/class/module/block/class.jnews-video-block-2-option.php:18, wordpress/jnews-video/class/module/block/class.jnews-video-block-3-option.php:19, wordpress/jnews-video/class/module/block/class.jnews-video-block-4-option.php:18
+msgid "JNews - Module"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class.jnews-video-block-2-option.php:14
+msgid "JNews - Video Block 2"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class.jnews-video-block-3-option.php:15
+msgid "JNews - Video Block 3"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/block/class.jnews-video-block-4-option.php:14
+msgid "JNews - Video Block 4"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:198, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:211, wordpress/jnews-video/class/module/carousel/class-video-carousel-option-abstract.php:225
+msgid "Settings"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-1-option.php:10
+msgid "JNews - Video Carousel 1"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-1-option.php:14, wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-2-option.php:14, wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-3-option.php:14, wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-4-option.php:14
+msgid "JNews - Carousel"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-2-option.php:10
+msgid "JNews - Video Carousel 2"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-3-option.php:10
+msgid "JNews - Video Carousel 3"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/carousel/class.jnews-video-carousel-4-option.php:10
+msgid "JNews - Video Carousel 4"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:10
+msgid "JNews - Category Carousel"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:14, wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:17, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:14, wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:18
+msgid "JNews - Element"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:28, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:28
+msgid "Show Nav"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:29, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:29
+msgid "Check this option to show navigation for your carousel."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:47, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:60
+msgid "Item Margin"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:48, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:61
+msgid "Set margin width for each slider item."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:57, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:71
+msgid "Enable Autoplay"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:58, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:72
+msgid "Check this option to enable auto play."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:63, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:78
+msgid "Autoplay Delay"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:64, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:79
+msgid "Set your autoplay delay (in millisecond)."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:193
+msgid "Choose filterable Category"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-category-module-option.php:194
+msgid "Choose which category you want to show on this module."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:13
+msgid "JNews - Playlist Block"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:144, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:99
+msgid "Choose filterable Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:145, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:100
+msgid "Choose which playlist you want to show on this module."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:157
+msgid "Author"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:158
+msgid "Choose which author you want to show on this module."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:166, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:108
+msgid "Number of Post"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-block-option.php:167, wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:109
+msgid "Show number of post on this module."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:10
+msgid "JNews - Playlist Carousel"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:49
+msgid "Number of Item"
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-playlist-carousel-option.php:50
+msgid "Set number of carousel item on each slide."
+msgstr ""
+
+#: wordpress/jnews-video/class/module/element/class.jnews-video-header-option.php:14
+msgid "JNews - Header Video"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:64
+msgid "Groups directory main navigation"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:67
+msgid "All Groups %s"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:72
+msgid "My Groups %s"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:90
+msgid "Groups directory secondary navigation"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:105, wordpress/jnews-video/fragment/buddypress/members/single/blogs.php:20, wordpress/jnews-video/fragment/buddypress/members/single/friends.php:25, wordpress/jnews-video/fragment/buddypress/members/single/groups.php:25
+msgid "Order By:"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:108, wordpress/jnews-video/fragment/buddypress/members/single/blogs.php:22, wordpress/jnews-video/fragment/buddypress/members/single/friends.php:27, wordpress/jnews-video/fragment/buddypress/members/single/groups.php:27
+msgid "Last Active"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:109, wordpress/jnews-video/fragment/buddypress/members/single/groups.php:28
+msgid "Most Members"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:110, wordpress/jnews-video/fragment/buddypress/members/single/groups.php:29
+msgid "Newly Created"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:111, wordpress/jnews-video/fragment/buddypress/members/single/blogs.php:24, wordpress/jnews-video/fragment/buddypress/members/single/friends.php:29, wordpress/jnews-video/fragment/buddypress/members/single/groups.php:30
+msgid "Alphabetical"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/groups/index.php:130
+msgid "Groups directory"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/playlist/playlist-private.php:16
+msgid "Private Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/playlist/playlist-public.php:14
+msgid "Public Playlist"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/single/after-header.php:10
+msgid "active %s"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/single/group-header.php:52
+msgid "Group Admins"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/single/group-header.php:74
+msgid "Group Mods"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/groups/single/home.php:44
+msgid "Group primary navigation"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/members/single/activity.php:13, wordpress/jnews-video/fragment/buddypress/members/single/blogs.php:13, wordpress/jnews-video/fragment/buddypress/members/single/friends.php:13, wordpress/jnews-video/fragment/buddypress/members/single/groups.php:13, wordpress/jnews-video/fragment/buddypress/members/single/messages.php:13, wordpress/jnews-video/fragment/buddypress/members/single/notifications.php:13, wordpress/jnews-video/fragment/buddypress/members/single/plugins.php:23, wordpress/jnews-video/fragment/buddypress/members/single/profile.php:13, wordpress/jnews-video/fragment/buddypress/members/single/settings.php:13
+msgid "Member secondary navigation"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/members/single/activity.php:19
+msgid "Show:"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/members/single/activity.php:21
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/members/single/blogs.php:23
+msgid "Newest"
+msgstr ""
+
+#: wordpress/jnews-video/fragment/buddypress/members/single/friends.php:28
+msgid "Newest Registered"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/friends.php:66
+msgid "My friends"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/friends.php:73
+msgid "Friends"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/groups.php:68
+msgid "My groups"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/groups.php:75
+msgid "Member's groups"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/messages.php:46
+msgid "Messages inbox"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/messages.php:53
+msgid "Sent Messages"
+msgstr ""
+
+#. translators: accessibility text
+#: wordpress/jnews-video/fragment/buddypress/members/single/messages.php:95
+msgid "Sitewide Notices"
+msgstr ""

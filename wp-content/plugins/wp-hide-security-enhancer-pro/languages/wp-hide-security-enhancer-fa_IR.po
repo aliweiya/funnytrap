@@ -1,0 +1,3441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Hide & Security Enhancer PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-23 01:24+0000\n"
+"PO-Revision-Date: 2020-06-23 01:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: compatibility/wp-simple-firewall.php:100
+msgid ""
+"<b>Conflict notice</b>: The Security Firewall - Login Protection use the "
+"Rename WP Login Page functionality which is the same as WP Hide - Admin "
+"Login Url change.  "
+msgstr ""
+
+#: include/admin-interface.class.php:48
+msgid ""
+"Are you sure to reset all settings? All options will be removed. Manual "
+"remove of rewrite lines is required if no access from php"
+msgstr ""
+"مطمئن هستید که همه تنظیمات را می خواهید ریست کنید ؟ همه گزینه هایی که وارد "
+"کرده اید حذف می شوند. در صورت عدم دسترسی از php ، حذف دستی خطوط بازنویسی شده "
+"ضروری است."
+
+#: include/admin-interface.class.php:303 include/admin-interface.class.php:325
+#: include/admin-interface.class.php:340
+msgid "Value"
+msgstr ""
+
+#: include/admin-interface.class.php:303 include/admin-interface.class.php:325
+#: include/admin-interface.class.php:340
+msgid "set for"
+msgstr ""
+
+#: include/admin-interface.class.php:303
+msgid "already in use for another option."
+msgstr ""
+
+#: include/admin-interface.class.php:325
+msgid "use the same base slug "
+msgstr ""
+
+#: include/admin-interface.class.php:325
+msgid "used for another option."
+msgstr ""
+
+#: include/admin-interface.class.php:340
+msgid "is a system reserved."
+msgstr ""
+
+#: include/admin-interface.class.php:652
+msgid ""
+"The following settings are being used as default for other sites in the "
+"network"
+msgstr ""
+
+#: include/admin-interface.class.php:728
+#: include/admin-interfaces/_licence.php:25
+msgid "Save"
+msgstr "ذخیره"
+
+#: include/admin-interface.class.php:1004
+msgid "Reset All Settings"
+msgstr "ریست کردن همه"
+
+#: include/admin-interface.class.php:1034
+msgid ""
+"Unable to launch WP Hide through mu-plugins/wp-hide-loader.php<br /> Please "
+"make sure this location is writable so the plugin create the required file, "
+"or manually copy the wp-hide-security-enhancer-pro/mu-loader/wp-hide-loader."
+"php to mu-plugins/wp-hide-loader.php."
+msgstr ""
+
+#: include/admin-interface.class.php:1039
+#: include/admin-interface.class.php:1310
+msgid ""
+"Unable to add required data to wp-config.php<br /> Please make sure this "
+"location is writable so the plugin append required data, or manually deploy "
+"the data specified withint Setup interface."
+msgstr ""
+
+#: include/admin-interface.class.php:1069
+msgid ""
+"Permalink is required to be turned ON for WP Hide & Security Enhancer to work"
+msgstr ""
+
+#: include/admin-interface.class.php:1075
+#: include/admin-interface.class.php:1305
+msgid "Unable to identify server type!"
+msgstr ""
+
+#: include/admin-interface.class.php:1075
+#: include/admin-interface.class.php:1305
+msgid "No rewrite is being applied."
+msgstr ""
+
+#: include/admin-interface.class.php:1081
+msgid "All Settings where restored to default"
+msgstr ""
+
+#: include/admin-interface.class.php:1122
+#: include/admin-interface.class.php:1347
+msgid "Settings saved"
+msgstr "تنظیمات شما ذخیره شد"
+
+#: include/admin-interface.class.php:1233
+msgid "Unable to write custom rules to your .htaccess. Is this file writable?"
+msgstr ""
+
+#: include/admin-interface.class.php:1235
+msgid ""
+"Unable to write custom rules to your web.config. Is this file writable? <br "
+"/>No mod is being applied."
+msgstr ""
+
+#: include/admin-interface.class.php:1241
+msgid ""
+"Self set-up is turned on, there will be no automated attempt to write data."
+msgstr ""
+
+#: include/admin-interface.class.php:1249
+msgid "Check Network Setup menu item for manual rewrite data deploy."
+msgstr ""
+
+#: include/admin-interface.class.php:1251
+msgid ""
+"Network Admin has been notified. He will manually deploy the rewrite data."
+msgstr ""
+
+#: include/admin-interface.class.php:1255
+msgid ""
+"Check Setup menu for instructions on how to deploy the rewrite rules on your "
+"server."
+msgstr ""
+
+#: include/admin-interface.class.php:1278
+msgid ""
+"Unable to automatically deploy the rewrite rules, manual action required! "
+"Check Setup menu for instructions on how to add the rewrite rules on your "
+"server."
+msgstr ""
+
+#: include/admin-interface.class.php:1372
+#: include/admin-interface.class.php:1377
+msgid "WP Hide & Security Enhancer Pro plugin is inactive, please enter your"
+msgstr "WP Hide & Security Enhancer نسخه حرفه ای هنوز فعال نشده است ! "
+
+#: include/admin-interface.class.php:1372
+#: include/admin-interface.class.php:1377
+msgid "Licence Key"
+msgstr "لطفا کد لایسنس خود را وارد نمایید"
+
+#: include/admin-interface.class.php:1372
+#: include/admin-interface.class.php:1377
+msgid "Specific functionality and updates are not available."
+msgstr ""
+"در صورت عدم فعالسازی افزونه ، امکان استفاده از امکانات افزونه و یا دریافت "
+"آپدیت را ندارید ."
+
+#: include/admin-interface.class.php:1446
+msgid "Invalid import data."
+msgstr ""
+
+#: include/admin-interface.class.php:1470
+msgid "Import data sucesfully processed."
+msgstr ""
+
+#: include/admin-interface.class.php:1504
+#: include/admin-interface.class.php:1592
+msgid "There was a problem connecting to "
+msgstr ""
+
+#: include/admin-interface.class.php:1544
+msgid "There was a problem deactivating the licence: "
+msgstr ""
+
+#: include/admin-interface.class.php:1571
+msgid "Licence Key can't be empty"
+msgstr ""
+
+#: include/admin-interface.class.php:1630
+msgid "There was a problem activating the licence: "
+msgstr ""
+
+#: include/class.environment.php:159
+msgid ""
+"<b>WP Hide</b> - Unable to create environment static file. The system "
+"returned the following error: "
+msgstr ""
+
+#: include/class.environment.php:170
+msgid "Unable to create environment data at "
+msgstr ""
+
+#: include/class.environment.php:170
+msgid "Is file writable"
+msgstr ""
+
+#: include/class.environment.php:170
+msgid "Check with Setup menu item or contact server administrator."
+msgstr ""
+
+#: include/class.environment.php:177
+msgid "will not work correctly, so where turned off."
+msgstr ""
+
+#: include/wph.class.php:937 include/wph.class.php:989
+msgid "Server busy, unable to lock. Try again later."
+msgstr ""
+
+#: modules/module-general_js.php:45
+msgid "General / JavaScript"
+msgstr "تنظیمات جاوا اسکریپت"
+
+#: modules/module-general_js.php:57
+msgid "WP Hide & Security Enhancer - General / JavaScript"
+msgstr "WP Hide & Security Enhancer - عمومی / جاوا اسکریپت"
+
+#: modules/module-general_css.php:45
+msgid "General / CSS"
+msgstr "تنظیمات CSS"
+
+#: modules/module-general_css.php:57
+msgid "WP Hide & Security Enhancer - General / CSS"
+msgstr "WP Hide & Security Enhancer - عمومی / CSS"
+
+#: modules/module-cdn.php:43
+msgid "CDN"
+msgstr "شبکه تحویل محتوا"
+
+#: modules/module-cdn.php:55
+msgid "WP Hide & Security Enhancer - CDN"
+msgstr "WP Hide & Security Enhancer - شبکه تحویل محتوا یا CDN"
+
+#: modules/module-admin.php:48
+msgid "Admin"
+msgstr "مدیریت"
+
+#: modules/module-admin.php:60
+msgid "WP Hide & Security Enhancer - Admin"
+msgstr ""
+"WP Hide & Security Enhancer - مدیریت\n"
+
+#: modules/module-general.php:72
+msgid "General / Html"
+msgstr "تنظیمات HTML"
+
+#: modules/module-general.php:84
+msgid "WP Hide & Security Enhancer - General / Html"
+msgstr "WP Hide & Security Enhancer - عمومی / HTML"
+
+#: modules/module-rewrite.php:83 modules/module-rewrite.php:94
+msgid "Rewrite"
+msgstr "بازنویسی"
+
+#: modules/module-rewrite.php:94
+msgid "WP Hide & Security Enhancer"
+msgstr "افزونه WP Hide & Security Enhancer نسخه حرفه ای "
+
+#: include/admin-interfaces/_setup.php:19
+msgid " WP Hide & Security Enhancer - Setup"
+msgstr " WP Hide & Security Enhancer - راه اندازی"
+
+#: include/admin-interfaces/_setup.php:24
+msgid "ReWrite"
+msgstr "بازنویسی"
+
+#: include/admin-interfaces/_setup.php:38
+#: include/admin-interfaces/_setup.php:46
+msgid "Add the following to your"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:38
+#: include/admin-interfaces/_setup.php:46
+msgid "file in"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:38
+msgid "<strong>above</strong> all other code"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:39
+msgid "Remove any existing rewrite rules within"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:39
+#: include/admin-interfaces/_setup.php:76
+#: modules/components/general-html-css-js-replacements.php:33
+msgid "and"
+msgstr "و"
+
+#: include/admin-interfaces/_setup.php:47
+msgid ""
+"Remove any existing rewrite rules named <b>wph</b>, then add the following "
+"into &#x3C;rules&#x3E;, above any other rule."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:58
+msgid ""
+"Your site use WPEngine! You need to get in touch with live support and "
+"forward the following details:"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:59
+msgid ""
+"Ask the support representative to add the following Nginx rewrites to your "
+"account at \"before\" (not \"before-in-location\") spot! This can be for "
+"Staging or Production, depends on which the current site is deployed."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:60
+#: include/admin-interfaces/_setup.php:68
+msgid ""
+"Explicitly specify the rewrite code must be used as is, they are not "
+"redirects but re-mapping rules."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:66
+msgid ""
+"Your site use Kinsta! You need to get in touch with live support and forward "
+"the following details:"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:67
+msgid ""
+"Ask the support representative to add the following Nginx rewrites to your "
+"account! This can be for Staging or Production, depends on which the current "
+"site is deployed."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:75
+msgid "Add the following to your Nginx config file located usually at"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:76
+msgid "Replace any existing rewrite rules within"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:77
+msgid ""
+"The code can contain further instructions, those need followed. Read "
+"carefully the lines and make adjustments for any #REPLACE comment."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:78
+msgid "After config file updated"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:78
+msgid "Test"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:78
+msgid "the new data using "
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:78
+msgid "If successfully compile, restart the Nginx service."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:85
+msgid ""
+"There is no change in rewrite data, no additional action is necessarily."
+msgstr "تغییری در داده ها ایجاد نشده . پس نیاز نیست هیچ کار خاصی انجام بدین ."
+
+#: include/admin-interfaces/_setup.php:120
+#: include/admin-interfaces/_setup.php:135
+msgid "The following code need to be placed before"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:120
+#: include/admin-interfaces/_setup.php:135
+msgid "block."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:153
+msgid "Once all above steps completed, confirm throught the following button."
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:242
+msgid "Environment File"
+msgstr "Environment File - فایل محیط ( تعریف مسیر ها )"
+
+#: include/admin-interfaces/_setup.php:260
+msgid "Add the following to "
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:260
+msgid "<strong>Replacing</strong> anything inside the file"
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:266
+msgid ""
+"The environment file contain correct data, no additional action is "
+"necessarily."
+msgstr "داده های فایل محیط کاملاصحیح هستند . نیاز به انجام هیچ کار خاصی نیست ."
+
+#: include/admin-interfaces/_setup.php:280
+msgid "Wp-config.php"
+msgstr "فایل Wp-config.php"
+
+#: include/admin-interfaces/_setup.php:290
+msgid "Add the following code to "
+msgstr ""
+
+#: include/admin-interfaces/_setup.php:290
+msgid ""
+"<strong>Replacing</strong> any existing lines betwen <strong># START WP Hide "
+"& Security Enhancer</strong> and <strong># END WP Hide & Security "
+"Enhancer</strong>"
+msgstr ""
+"<strong>جایگزینی</strong> خطوط موجود بین  <strong># START WP Hide & Security "
+"Enhancer</strong> و <strong># END WP Hide & Security Enhancer</strong>"
+
+#: include/admin-interfaces/_setup.php:296
+msgid ""
+"The wp-config.php file contain correct data, no additional action is "
+"necessarily."
+msgstr ""
+"داده های پرونده wp-config.php کاملا صحیح است ، نیاز به انجام هیچ کار خاصی "
+"نیست ."
+
+#: include/admin-interfaces/_licence.php:7
+#: include/admin-interfaces/_licence_deactivate.php:11
+msgid "Licence"
+msgstr "لایسنس"
+
+#: include/admin-interfaces/_licence.php:17
+#: include/admin-interfaces/_licence_deactivate.php:21
+msgid "License Key"
+msgstr "کد لایسنس"
+
+#: include/admin-interfaces/_licence.php:22
+msgid ""
+"Enter the Licence Key you received when purchased this product. If you lost "
+"the key, you can always retrieve it from"
+msgstr ""
+"لطفا در صورت خرید این افزونه از استور ژاکت ، یک تیکت با عنوان دریافت لایسنس "
+"و با ذکر دامنه خود ثبت نمایید و یا فقط نام دامنه + شماره سفارش خود را به "
+"شماره 50009991300137 پیامک نمایید و منتظر دریافت دریافت لایسنس از طریق پیامک "
+"بمانید . لایسنس شما نهایتا پس از 5 دقیقه از ثبت تیکت یا پیامک برای شما ارسال "
+"خواهد شد . پس لطفا از ارسال مکرر پیامک و یا پاسخ جدید به تیکت خودداری "
+"فرمایید . در مواقع ضروری نیز می توانید با شماره پشتیبانی تلفنی02191300137 به "
+"صورت 24 ساعته تماس حاصل فرمایید ."
+
+#: include/admin-interfaces/_licence.php:22
+#: include/admin-interfaces/_licence_deactivate.php:37
+msgid "My Account"
+msgstr ""
+"در صورت خرید از وب سایت WP-Hide نیز باید لایسنس خود را در پنل کاربری خود "
+"دریافت نمایید ."
+
+#: include/admin-interfaces/_licence_deactivate.php:28
+msgid "Local instance, no key required/applied."
+msgstr ""
+
+#: include/admin-interfaces/_licence_deactivate.php:34
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+#: include/admin-interfaces/_licence_deactivate.php:37
+msgid "You can generate more keys at "
+msgstr "آیا از وب سایت WP-Hide خرید کرده اید ؟ "
+
+#: include/admin-interfaces/_licence_deactivate.php:44
+msgid "License Status"
+msgstr "وضعیت لایسنس"
+
+#: include/admin-interfaces/_licence_deactivate.php:49
+msgid "License Expiration"
+msgstr ""
+
+#: include/admin-interfaces/_licence_deactivate.php:53
+msgid ""
+"Licence is expired, plugin <b>Updates</b> and <b>Support</b> are not "
+"available"
+msgstr ""
+
+#: include/admin-interfaces/_licence_deactivate.php:69
+msgid "New plugin version available"
+msgstr "ورژن جدید افزونه آماده آپدیت می باشد "
+
+#: include/admin-interfaces/_network_settings.php:25
+msgid "Network Settings"
+msgstr ""
+
+#: include/admin-interfaces/_network_settings.php:38
+#: include/admin-interfaces/_settings.php:43
+msgid "Export current settings"
+msgstr "برون بری تنظیمات افزونه"
+
+#: include/admin-interfaces/_network_settings.php:50
+#: include/admin-interfaces/_settings.php:55
+msgid "Import previously saved settings"
+msgstr "درون ریزی تنظیمات از قبل ذخیره شده "
+
+#: include/admin-interfaces/_network_settings.php:59
+#: include/admin-interfaces/_network_settings.php:74
+#: include/admin-interfaces/_settings.php:65
+#: include/admin-interfaces/_settings.php:83
+#: modules/components/general-js-combine.php:58
+#: modules/components/general-js-combine.php:84
+#: modules/components/general-oembed.php:26
+#: modules/components/general-admin-bar.php:57
+#: modules/components/rewrite-search.php:34 modules/components/cdn-setup.php:53
+#: modules/components/cdn-setup.php:75 modules/components/rewrite-slash.php:34
+#: modules/components/general-headers.php:30
+#: modules/components/general-headers.php:53
+#: modules/components/general-headers.php:75
+#: modules/components/rewrite-author.php:50
+#: modules/components/rewrite-root-files.php:31
+#: modules/components/rewrite-root-files.php:53
+#: modules/components/rewrite-root-files.php:76
+#: modules/components/rewrite-root-files.php:110
+#: modules/components/rewrite-root-files.php:132
+#: modules/components/rewrite-root-files.php:155
+#: modules/components/rewrite-root-files.php:178
+#: modules/components/rewrite-wp_includes_path.php:48
+#: modules/components/admin-new_wp_login_php.php:65
+#: modules/components/admin-new_wp_login_php.php:88
+#: modules/components/rewrite-json-rest.php:48
+#: modules/components/rewrite-json-rest.php:78
+#: modules/components/rewrite-json-rest.php:106
+#: modules/components/rewrite-json-rest.php:136
+#: modules/components/rewrite-json-rest.php:160
+#: modules/components/rewrite-json-rest.php:183
+#: modules/components/general-html.php:32
+#: modules/components/general-html.php:60
+#: modules/components/general-html.php:86
+#: modules/components/general-html.php:110
+#: modules/components/general-html.php:133
+#: modules/components/general-html.php:155
+#: modules/components/general-html.php:177
+#: modules/components/rewrite-wp_content_path.php:49
+#: modules/components/general-css-combine.php:51
+#: modules/components/general-css-combine.php:75
+#: modules/components/general-css-combine.php:98
+#: modules/components/general-feed.php:31
+#: modules/components/general-feed.php:51
+#: modules/components/admin-admin_url.php:50
+#: modules/components/rewrite-upload_path.php:48
+#: modules/components/rewrite-upload_path.php:72
+#: modules/components/general-scripts.php:32
+#: modules/components/general-tobots-txt.php:31
+#: modules/components/admin-admin_ajax_php.php:52
+#: modules/components/rewrite-comments.php:50
+#: modules/components/rewrite-xml-rpc-path.php:51
+#: modules/components/rewrite-xml-rpc-path.php:75
+#: modules/components/rewrite-xml-rpc-path.php:98
+#: modules/components/general-wpemoji.php:27
+#: modules/components/general-wpemoji.php:49
+#: modules/components/rewrite-plugin_path.php:47
+#: modules/components/general-meta.php:30
+#: modules/components/general-meta.php:54
+#: modules/components/general-meta.php:76
+#: modules/components/general-meta.php:98
+#: modules/components/general-meta.php:122
+#: modules/components/general-meta.php:145
+#: modules/components/general-meta.php:170
+#: modules/components/general-meta.php:197
+#: modules/components/general-meta.php:223
+#: modules/components/general-meta.php:247
+#: modules/components/general-meta.php:271
+#: modules/components/rewrite-theme_path.php:133
+#: modules/components/general-styles.php:28
+#: modules/components/general-styles.php:50
+#: modules/components/rewrite-registration.php:53
+#: modules/components/rewrite-registration.php:106
+msgid "No"
+msgstr "خیر"
+
+#: include/admin-interfaces/_network_settings.php:60
+#: include/admin-interfaces/_network_settings.php:75
+#: include/admin-interfaces/_settings.php:66
+#: include/admin-interfaces/_settings.php:84
+#: modules/components/general-js-combine.php:85
+#: modules/components/general-oembed.php:27
+#: modules/components/general-admin-bar.php:58
+#: modules/components/rewrite-search.php:35 modules/components/cdn-setup.php:54
+#: modules/components/cdn-setup.php:76 modules/components/rewrite-slash.php:35
+#: modules/components/general-headers.php:31
+#: modules/components/general-headers.php:54
+#: modules/components/general-headers.php:76
+#: modules/components/rewrite-author.php:51
+#: modules/components/rewrite-root-files.php:32
+#: modules/components/rewrite-root-files.php:54
+#: modules/components/rewrite-root-files.php:77
+#: modules/components/rewrite-root-files.php:111
+#: modules/components/rewrite-root-files.php:133
+#: modules/components/rewrite-root-files.php:156
+#: modules/components/rewrite-root-files.php:179
+#: modules/components/rewrite-wp_includes_path.php:49
+#: modules/components/admin-new_wp_login_php.php:66
+#: modules/components/admin-new_wp_login_php.php:89
+#: modules/components/rewrite-json-rest.php:49
+#: modules/components/rewrite-json-rest.php:79
+#: modules/components/rewrite-json-rest.php:107
+#: modules/components/rewrite-json-rest.php:137
+#: modules/components/rewrite-json-rest.php:161
+#: modules/components/rewrite-json-rest.php:184
+#: modules/components/general-html.php:33
+#: modules/components/general-html.php:87
+#: modules/components/general-html.php:111
+#: modules/components/general-html.php:134
+#: modules/components/general-html.php:156
+#: modules/components/general-html.php:178
+#: modules/components/rewrite-wp_content_path.php:50
+#: modules/components/general-css-combine.php:76
+#: modules/components/general-css-combine.php:99
+#: modules/components/general-feed.php:32
+#: modules/components/general-feed.php:52
+#: modules/components/admin-admin_url.php:51
+#: modules/components/rewrite-upload_path.php:49
+#: modules/components/rewrite-upload_path.php:73
+#: modules/components/general-scripts.php:33
+#: modules/components/general-tobots-txt.php:32
+#: modules/components/admin-admin_ajax_php.php:53
+#: modules/components/rewrite-comments.php:51
+#: modules/components/rewrite-xml-rpc-path.php:52
+#: modules/components/rewrite-xml-rpc-path.php:76
+#: modules/components/rewrite-xml-rpc-path.php:99
+#: modules/components/general-wpemoji.php:28
+#: modules/components/general-wpemoji.php:50
+#: modules/components/rewrite-plugin_path.php:48
+#: modules/components/general-meta.php:31
+#: modules/components/general-meta.php:55
+#: modules/components/general-meta.php:77
+#: modules/components/general-meta.php:99
+#: modules/components/general-meta.php:123
+#: modules/components/general-meta.php:146
+#: modules/components/general-meta.php:171
+#: modules/components/general-meta.php:198
+#: modules/components/general-meta.php:224
+#: modules/components/general-meta.php:248
+#: modules/components/general-meta.php:272
+#: modules/components/rewrite-theme_path.php:134
+#: modules/components/general-styles.php:29
+#: modules/components/general-styles.php:51
+#: modules/components/rewrite-registration.php:54
+#: modules/components/rewrite-registration.php:107
+msgid "Yes"
+msgstr "بله"
+
+#: include/admin-interfaces/_network_settings.php:64
+#: include/admin-interfaces/_settings.php:70
+msgid "Generate simple Rewrite Rules for Nginx."
+msgstr ""
+
+#: include/admin-interfaces/_network_settings.php:64
+#: include/admin-interfaces/_settings.php:70
+msgid ""
+"Not all servers runing Nginx can handle full Rewrite rules as recommended by "
+"developers at"
+msgstr ""
+
+#: include/admin-interfaces/_network_settings.php:64
+#: include/admin-interfaces/_settings.php:70
+msgid ""
+"When active, this option generate simple version. Generally a server works "
+"with either full or simple style rewrite rules."
+msgstr ""
+
+#: include/admin-interfaces/_network_settings.php:79
+#: include/admin-interfaces/_settings.php:88
+msgid "I'll set-up the rewrite data myself."
+msgstr ""
+"خودم بازنویسی داده ها را تنظیم می کنم . (اگر برنامه نویس حرفه ای نیستید حتما "
+"گزینه خیر را انتخاب کنید.)"
+
+#: include/admin-interfaces/_network_settings.php:79
+#: include/admin-interfaces/_settings.php:88
+msgid ""
+"Use this option if don`t want the application to attempt to modify rewrite "
+"data on your server and prefer to do that manually. The plugin try to "
+"automatically apply the rewrite when using mod_rewrite or IIS rewrite."
+msgstr ""
+"اگر ترجیح می دهید که بازنویسی داده ها را افزونه برای شما انجام ندهد و دستی "
+"این کار را انجام دهید ، گزینه ی بله را انتخاب کنید . افزونه به صورت خودکار  "
+"تلاش می کند تمام مواردی که نیاز به بازنویسی دارند را با استفاده از "
+"mod_rewrite و یا IIS rewrite انجام دهد . لطفا در صورتی که برنامه نویس حرفه "
+"ای نیستید این گزینه را روی خیر قرار دهید که افزونه به درستی عمل کنید ."
+
+#: include/admin-interfaces/_network_settings.php:97
+#: include/admin-interfaces/_settings.php:107
+msgid "Cache Status"
+msgstr "کش های ذخیره شده"
+
+#: include/admin-interfaces/_network_settings.php:98
+#: include/admin-interfaces/_settings.php:108
+msgid ""
+"The cache files consist on a collection of post-processed assets, used "
+"internally and being generated when using Css Combine or/and JavaScript "
+"Combine options."
+msgstr ""
+"این کش ها شامل تنظیماتی است که پس از تکمیل فرآیند بازنویسی های فایل های CSS "
+"و جاوا اسکریپت ، جهت عملکرد صحیح افزونه استفاده می شود . "
+
+#: include/admin-interfaces/_network_settings.php:98
+#: include/admin-interfaces/_settings.php:108
+msgid ""
+"The cache is NOT required to be cleared, unless the layout appear broken."
+msgstr ""
+"به \" هیچ وجه\" این کش را پاک نکنید ، مگر اینکه در ظاهر سایت خود به هم "
+"ریختگی مشاهده می کنید ."
+
+#: include/admin-interfaces/_network_settings.php:99
+#: include/admin-interfaces/_settings.php:109
+msgid "Cache size"
+msgstr "حجم کش های ذخیره شده"
+
+#: include/admin-interfaces/_network_settings.php:100
+#: include/admin-interfaces/_settings.php:110
+msgid "Cache Clear"
+msgstr "پاک کردن کش"
+
+#: include/admin-interfaces/_settings.php:14
+msgid "WP Hide & Security Enhancer - Settings"
+msgstr "WP Hide & Security Enhancer - تنظیمات"
+
+#: include/admin-interfaces/_settings.php:30
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: include/admin-interfaces/_settings.php:40
+msgid "Export Settings"
+msgstr "برون بری تنظیمات"
+
+#: include/admin-interfaces/_settings.php:52
+msgid "Import Settings"
+msgstr "درون ریزی تنظیمات"
+
+#: include/admin-interfaces/_settings.php:97
+msgid "save"
+msgstr "ذخیره"
+
+#: modules/components/general-js-combine.php:38
+msgid "Combine Processing type"
+msgstr "نوع پردازش Combine یا ترکیب"
+
+#: modules/components/general-js-combine.php:39
+msgid ""
+"All assets and inline JavaScript will be post-processed, using Combine or In-"
+"place technique."
+msgstr ""
+"کلیه دارایی ها و جاوا اسکریپت های درون خطی با استفاده از تکنیک Combine یا In-"
+"place ، پس از پردازش قرار خواهند گرفت ."
+
+#: modules/components/general-js-combine.php:42
+#: modules/components/general-js-combine.php:74
+#: modules/components/general-js-combine.php:99
+#: modules/components/general-js-combine.php:121
+#: modules/components/general-oembed.php:20
+#: modules/components/general-admin-bar.php:50
+#: modules/components/cdn-setup.php:20 modules/components/cdn-setup.php:46
+#: modules/components/cdn-setup.php:68 modules/components/rewrite-slash.php:20
+#: modules/components/general-headers.php:21
+#: modules/components/general-headers.php:45
+#: modules/components/general-headers.php:68
+#: modules/components/general-headers.php:90
+#: modules/components/rewrite-author.php:21
+#: modules/components/rewrite-author.php:43
+#: modules/components/rewrite-root-files.php:23
+#: modules/components/rewrite-root-files.php:46
+#: modules/components/rewrite-root-files.php:68
+#: modules/components/rewrite-root-files.php:102
+#: modules/components/rewrite-root-files.php:125
+#: modules/components/rewrite-root-files.php:148
+#: modules/components/rewrite-root-files.php:171
+#: modules/components/rewrite-wp_includes_path.php:21
+#: modules/components/rewrite-wp_includes_path.php:41
+#: modules/components/admin-new_wp_login_php.php:21
+#: modules/components/admin-new_wp_login_php.php:57
+#: modules/components/admin-new_wp_login_php.php:81
+#: modules/components/rewrite-json-rest.php:21
+#: modules/components/rewrite-json-rest.php:40
+#: modules/components/rewrite-json-rest.php:69
+#: modules/components/rewrite-json-rest.php:95
+#: modules/components/rewrite-json-rest.php:129
+#: modules/components/rewrite-json-rest.php:153
+#: modules/components/rewrite-json-rest.php:176
+#: modules/components/general-html.php:24
+#: modules/components/general-html.php:47
+#: modules/components/general-html.php:78
+#: modules/components/general-html.php:101
+#: modules/components/general-html.php:125
+#: modules/components/general-html.php:148
+#: modules/components/general-html.php:170
+#: modules/components/rewrite-wp_content_path.php:20
+#: modules/components/rewrite-wp_content_path.php:42
+#: modules/components/general-css-combine.php:37
+#: modules/components/general-css-combine.php:67
+#: modules/components/general-css-combine.php:90
+#: modules/components/general-feed.php:20
+#: modules/components/general-feed.php:44
+#: modules/components/admin-admin_url.php:23
+#: modules/components/admin-admin_url.php:43
+#: modules/components/rewrite-upload_path.php:21
+#: modules/components/rewrite-upload_path.php:40
+#: modules/components/rewrite-upload_path.php:64
+#: modules/components/general-scripts.php:20
+#: modules/components/general-tobots-txt.php:20
+#: modules/components/admin-admin_ajax_php.php:21
+#: modules/components/admin-admin_ajax_php.php:44
+#: modules/components/rewrite-comments.php:21
+#: modules/components/rewrite-comments.php:43
+#: modules/components/rewrite-xml-rpc-path.php:21
+#: modules/components/rewrite-xml-rpc-path.php:43
+#: modules/components/rewrite-xml-rpc-path.php:67
+#: modules/components/rewrite-xml-rpc-path.php:91
+#: modules/components/general-wpemoji.php:20
+#: modules/components/general-wpemoji.php:42
+#: modules/components/rewrite-plugin_path.php:21
+#: modules/components/rewrite-plugin_path.php:40
+#: modules/components/rewrite-plugin_path.php:121
+#: modules/components/general-meta.php:21
+#: modules/components/general-meta.php:45
+#: modules/components/general-meta.php:69
+#: modules/components/general-meta.php:91
+#: modules/components/general-meta.php:113
+#: modules/components/general-meta.php:138
+#: modules/components/general-meta.php:161
+#: modules/components/general-meta.php:188
+#: modules/components/general-meta.php:214
+#: modules/components/general-meta.php:238
+#: modules/components/general-meta.php:262
+#: modules/components/rewrite-theme_path.php:69
+#: modules/components/rewrite-theme_path.php:97
+#: modules/components/rewrite-theme_path.php:125
+#: modules/components/general-styles.php:20
+#: modules/components/general-styles.php:43
+#: modules/components/rewrite-registration.php:23
+#: modules/components/rewrite-registration.php:46
+#: modules/components/rewrite-registration.php:76
+#: modules/components/rewrite-registration.php:98
+msgid "Help"
+msgstr "راهنما"
+
+#: modules/components/general-js-combine.php:42
+msgid "Combine JavaScript Code"
+msgstr "ترکیب کد های جاوا اسکریپت - Combine JavaScript Code"
+
+#: modules/components/general-js-combine.php:43
+msgid ""
+"The module implement a post-processing engine, to provide additional "
+"functionality on JavaScript as Replacements."
+msgstr ""
+"این ماژول یک موتور پس از پردازش را پیاده سازی می کند تا عملکرد دیگری را در "
+"JavaScript به عنوان جایگزینی ارائه دهد."
+
+#: modules/components/general-js-combine.php:44
+msgid ""
+"If the site uses a plugin to concatenate/compress JavaScript files (e.g. "
+"cache plugin), this functionality may fail. Its recommended to turn off the "
+"other option to allow current to run correctly."
+msgstr ""
+"اگر سایت شما از یک افزونه برای جمع آوری / فشرده سازی پرونده های JavaScript "
+"(به عنوان مثال افزونه حافظه نهان یا موشک وردپرس) استفاده می کند ، ممکن است "
+"این عملکرد از کار بیفتد. توصیه می شود آنها را خاموش کنید تا جریان به درستی "
+"اجرا شود."
+
+#: modules/components/general-js-combine.php:46
+#: modules/components/general-css-combine.php:41
+msgid "There are two types of processing options:"
+msgstr "دو نوع گزینه برای پردازش وجود دارد:"
+
+#: modules/components/general-js-combine.php:47
+msgid ""
+"<b>Combine</b>: Merge all JavaScript code in (usually) 2 files, one in the "
+"header and another in the footer."
+msgstr ""
+"<b>Combine:</b>همه کدهای جاوا اسکریپت را در (معمولاً) 2 پرونده ادغام می کند "
+"، یکی در هدر و دیگری در فوتر."
+
+#: modules/components/general-js-combine.php:48
+msgid ""
+"<b>In Place</b>: All JavaScript code will be processed and the results will "
+"be left in the same spot as an initial asset or in-line CSS. "
+msgstr ""
+"<b>In Place - درجا  : </b>  تمام کدهای جاوا اسکریپت پردازش می شوند و نتایج "
+"در همان نقطه به عنوان دارایی اولیه یا CSS درون خطی باقی می مانند."
+
+#: modules/components/general-js-combine.php:50
+msgid ""
+"If the site contains JavaScript errors, <b>In Place</b> processing type "
+"should be selected instead <b>Combine</b>, or the faulty code will break the "
+"site."
+msgstr ""
+"اگر سایت خطاهای جاوا اسکریپت داشت ، باید نوع پردازش <b>In Place</b> به جای "
+"<b>Combine</b> انتخاب شود ، یا وقتی که کد معیوبی سایت را خراب کند."
+
+#: modules/components/general-js-combine.php:52
+#: modules/components/general-css-combine.php:45
+msgid "This also improves the overal site loading speed and SEO score"
+msgstr "همچنین این کار باعث افزایش کلی سرعت بارگذاری سایت و نمره سئو می شود ."
+
+#: modules/components/general-js-combine.php:59
+#: modules/components/general-css-combine.php:52
+msgid "Combine"
+msgstr ""
+
+#: modules/components/general-js-combine.php:60
+#: modules/components/general-css-combine.php:53
+msgid "In Place"
+msgstr ""
+
+#: modules/components/general-js-combine.php:70
+#: modules/components/general-js-combine.php:74
+msgid "Defer processed JavaScript"
+msgstr "ایجاد تاخیر در پردازش جاوا اسکریپت"
+
+#: modules/components/general-js-combine.php:71
+msgid ""
+"When a script is defered, the browser execute it when the page has finished "
+"parsing."
+msgstr ""
+"هنگامی که یک اسکریپت به تعویق افتاده است ، مرورگر آن را زمانی اجرا می کند که "
+"تجزیه صفحه به پایان رسیده باشد."
+
+#: modules/components/general-js-combine.php:75
+msgid ""
+"This is an advanced option mainly for SEO adjustments. All combined "
+"JavaScript assets will be deferred."
+msgstr ""
+"این یک گزینه پیشرفته است که به طور عمده برای تنظیمات سئو انجام می شود. کلیه "
+"دارایی های جاوا اسکریپت ترکیبی به تعویق می افتند."
+
+#: modules/components/general-js-combine.php:75
+#: modules/components/general-js-combine.php:100
+msgid "More detils about defer at"
+msgstr "جزئیات بیشتر در مورد به تاخیر انداختن را اینجا ببینید :"
+
+#: modules/components/general-js-combine.php:76
+msgid ""
+"The jQuery asset will be left as is, to provide support for any on-line "
+"JavaScript code."
+msgstr ""
+"دارایی های jQuery همانطور که هست باقی می ماند ، برای پشتیبانی از هر کد "
+"جاواسکریپت درون خطی."
+
+#: modules/components/general-js-combine.php:77
+msgid ""
+"Using the Exclude script from JavaScript Combine along with this option may "
+"produce isues."
+msgstr ""
+"استفاده از امکان Exclusive از JavaScript Combine به همراه این گزینه ممکن است "
+"مشکلاتی را ایجاد کند."
+
+#: modules/components/general-js-combine.php:78
+msgid ""
+"Use with caution, if any front-site feature or appearance appears to be "
+"broken, disable this option."
+msgstr ""
+"با احتیاط استفاده کنید ، اگر هر ویژگی ای یا نمای ظاهر وب سایت به هم ریخته "
+"شده است ، این گزینه را غیرفعال کنید."
+
+#: modules/components/general-js-combine.php:95
+#: modules/components/general-js-combine.php:99
+msgid "Defer a JavaScript asset"
+msgstr "به تاخیر انداختن دارایی های جاوا اسکریپت (فایل های js)"
+
+#: modules/components/general-js-combine.php:96
+msgid ""
+"When a script is defered, it specifies that the script is executed when the "
+"page has finished parsing."
+msgstr ""
+"هنگامی که یک اسکریپت به تعویق افتاده است ، مرورگر آن را زمانی اجرا می کند که "
+"تجزیه صفحه به پایان رسیده باشد."
+
+#: modules/components/general-js-combine.php:100
+msgid ""
+"This is an advanced option mainly for SEO adjustments, specify any script "
+"which will be excluded from JavaScript Combine, also will be deferred."
+msgstr ""
+"این گزینه پیشرفته است که به طور عمده برای تنظیمات سئو انجام می شود ، هر "
+"اسکریپتی را که می خواهید از جاوا اسکریپت ترکیبی خارج شود را در اینجا مشخص "
+"کنید نیز به تعویق می افتد."
+
+#: modules/components/general-js-combine.php:101
+msgid "The JavaScript code will still be processed while using Replacements."
+msgstr ""
+"ضمن استفاده از Replacements (جایگزینی ها ) ، کد JavaScript همچنان پردازش می "
+"شود."
+
+#: modules/components/general-js-combine.php:102
+msgid ""
+"Use only script name e.g. <code>mediaelement-and-player.min.js</code>, one "
+"per row. If need to use async instead, specify the attribute after the file "
+"name e.g. jquery-migrate.min.js async"
+msgstr ""
+"فقط از اسکریپت استفاده کنید به عنوان مثال  <code>mediaelement-and-player.min."
+"js</code> ، هر کدام در یک خط . در صورت نیاز به جای استفاده از async ، ویژگی "
+"را بعد از نام پرونده مشخص کنید به عنوان مثال : jquery-migrate.min.js async"
+
+#: modules/components/general-js-combine.php:103
+msgid ""
+"Use with caution, only certain scripts can be deferred, otherwise specific "
+"front-site features and appearance can break."
+msgstr ""
+"با احتیاط استفاده کنید ، فقط برخی از اسکریپت ها قابل تعویق هستند ، در غیر "
+"این صورت ویژگی های ظاهری و فرانت اند سایت به مشکل خواهند خورد."
+
+#: modules/components/general-js-combine.php:117
+#: modules/components/general-js-combine.php:121
+msgid "Exclude script from JavaScript processing"
+msgstr "حارج کردن اسکریپت از چرخه پردازش جاوا اسکریپت"
+
+#: modules/components/general-js-combine.php:118
+msgid ""
+"Specify any script which will be excluded when using JavaScript Combine."
+msgstr ""
+"هر اسکریپتی را که مشخص کنید در هنگام استفاده از ترکیب جاوا اسکریپت -  "
+"JavaScript Combine حذف می شود."
+
+#: modules/components/general-js-combine.php:122
+msgid "Use only script name e.g. mediaelement-and-player.min.js, one per row."
+msgstr ""
+"فقط از نام اسکریپت و هر کدام در یک خط استفاده کنید . مثال : mediaelement-and-"
+"player.min.js"
+
+#: modules/components/general-js-combine.php:123
+msgid ""
+"Excluding from Combine and using Replacements, there will be no "
+"substitutions on this code which can break the layout and specific front-"
+"side functionality."
+msgstr ""
+"به استثنای Combine و استفاده از Replacements ، هیچ جایگزینی در این کد وجود "
+"نخواهد داشت که می تواند چیدمان و عملکرد های خاصی را در ظاهر یا فرانت اند وب "
+"سایت خراب کند."
+
+#: modules/components/general-js-combine.php:136
+msgid "Exclude JavaScript Block from processing"
+msgstr "خارج کردن بلوک جاوا اسکریپت از چرخه پردازش"
+
+#: modules/components/general-js-combine.php:141
+msgid ""
+"Specify partial JavaScript code block to be excluded from processing. Use a "
+"full line or part of it (not individual words) to avoid matching other "
+"JavaScript code."
+msgstr ""
+"کد بلوک JavaScript دلخواه خود را مشخص کنید تا از چرخه پردازش خارج شود.  برای "
+"جلوگیری از تطبیق و تداخل با کدهای JavaScript دیگر ، از یک خط کامل از کد بلوک "
+"یا بخش مشخصی از آن (نه کلمات تکی) استفاده کنید."
+
+#: modules/components/general-js-combine.php:142
+msgid ""
+"Excluding from Combine and using processing, there will be no substitutions "
+"on this code which can break the layout and specific front-side "
+"functionality."
+msgstr ""
+"فقط درصورت استفاده ازیکی از روش های ترکیب Combine و in place می توانید از "
+"این گزینه ها استفاده کنید . در غیر اینصورت فرانت اند سایت شما قطعا دچار مشکل "
+"خواهد شد ."
+
+#: modules/components/general-oembed.php:16
+#: modules/components/general-oembed.php:20
+msgid "Remove Oembed"
+msgstr "حذف تگ های Oembed"
+
+#: modules/components/general-oembed.php:17
+msgid "Remove Oembed tags from header."
+msgstr "تگ های Oembed را از سربرگ حذف کنید."
+
+#: modules/components/general-oembed.php:21
+msgid ""
+"WordPress oEmbed recognizes URLs to a number of services, for example "
+"Youtube videos. When WordPress sees the URL it will connect to the external "
+"service (Youtube) and ask for the relevant HTML code to embed the video into "
+"the page or post."
+msgstr ""
+"WordPress oEmbed آدرس اینترنتی تعدادی از سرویس ها ، به عنوان مثال فیلم های "
+"یوتیوب را تشخیص می دهد. هنگامی که وردپرس این لینک ها را می بیند ، به سرویس "
+"خارجی (یوتیوب) متصل می شود و از کد HTML مربوطه درخواست می کند تا فیلم را در "
+"صفحه یا پست وارد کند."
+
+#: modules/components/general-html-css-js-replacements.php:28
+msgid "Code Replacements"
+msgstr "جایگزینی کد ها"
+
+#: modules/components/general-html-css-js-replacements.php:33
+msgid "This require the "
+msgstr "این امکان نیاز دارد که "
+
+#: modules/components/general-html-css-js-replacements.php:33
+msgid "CSS Combine"
+msgstr ""
+
+#: modules/components/general-html-css-js-replacements.php:33
+msgid "JavaScript Combine"
+msgstr ""
+
+#: modules/components/general-html-css-js-replacements.php:33
+msgid " to be set to Yes."
+msgstr " روی گزینه بله تنظیم شده باشند ."
+
+#: modules/components/general-html-css-js-replacements.php:34
+msgid ""
+"This option applys on front side to HTML, CSS and JavaScript assets. The "
+"replaced and replacement words are case sensitive."
+msgstr ""
+"این گزینه در قسمت فرانت اند و در کد های  HTML ، CSS و JavaScript اعمال می "
+"شود. کلمات اصلی و جایگزین شده حساس به مورد هستند."
+
+#: modules/components/general-html-css-js-replacements.php:35
+msgid ""
+"Ensure the replacement words are not common, or might conflict with existing "
+"POST and GET values after regex replacement. At least 5 chars word ( only "
+"letters ) is required for replacement also it is recommended to use unusual "
+"char combinations to avoid conflicts."
+msgstr ""
+"اطمینان حاصل کنید که کلمات جایگزین شده کلمات عمومی نیستند ، همچنین ممکن است "
+"بعد از جایگزینی با مقادیر POST و GET موجود در تضاد باشند. حداقل 5 کلمه "
+"کاراکتر (فقط حروف) برای جایگزینی مورد نیاز است همچنین برای جلوگیری از تداخل "
+"توصیه می شود از ترکیب های ترکیبی غیرمعمول استفاده کنید."
+
+#: modules/components/general-html-css-js-replacements.php:132
+msgid "Provided replaced word "
+msgstr ""
+
+#: modules/components/general-html-css-js-replacements.php:132
+#: modules/components/general-html-css-js-replacements.php:140
+msgid "need to be at least 3 chars."
+msgstr ""
+
+#: modules/components/general-html-css-js-replacements.php:140
+#: modules/components/general-html-css-js-replacements.php:153
+msgid "Provided replacement word "
+msgstr ""
+
+#: modules/components/general-html-css-js-replacements.php:153
+msgid "already used."
+msgstr ""
+
+#: modules/components/general-admin-bar.php:40
+msgid ""
+"The admin bar is a floating bar that contains useful administration screen "
+"links such as add a new post, see pending comments, edit your profile etc. "
+"It can be extended by plugins to add additional functionality for example "
+"SEO and more."
+msgstr ""
+"نوار مدیریت یک نوار شناور است که شامل پیوندهای میانبر صفحات مدیریتی مفیدی "
+"مانند افزودن یک پست جدید ، دیدن نظرات در انتظار ، ویرایش پروفایل شما و غیره "
+"می باشد. با افزودن افزونه های جدید می توانید قابلیت های دیگری را به عنوان "
+"مثال SEO و موارد دیگر اضافه کنید.<br></br>"
+
+#: modules/components/general-admin-bar.php:42
+#: modules/components/general-admin-bar.php:47
+msgid "Remove WordPress Admin Bar for "
+msgstr "حذف نوار مدیریت وردپرس برای "
+
+#: modules/components/general-admin-bar.php:42
+msgid "role"
+msgstr "نقش"
+
+#: modules/components/general-admin-bar.php:46
+#: modules/components/general-admin-bar.php:50
+msgid "Remove Admin Bar for "
+msgstr "حذف نوار مدیریت برای "
+
+#: modules/components/general-admin-bar.php:47
+msgid ""
+"role, which is being displayed by default on front side of your website."
+msgstr ""
+"که به صورت پیش فرض در فرانت اند وب سایت و در بالای وب سایت شما نمایش داده می "
+"شود."
+
+#: modules/components/general-admin-bar.php:50
+msgid "role."
+msgstr "نقش"
+
+#: modules/components/rewrite-search.php:17
+msgid "New Search Path"
+msgstr ""
+
+#: modules/components/rewrite-search.php:18
+msgid "The default path is set to /search/"
+msgstr ""
+
+#: modules/components/rewrite-search.php:29
+#: modules/components/rewrite-author.php:39
+#: modules/components/rewrite-author.php:43
+msgid "Block default"
+msgstr "مسدود کردن پیشفرض"
+
+#: modules/components/rewrite-search.php:30
+msgid "Block default /search/ when using custom one."
+msgstr ""
+
+#: modules/components/rewrite-search.php:30
+#: modules/components/rewrite-author.php:40
+msgid "Apply only if "
+msgstr "فقط در صورتی انجام می شود که "
+
+#: modules/components/rewrite-search.php:30
+#: modules/components/rewrite-author.php:40
+msgid "is not empty."
+msgstr " خالی نباشد ."
+
+#: modules/components/general-text-replace.php:17
+msgid "Text Replace"
+msgstr "جایگزنی متن"
+
+#: modules/components/general-text-replace.php:18
+msgid "Arbitrary text replacement from HTML."
+msgstr "جایگزینی متن دلخواه از HTML."
+
+#: modules/components/general-text-replace.php:22
+msgid ""
+"Arbitrary text replacement from HTML. The substitution is case-sensitive, "
+"also spaces in front or at the end are being used. The replacements occur "
+"only on front-side."
+msgstr ""
+"جایگزینی متن دلخواه از HTML. این جایگزینی متن حساس به مورد می باشد ، همچنین "
+"تغییرات فقط در فرانت اند سایت اعمال می شوند . درواقع هیچ تغییری در کد های بک "
+"اند شما صورت نمی پذیرد."
+
+#: modules/components/general-text-replace.php:23
+msgid ""
+"This can produce layout issues, use with caution. Mainly this should be used "
+"with long texts or html blocks, which allows exact and focused replacements. "
+"For other, the CSS class/ID and JavaScript Variables replacements should be "
+"considered. If something break, the replacement should be removed."
+msgstr ""
+"در صورتی که اشتباه کنید در موارد جایگزین شده قطعا مشکلاتی در فرانت شما پیش "
+"خواهد آمد ، با احتیاط استفاده کنید. عمدتاً این مورد باید از متون طولانی یا "
+"بلوک های html استفاده شود که امکان تعویض دقیق و متمرکز را فراهم می آورد. "
+"برای دیگر فایل ها ، باید جایگزین های کلاس / ID CSS و متغیرهای JavaScript در "
+"نظر گرفته شود. اگر چیزی خراب شد ، گزینه جایگزین شده باید برداشته شود."
+
+#: modules/components/cdn-setup.php:16 modules/components/cdn-setup.php:20
+msgid "CDN Url"
+msgstr "لینک CDN"
+
+#: modules/components/cdn-setup.php:17
+msgid ""
+"Some CDN providers (like stackpath.com ) replace site assets with custom url,"
+" enter here such url. Otherwise this option should stay empty."
+msgstr ""
+"برخی از ارائه دهندگان CDN (مانند stackpath.com) دارایی های سایت را با آدرس "
+"شخصی سفارشی خود جایگزین می کنند ، چنین آدرس اینترنتی را در صورت وجود اینجا "
+"وارد کنید. در غیر این صورت این گزینه باید خالی بماند."
+
+#: modules/components/cdn-setup.php:21
+msgid ""
+"A Content Delivery Network - CDN - is a network of servers located around "
+"the globe in fundamental spots with fast access. It takes a while for a web "
+"page to load especially if the server is located far away from the user. So "
+"they are designed to host and deliver copies of your site's static and "
+"dynamic content such as images, CSS, JavaScript, audio and video streams."
+msgstr ""
+"شبکه تحویل محتوا - CDN - شبکه ای از سرورهایی واقع در سراسر جهان در نقاط "
+"مختلف و با دسترسی سریع است. بارگیری یک صفحه وب سایت طبیعتا طول می کشد به "
+"خصوص اگر سرور در فاصله زیادی از کاربر قرار داشته باشد. بنابراین آنها برای "
+"میزبانی و تحویل نسخه هایی از محتوای استاتیک و پویا سایت شما مانند تصاویر ، "
+"CSS ، JavaScript ، جریان های صوتی و تصویری طراحی شده اند."
+
+#: modules/components/cdn-setup.php:22
+msgid "Sample CDN url:"
+msgstr "نمونه لینک CDN :"
+
+#: modules/components/cdn-setup.php:24
+msgid ""
+"Enter a CDN Url to allow the plugin to process assets provided through CDN "
+"service."
+msgstr ""
+"یک لینک از CDN را وارد کنید تا افزونه بتواند دارایی های ارائه شده از طریق "
+"خدمات CDN را پردازش کند."
+
+#: modules/components/cdn-setup.php:42 modules/components/cdn-setup.php:46
+msgid "Load Cache Files through CDN"
+msgstr "بارگیری فایل های کش شده توسط CDN"
+
+#: modules/components/cdn-setup.php:43
+msgid ""
+"When creating Cache files, mainly used when using CSS Combine and JavaScript "
+"Cobine, the cache files should be loaded through CDN."
+msgstr ""
+"هنگام ایجاد پرونده های Cache ، که عمدتاً هنگام استفاده از CSS Combine و "
+"JavaScript Combine استفاده می شود ، فایل های کش شده باید از طریق CDN بارگیری "
+"شوند."
+
+#: modules/components/cdn-setup.php:47
+msgid ""
+"If provided a CDN, the processed cache assets will be loaded through it."
+msgstr ""
+"در صورت وجود ارائه دهنده CDN ، فایل های کش شده ی پردازش شده از طریق آن "
+"بارگیری می شود."
+
+#: modules/components/cdn-setup.php:64 modules/components/cdn-setup.php:68
+msgid "Load assets within Cache Files through CDN"
+msgstr "فایل های موجود در حافظه نهان - کش را از طریق CDN بارگیری کنید"
+
+#: modules/components/cdn-setup.php:65
+msgid ""
+"When creating Cache files, mainly used when using CSS Combine and JavaScript "
+"Cobine, any assets ( images, fonts) inside cache files should be loaded "
+"through CDN."
+msgstr ""
+"هنگام ایجاد پرونده های Cache ، که عمدتاً هنگام استفاده از CSS Combine و "
+"JavaScript Combine استفاده می شود ، هر دارایی (تصاویر ، فونت ها) موجود در "
+"فایل های حافظه نهان باید از طریق CDN بارگیری شود."
+
+#: modules/components/cdn-setup.php:69
+msgid ""
+"If provided a CDN, all media files inside the cached data will be using CDN "
+"to load."
+msgstr ""
+"در صورت استفاده از CDN ، کلیه پرونده های رسانه موجود در داده های ذخیره شده ( "
+"کش ) از طریق CDN برای بارگیری استفاده می کنند."
+
+#: modules/components/cdn-setup.php:130
+msgid "Add New"
+msgstr "اضافه کردن جدید"
+
+#: modules/components/rewrite-slash.php:16
+msgid "URL's add Slash"
+msgstr "اضافه کردن / اسلش به لینک ها"
+
+#: modules/components/rewrite-slash.php:17
+msgid "Add an end slash to all links which does not include one."
+msgstr ""
+"به انتهای لینک ها یک اسلش اضافه کنید که این شامل لینک هایی که اسلش ندارند می "
+"شود ."
+
+#: modules/components/rewrite-slash.php:20
+#: modules/components/rewrite-xml-rpc-path.php:17
+#: modules/components/rewrite-xml-rpc-path.php:21
+msgid "New XML-RPC Path"
+msgstr "مسیر جدید فایل XML-RPC"
+
+#: modules/components/rewrite-slash.php:21
+msgid "As default the WordPress url's format include an ending slash. "
+msgstr "به طور پیش فرض ، فرمت url وردپرس شامل یک اسلش در پایان لینک ها است."
+
+#: modules/components/rewrite-slash.php:22
+msgid ""
+"There are situations when this slash is not being append. Turning on this "
+"option, all links will get a slash if not included as default. Disguise the "
+"existence of files and folders, since they will not be slashed as deafault, "
+"all receive an ending slashed."
+msgstr ""
+"در برخی شرایط که به صورت پیشفرض به انتهای برخی از لینک ها اسلش اضافه نمی شود "
+". با روشن کردن این گزینه ، همه لینک هایی که اگر به صورت پیش فرض دارای اسلش "
+"نیستند ، به آنها این اسلش اضافه خواهد شد .با توجه به اینکه این فایل ها و "
+"فولدر ها به صورت پیشفرض تغییر نمی کنند باید این لینک ها را به لینک های دارای "
+"اسلش تبدیل کنید."
+
+#: modules/components/rewrite-slash.php:23
+msgid "For example the following link:"
+msgstr "برای مثال این لینک را مشاهده کنید  :"
+
+#: modules/components/rewrite-slash.php:25
+msgid "will be redirected to:"
+msgstr "که به این لینک انتقال پیدا می کند :"
+
+#: modules/components/rewrite-slash.php:27
+msgid ""
+"On certain servers this can produce a small lag measured in milliseconds, "
+"for each url."
+msgstr "در برخی از سرورها ممکنه یک تأخیر کوچیک در حد میلی ثانیه داشته باشید."
+
+#: modules/components/general-headers.php:17
+msgid "Remove Link Header"
+msgstr "حذف لینک سربرگ"
+
+#: modules/components/general-headers.php:18
+msgid ""
+"Remove Link Header being set as default by WordPress which outputs the site "
+"JSON url."
+msgstr ""
+"لینک سربرگ را که وردپرس به صورت پیش فرض ، در خروجی های JSON سایت تنظیم می "
+"کند حذف کنید."
+
+#: modules/components/general-headers.php:21
+#: modules/components/general-scripts.php:16
+#: modules/components/general-scripts.php:20
+#: modules/components/general-styles.php:16
+#: modules/components/general-styles.php:20
+#: modules/components/general-styles.php:43
+msgid "Remove Version"
+msgstr "حذف ورژن"
+
+#: modules/components/general-headers.php:22
+msgid ""
+"HTTP header fields are components of the header section of a request and "
+"response messages in the Hypertext Transfer Protocol (HTTP). They define the "
+"operating parameters of an HTTP transaction."
+msgstr ""
+"فیلد های HTTP در بخش سربرگ اجزایی هستند که وظیفه ارسال و دریافت پیام از طریق "
+"پروتکل انتقال HTTP - Hypertext را دارند .\n"
+"آنها پارامتر های عملیاتی یک نقل و انتقال HTTP را تعرف می کنند ."
+
+#: modules/components/general-headers.php:23
+#: modules/components/general-headers.php:46
+msgid "Sample header:"
+msgstr "نمونه سربرگ :"
+
+#: modules/components/general-headers.php:41
+#: modules/components/general-headers.php:45
+msgid "Remove X-Powered-By Header"
+msgstr "تگ X-Powered-By را از سربرگ حذف کنید ."
+
+#: modules/components/general-headers.php:42
+msgid "Remove X-Powered-By Header if being set."
+msgstr ""
+"اگر تگ X-Powered-By در سربرگ وجود دارد آن را حذف کنید .\n"
+"\n"
+"\n"
+
+#: modules/components/general-headers.php:64
+#: modules/components/general-headers.php:68
+#: modules/components/general-headers.php:90
+msgid "Remove X-Pingback Header"
+msgstr "تگ X-Pingback را از سربرگ حذف کنید ."
+
+#: modules/components/general-headers.php:65
+msgid "Remove X-Pingback Header if being set."
+msgstr "اگر تگ X-Pingback در سربرگ وجود دارد آن را حذف کنید ."
+
+#: modules/components/general-headers.php:69
+msgid ""
+"Pingback is one of four types of linkback methods for Web authors to request "
+"notification when somebody links to one of their documents. This enables "
+"authors to keep track of who is linking to, or referring to their articles. "
+"Pingback-enabled resources must either use an X-Pingback header or contain a "
+"element to the XML-RPC script."
+msgstr ""
+"Pingback - پینگ بک یکی از چهار نوع روش اطلاع از بک لینک است که نویسندگان وب "
+"سایت ها در اسناد یا مطالب خود قرار می دهند که در هنگامی که دیگران به وب سایت "
+"آنها پیوندی دادند ، به وسیله دریافت نوتیفیکیشن از آن مطلع شوند . این امکان "
+"نویسندگان را قادر می سازد پیگیری کنند که چه کسی به آنها بک لینک داده یا به "
+"مقالات آنها مرجعیت داده است.\n"
+"منابع فعال شده با Pingback یا باید از یک هدر X-Pingback استفاده کنند یا یک "
+"عنصر در اسکریپت XML-RPC داشته باشند. "
+
+#: modules/components/general-headers.php:86
+msgid "Remove Custom Header"
+msgstr "تگ دلخواه خود را از هدر حذف کنید"
+
+#: modules/components/general-headers.php:87
+msgid "Remove a Custom Header if being set. "
+msgstr ""
+"اگر تگ خاصی در هدر شما ست شده است می توانید آن را از اینجا اضافه کنید ."
+
+#: modules/components/general-headers.php:91
+msgid ""
+"Custom HTTP headers are commonly meant to provide additional information "
+"that may be pertinent to a web developer, or for troubleshooting purposes. "
+"These headers often times begin with <code>X-</code>"
+msgstr ""
+"هدرهای مرسوم HTTP معمولاً برای ارائه اطلاعات اضافی که ممکن است مربوط به یک "
+"توسعه دهنده وب باشد یا برای اهداف عیب یابی وجود دارد. این هدرها اغلب با "
+"<code>X-</code> شروع می شوند . "
+
+#: modules/components/general-headers.php:92
+msgid ""
+"Use with caution, removing specific headers produce malfunction to the site. "
+"Generally all headers which stats with X are safe to remove."
+msgstr ""
+"با احتیاط استفاده کنید ، از بین بردن هدرهای خاص باعث نقص در سایت می شود. "
+"عموماً حذف کردن همه سرصفحه هایی که از حرف X برخوردار هستند مشکلی ندارد ."
+
+#: modules/components/rewrite-author.php:17
+#: modules/components/rewrite-author.php:21
+msgid "New Author Path"
+msgstr "مسیر جدید پروفایل نویسنده"
+
+#: modules/components/rewrite-author.php:18
+msgid "The default path is set to /author/"
+msgstr "مسیر پیشفرض پروفایل نویسنده /author/ می باشد ."
+
+#: modules/components/rewrite-author.php:22
+msgid ""
+"An author URL display all posts associated to a particular author. The "
+"default URL format is:"
+msgstr ""
+"لینک پروفایل نویسنده ، حاوی تمام پست های آن نویسنده ی خاص می باشد . آدرس "
+"پیشفرض آن عبارت است از :"
+
+#: modules/components/rewrite-author.php:24
+msgid "By using a value of 'contributor' this become:"
+msgstr ""
+"با استفاده از مقدار <b>مشارکت کننده</b> برای یک نویسنده ، آدرس پروفایل آن به "
+"شکل زیر خواهد بود :"
+
+#: modules/components/rewrite-author.php:30
+msgid "e.g. profile"
+msgstr "مثال : profile"
+
+#: modules/components/rewrite-author.php:40
+msgid "Block default /author/ when using custom one."
+msgstr "در صورت استفاده از یک مسیر دیگر ، آدرس پیشفرض /author/ را مسدود کنید ."
+
+#: modules/components/rewrite-author.php:44
+msgid ""
+"After changing the default author, the old url is still accessible, this "
+"provide a way to block it.<br />The functionality apply only if <b>New "
+"Author Path</b> option is filled in."
+msgstr ""
+"بعد از تغییر مسیر پیشفرض پروفایل نویسنده ، آدرس قدیمی نیز در دسترس می باشد "
+"که این گزینه راهی برای مسدود کردن آن می باشد.<br />این عمل فقط در صورتی "
+"انجام خواهد گرفت که فیلد <b>مسیر جدید پروفایل نویسنده</b> پر شده باشد ."
+
+#: modules/components/rewrite-author.php:399
+#: modules/components/rewrite-author.php:407
+#: modules/components/rewrite-root-files.php:634
+#: modules/components/rewrite-root-files.php:650
+#: modules/components/rewrite-root-files.php:790
+#: modules/components/rewrite-root-files.php:806
+#: modules/components/rewrite-root-files.php:952
+#: modules/components/rewrite-root-files.php:968
+#: modules/components/rewrite-root-files.php:1113
+#: modules/components/rewrite-root-files.php:1129
+#: modules/components/rewrite-wp_includes_path.php:333
+#: modules/components/admin-new_wp_login_php.php:420
+#: modules/components/admin-new_wp_login_php.php:428
+#: modules/components/rewrite-wp_content_path.php:335
+#: modules/components/rewrite-wp_content_path.php:344
+#: modules/components/admin-admin_url.php:486
+#: modules/components/admin-admin_url.php:495
+#: modules/components/admin-admin_ajax_php.php:452
+#: modules/components/admin-admin_ajax_php.php:460
+#: modules/components/rewrite-comments.php:352
+#: modules/components/rewrite-comments.php:360
+#: modules/components/rewrite-xml-rpc-path.php:392
+#: modules/components/rewrite-xml-rpc-path.php:400
+#: modules/components/rewrite-plugin_path.php:623
+#: modules/components/rewrite-plugin_path.php:632
+msgid ""
+"REPLACE THE FOLLOWING LINE WITH YOUR OWN INCLUDE! This can be found within "
+"block"
+msgstr ""
+
+#: modules/components/rewrite-root-files.php:19
+#: modules/components/rewrite-root-files.php:23
+msgid "Block license.txt"
+msgstr "مسدود کردن license.txt"
+
+#: modules/components/rewrite-root-files.php:20
+msgid "Block access to license.txt root file"
+msgstr "دسترسی به license.txt در روت را مسدود کنید."
+
+#: modules/components/rewrite-root-files.php:24
+msgid ""
+"This is a text file which contain the licensing terms for WordPress "
+"framework. Obviously you don't want that visible as every site containing "
+"such file must be a WordPress."
+msgstr ""
+"این یک فایل متنی است که شامل شرایط و ضوابط استفاده از فریم ورک WordPress است."
+" بدیهی است که شما نمی خواهید این فایل قابل مشاهده باشد زیرا هر سایتی که "
+"دارای این فایل باشد باید یک سایت وردپرسی باشد ."
+
+#: modules/components/rewrite-root-files.php:42
+#: modules/components/rewrite-root-files.php:46
+msgid "Block readme.html"
+msgstr "readme.html را مسدود کنید "
+
+#: modules/components/rewrite-root-files.php:43
+msgid "Block access to readme.html root file"
+msgstr "دسترسی به پرونده readme.html در روت را مسدود کنید"
+
+#: modules/components/rewrite-root-files.php:47
+msgid ""
+"A Hypertext Markup Language file with general information about installed "
+"WordPress, version, instalation steps, updating, requirements, resources etc."
+msgstr ""
+"یک فایل به زبان نشانه گذاری هایپرتکست - Hypertext Markup Language  با "
+"اطلاعات کلی در مورد وردپرس نصب شده ، نسخه ، مراحل نصب ، بروزرسانی ، الزامات "
+"، منابع و غیره می باشد."
+
+#: modules/components/rewrite-root-files.php:64
+#: modules/components/rewrite-root-files.php:68
+#: modules/components/rewrite-root-files.php:102
+msgid "Block wp-activate.php"
+msgstr "مسدود کردن wp-activate.php"
+
+#: modules/components/rewrite-root-files.php:65
+msgid ""
+"Block access to wp-activate.php file. This file confirms that the activation "
+"key that is sent in an email after a user signs up for a new blog matches "
+"the key for that user. If <b>anyone can register</b> on your site, you shold "
+"keep this off."
+msgstr ""
+"دسترسی به پرونده wp-activate.php را مسدود کنید. این پرونده تأیید می کند که "
+"کلید فعال سازی ای که پس از ثبت نام کاربر برای یک وبلاگ جدید از طریق ایمیل "
+"ارسال شده است ، با کلید آن کاربر مطابقت دارد. <b>اگر ذیگران میتوانند در سایت "
+"شما ثبت نام کند ، باید این را خاموش نگه دارید.</b>"
+
+#: modules/components/rewrite-root-files.php:69
+msgid ""
+"Block access to wp-activate.php file. Through this file new users confirms "
+"that the activation key that is received in the email after signs up for a "
+"new blog, matches the key for that user."
+msgstr ""
+"دسترسی به فایل  wp-activate.php را مسدود کنید. از طریق این فایل کاربران جدید "
+"تأیید می کنند که کلید فعال سازی که پس از ثبت نام برای یک وبلاگ جدید ، در "
+"ایمیل دریافت می شود ، با کلید آن کاربر مطابقت دارد."
+
+#: modules/components/rewrite-root-files.php:70
+msgid "If anyone can register on your site, you should keep this to No."
+msgstr ""
+"<b>اگر ذیگران میتوانند در سایت شما ثبت نام کند ، باید گزینه خیر را انتخاب "
+"نمایید.</b>"
+
+#: modules/components/rewrite-root-files.php:86
+msgid ""
+"Block access to wp-cron.php file. If remote cron calls not being used this "
+"can be set to Yes."
+msgstr ""
+"دسترسی به پرونده wp-cron.php را مسدود کنید. در صورت عدم استفاده از تماس های "
+"از راه دور یا همان API ، می توان روی بله تنظیم کرد."
+
+#: modules/components/rewrite-root-files.php:89
+msgid ""
+"Unable to identify site domain IP, blocking wp-cron.php will stop the site "
+"internal WordPress cron functionality."
+msgstr ""
+
+#: modules/components/rewrite-root-files.php:93
+msgid "Site domain rezolved to IP"
+msgstr "برای کرون ها در آی پی دامنه وب سایت "
+
+#: modules/components/rewrite-root-files.php:93
+msgid ""
+"If blocked, all internal calls to cron will continue to run fine. All calls "
+"from a different IP are blocked, including direct calls."
+msgstr ""
+"در صورت مسدود بودن ، تمام تماسهای داخلی به کرن ادامه خواهد داشت. ولی همه "
+"تماس ها از یک IP متفاوت دیگر ، از جمله تماس مستقیم ، مسدود خواهند شد ."
+
+#: modules/components/rewrite-root-files.php:98
+msgid "Block wp-cron.php"
+msgstr "wp-cron.php را مسدود کنید"
+
+#: modules/components/rewrite-root-files.php:103
+msgid ""
+"The file wp-cron.php is the portion of WordPress that handles scheduled "
+"events within a WordPress site. If remote cron calls not being used this can "
+"be set to Yes.."
+msgstr ""
+"پرونده wp-cron.php بخشی از WordPress است که رویدادهای برنامه ریزی شده را در "
+"یک سایت وردپرس انجام می دهد."
+
+#: modules/components/rewrite-root-files.php:121
+#, fuzzy
+msgid "Block wp-signup&period;php"
+msgstr "مسدود کردن wp-signup.php"
+
+#: modules/components/rewrite-root-files.php:122
+#, fuzzy
+msgid ""
+"Block default wp-signup&period;php file. If <b>anyone can register</b> on "
+"your site, you shold keep this off."
+msgstr ""
+"فایل پیش فرض wp-signup.php را مسدود کنید.اگر کاربر <b>می تواند</b> در سایت "
+"شما ثبت نام کند ، باید این گزینه را <b>خاموش</b> نگه دارید. "
+
+#: modules/components/rewrite-root-files.php:125
+msgid "Block default wp-signup&period;php"
+msgstr ""
+
+#: modules/components/rewrite-root-files.php:126
+#, fuzzy
+msgid ""
+"The wp-signup&period;php allow for anyone to register to your site. If the "
+"registration functionality is turned off, is safe to block the  wp-"
+"signup&period;php."
+msgstr ""
+"wp-signup.php به هر کسی امکان می دهد که در سایت شما ثبت نام کند. اگر عملکرد "
+"ثبت نام در سایت شما خاموش است ، می توانید wp-signup.php را مسدود کنید."
+
+#: modules/components/rewrite-root-files.php:144
+#: modules/components/rewrite-root-files.php:148
+msgid "Block wp-register.php"
+msgstr "wp-register.php را مسدود کنید"
+
+#: modules/components/rewrite-root-files.php:145
+msgid ""
+"Block default wp-register.php file. This file is now deprecated however "
+"still exists within code and redirected to /register page."
+msgstr ""
+"فایل پیش فرض wp-register.php را مسدود کنید. این فایل در حال حاظر منسوخ شده "
+"است ، اما هنوز هم در سورس وردپرس وجود دارد که به صفحه ثبت نام هدایت می شود."
+
+#: modules/components/rewrite-root-files.php:149
+msgid ""
+"This is a deprecated file but still present in many WordPress installs.  "
+"When called the user is redirected to /register page. Is safe to block the "
+"wp-register.php."
+msgstr ""
+"این یک فایل منسوخ شده است اما هنوز هم در بسیاری از وردپرس های نصب شده موجود "
+"است. هنگام فراخوانی کاربر به صفحه ثبت نام هدایت می شود. برای امنیت بیشتر "
+"بهتر است که wp-register.php را مسدود کنید."
+
+#: modules/components/rewrite-root-files.php:167
+#: modules/components/rewrite-root-files.php:171
+msgid "Block other wp-*.php files"
+msgstr "مسدود کردن دیگر فایل های wp-*.php"
+
+#: modules/components/rewrite-root-files.php:168
+#: modules/components/rewrite-root-files.php:172
+msgid ""
+"Block other wp-*.php files. E.g. wp-blog-header.php, wp-config.php, wp-cron."
+"php. Those files are used internally, blocking those will not affect any "
+"functionality. Other root files (wp-activate.php, wp-login.php, wp-signup."
+"php) are ignored, they can be controlled through own setting."
+msgstr ""
+"فایلهای دیگر wp - *. php را مسدود کنید. به عنوان مثال. wp-blog-header.php، "
+"wp-config.php، wp-cron.php. این پرونده ها درون سیستم استفاده می شوند ، مسدود "
+"کردن آن ها روی هیچ یک از عملکرد های وب سایت شما تأثیر نمی گذارد. سایر "
+"فایلهای ریشه مثل wp-activ.php ، wp-login.php ، wp-signup.php از این گزینه "
+"نادیده گرفته می شوند ، این فایل ها از طریق تنظیمات قابل کنترل هستند."
+
+#: modules/components/rewrite-wp_includes_path.php:17
+#: modules/components/rewrite-wp_includes_path.php:21
+#: modules/components/rewrite-wp_includes_path.php:41
+msgid "New Includes Path"
+msgstr "مسیر جدید Includes"
+
+#: modules/components/rewrite-wp_includes_path.php:18
+msgid "Change default /wp-includes path."
+msgstr "آدرس پیشفرض wp-includes  را تغییر دهید ."
+
+#: modules/components/rewrite-wp_includes_path.php:22
+msgid ""
+"As default a WordPress installation contain a wp-include folder which store "
+"files and resources used by WordPress core, themes and plugin. The wp-"
+"includes is a common fingerprint, which makes easily to anyone to identify "
+"the site as being created on WordPress."
+msgstr ""
+"وردپرس به صورت پیشفرض ، حاوی پوشه ای به نام wp-include می باشد که تمام موارد "
+"مورد نیاز برای اجرای وردپرس از قبیل تمام فایل ها و منابع <b>مورد نیاز</b> "
+"هسته ی وردپرس ، قالب ها و افزونه ها و ... را شامل می شود. وردپرس دارای یک "
+"سری اثر انگشت های مشخص در wp-include است که هر کسی می تواند با دسترسی به آن "
+"، سایتی که با وردپرس ساخته شده است را به راحتی تشخیص دهد ."
+
+#: modules/components/rewrite-wp_includes_path.php:24
+msgid ""
+"After filling in this option e.g. resources the links will change to this:"
+msgstr ""
+"به عنوان مثال ، بعد از استفاده از این گزینه و تعیین نام جدید ، مسیر سورس ها "
+"به شکل زیر تغییر می کند ."
+
+#: modules/components/rewrite-wp_includes_path.php:29
+msgid "e.g. my_includes"
+msgstr "مثال : my_includes"
+
+#: modules/components/rewrite-wp_includes_path.php:37
+msgid "Block wp-includes URL"
+msgstr "مسدود کردن آدرس wp-includes"
+
+#: modules/components/rewrite-wp_includes_path.php:38
+msgid ""
+"Block /wp-includes/ files from being accesible through default urls. <br />"
+"Apply only if <b>New Includes Path</b> is not empty."
+msgstr ""
+"دسترسی به فایل های فولدر /wp-includes/ از طریق URL مسدود می شوند .\n"
+"</br>این مورد فقط زمانی درست عمل خواهد کرد که گزینه <b>مسیر جدید Includes</b>"
+" پر شده باشد."
+
+#: modules/components/rewrite-wp_includes_path.php:42
+msgid ""
+"This blocks the default wp-includes urls only for non loged-in users.<br />"
+"The functionality apply only if <b>New Includes Path</b> option is filled in."
+msgstr ""
+"بلاک کردن مسیر پیشفرض wp-includes برای کاربرانی که وارد نشده اند مسدود می "
+"شود .\n"
+"</br>این مورد فقط زمانی درست عمل خواهد کرد که گزینه <b>مسیر جدید Includes</b>"
+" پر شده باشد.\n"
+
+#: modules/components/admin-new_wp_login_php.php:17
+#: modules/components/admin-new_wp_login_php.php:21
+msgid "New wp-login.php"
+msgstr "مسیر جدید wp-login.php"
+
+#: modules/components/admin-new_wp_login_php.php:18
+msgid ""
+"Map a new wp-login.php instead default. This also need to include <i>.php</i>"
+" extension."
+msgstr ""
+"به جای مسیر پیشفرض wp-login.php ، یک مسیر جدید تعریف کنید . همچنین حتما از "
+"پسوند <i>.php</i> استفاده کنید ."
+
+#: modules/components/admin-new_wp_login_php.php:22
+msgid ""
+"There are a lot of security issues that come from having your login page "
+"open to the public. Most specifically, brute force attacks. Because of the "
+"ubiquity of WordPress, these kinds of attacks are becoming more and more "
+"common."
+msgstr ""
+"مسائل امنیتی زیادی وجود دارد که ناشی از باز شدن صفحه ورود به سیستم برای عموم "
+"است .  به طور خاص ، حمله جستجوی فراگیر . به دلیل گستردگی وردپرس و در دسترس "
+"بودن آن برای همگان ، این نوع حملات روز به روز متداول تر می شوند."
+
+#: modules/components/admin-new_wp_login_php.php:23
+msgid ""
+"Map a new wp-login.php instead default prevent hackers boot to attempt to "
+"brute force a site login. Being known only by the site owner, the url itself "
+"becomes private."
+msgstr ""
+"با تعریف کردن مسیر جدید برای wp-login.php از هک شدن وب سایت توسط هکر ها و "
+"تلاش های آنها برای ورود به وب سایت جلوگیری کنید . آدرس جدید را فقط شما می "
+"دانید و این مسیر کاملا خصوصی می شود ."
+
+#: modules/components/admin-new_wp_login_php.php:24
+msgid ""
+"Make sure you keep the new login url to a safe place, in case to forget."
+msgstr ""
+"اطمینان حاصل کنید که آدرس ورود به سیستم جدید را در مکانی امن نگه دارید ، که "
+"در صورت فراموش کردن بتوانید آن را پیدا کنید ."
+
+#: modules/components/admin-new_wp_login_php.php:34
+msgid ""
+"Make sure your log-in url is not already modified by another plugin or theme."
+" In such case, you should disable other code and take advantage of these "
+"features."
+msgstr ""
+"اطمینان حاصل کنید که آدرس ورود به سیستم شما توسط افزونه ی دیگری اصلاح نشده "
+"باشد . در چنین شرایطی ، شما باید آن را غیرفعال کنید که از این ویژگی استفاده "
+"کنید."
+
+#: modules/components/admin-new_wp_login_php.php:53
+#: modules/components/admin-new_wp_login_php.php:57
+msgid "Block default wp-login.php"
+msgstr "مسدود کردن مسیر پیشفرض wp-login.php"
+
+#: modules/components/admin-new_wp_login_php.php:54
+msgid "Block default wp-login.php file from being accesible."
+msgstr "دسترسی به wp-login.php پیش فرض را مسدود کنید."
+
+#: modules/components/admin-new_wp_login_php.php:58
+msgid ""
+"If set to Yes, the old login url will be blocked and a default theme 404 "
+"error page will be returned."
+msgstr ""
+"اگر گزینه بله را انتحاب کنید ، مسیر پیشفرض ورود مسدود شده و در صورت وارد "
+"کردن آدرس آن ، صفحه 404 نمایش داده خواهد شد ."
+
+#: modules/components/admin-new_wp_login_php.php:59
+msgid ""
+"Ensure the New wp-login.php option works correctly on your server before "
+"activate this."
+msgstr ""
+"قبل از فعال کردن این گزینه ، اطمینان حاصل کنید مسیر جدید wp-login.php  بر "
+"روی سرور شما درست کار کند."
+
+#: modules/components/admin-new_wp_login_php.php:77
+#: modules/components/admin-new_wp_login_php.php:81
+msgid "Use mere rewrite for Block Default"
+msgstr "از بازنویسی صرف برای Block Default استفاده کنید"
+
+#: modules/components/admin-new_wp_login_php.php:78
+msgid ""
+"On specific servers, blocking might not work, trigger this setting to make "
+"it compatible."
+msgstr ""
+"در سرورهای خاص ، مسدود کردن ممکن است کار نکند ، در این صورت این گزینه را "
+"فعال کنید تا سرور شما نیز سازگار شود."
+
+#: modules/components/admin-new_wp_login_php.php:82
+msgid ""
+"When accessing the default login url, even if blocked, on certain servers "
+"the link might still be available. This option create an extra rewrite rule "
+"which might fix the blocking."
+msgstr ""
+"وقتی که مسیر پیشفرض ورود را مسدود کرده اید ، ممکن است هنوز در دسترس باشد که "
+"این گزینه یک قانون بازنویسی اضافی ایجاد می کند که می تواند مشکل انسداد مسیر "
+"پیشفرض را برطرف کند."
+
+#: modules/components/rewrite-json-rest.php:17
+#: modules/components/rewrite-json-rest.php:21
+msgid "New JSON Path"
+msgstr "مسیر جدید JSON"
+
+#: modules/components/rewrite-json-rest.php:18
+msgid "The default JSON REST path is set to /wp-json."
+msgstr "مسیر JSON REST به صورت پیشفرض /wp-json می باشد ."
+
+#: modules/components/rewrite-json-rest.php:22
+msgid ""
+"Use any alphanumeric symbols for this field which will be used as the new "
+"slug for JSON API. Presuming the `apps-api` slug is being used, the new url "
+"becomes to:"
+msgstr ""
+"برای پر کردن فیلد ها فقط از حروف و اعداد استفاده کنید که به عنوان Slug جدید "
+"( نامک ) برای JSON API استفاده شود .\n"
+"به فرض اینکه شما برای این مسیر از نامک `apps-api` استفاده کرده باشید ، آدرس "
+"جدید به شکل لینک زیر خواهد بود :"
+
+#: modules/components/rewrite-json-rest.php:27
+msgid "e.g. api-json"
+msgstr "مثال : api-json"
+
+#: modules/components/rewrite-json-rest.php:36
+msgid "Block default /wp-json"
+msgstr "مسدود کردن مسیر پیشفرض  /wp-json"
+
+#: modules/components/rewrite-json-rest.php:37
+msgid ""
+"Block default /wp-json endpoint. This also can be used to block any JSON "
+"service version, even if not being re-mapped"
+msgstr ""
+"نقطه پایانی مسیر پیشفرض  /wp-json را مسدود نمایید .این گزینه می تواند هر "
+"ورژن دیگری از سرویس JSON را مسدود کند ، حتی اگر نقشه جدید برای وب سایت ساخته "
+"نشود ."
+
+#: modules/components/rewrite-json-rest.php:40
+msgid "Block any JSON REST calls"
+msgstr "مسدود کردن هر گونه فراخوانی JSON REST"
+
+#: modules/components/rewrite-json-rest.php:41
+msgid "This blocks the JSON REST API service."
+msgstr "این گزینه سرویس JSON REST API را مسدود می کند."
+
+#: modules/components/rewrite-json-rest.php:42
+msgid ""
+"This might be required by specific plugins, including WordPress <b>"
+"Gutenberg</b> editor. In such case, if you block the default, ensure you "
+"should provide a New JSON Path."
+msgstr ""
+"این ممکن است توسط افزونه های خاص ، از جمله ویرایشگر وردپرس گوتنبرگ مورد نیاز "
+"باشد. در چنین شرایطی ، اگر پیش فرض را مسدود کنید ، اطمینان حاصل کنید که یک "
+"مسیر جدید JSON تعریف کرده باشید ."
+
+#: modules/components/rewrite-json-rest.php:65
+#: modules/components/rewrite-json-rest.php:69
+msgid "Disable JSON REST V1 service"
+msgstr "غیرفعال کردن سرویس  JSON REST V1 ( ورژن 1)"
+
+#: modules/components/rewrite-json-rest.php:66
+#: modules/components/rewrite-json-rest.php:92
+msgid "An API service for WordPress which is active by default."
+msgstr "یک سرویس API است که برای وردپرس بصورت پیش فرض فعال است."
+
+#: modules/components/rewrite-json-rest.php:70
+#: modules/components/rewrite-json-rest.php:96
+msgid ""
+"The WordPress REST API is an easy-to-use set of HTTP endpoints which allows "
+"access a site data in simple JSON format. That including users, posts, "
+"taxonomies and more. Retrieving or updating is as simple as sending a HTTP "
+"request."
+msgstr ""
+"سرویس REST API وردپرس مجموعه ای از روش های ساده با استفاده ی راحت برای تنظیم "
+"نقاط پایانی HTTP است که اجازه می دهد به سادگی به داده های سایت با فرمت JSON "
+"دسترسی پیدا کرد. این شامل کاربران ، پست ها ، طبقه بندی ها و موارد دیگر می "
+"شود. بازیابی یا به روزرسانی به آسانی و راحتی ارسال یک درخواست HTTP است."
+
+#: modules/components/rewrite-json-rest.php:71
+#: modules/components/rewrite-json-rest.php:97
+msgid ""
+"A REST API can be consumed everywhere. On mobile applications, on front-end "
+"(web apps) or any other devices that have access on the net, practically "
+"everything can connect from anywhere to your site and interact though JSON "
+"REST API service."
+msgstr ""
+"REST API را می توان در همه جا استفاده و مصرف کرد. در برنامه های تلفن همراه ، "
+"در فرانت اند (برنامه های وب) یا هر دستگاه دیگری که به شبکه اینترنت دسترسی "
+"داشته باشد ، تقریباً هرچیزی می تواند از هر جایی به سایت شما وصل شود و با "
+"سرویس JSON REST API ارتباط برقرار کنند."
+
+#: modules/components/rewrite-json-rest.php:72
+msgid ""
+"V1 was the first development version of API, which currently is deprecated. "
+"To disable the usage of it, simply chose Yes."
+msgstr ""
+"ورژن 1 (V1) اولین نسخه برنامه نویسی شده این API بود که در حال حاضر منسوخ شده "
+"است. برای غیرفعال کردن استفاده از آن ، بله را انتخاب کنید."
+
+#: modules/components/rewrite-json-rest.php:91
+#: modules/components/rewrite-json-rest.php:95
+msgid "Disable JSON REST V2 service"
+msgstr "غیرفعال کردن سرویس JSON REST V2 ( ورژن 2)"
+
+#: modules/components/rewrite-json-rest.php:98
+msgid ""
+"V2 is the current development version of API, which is included into "
+"WordPress as default. To disable the usage of it, simply chose Yes."
+msgstr ""
+"ورژن 2 ( V2 ) نسخه برنامه نویسی شده ی  فعلی API است که به صورت پیش فرض در "
+"وردپرس گنجانده شده است. برای غیرفعال کردن استفاده از آن ، بله را انتخاب کنید."
+
+#: modules/components/rewrite-json-rest.php:99
+msgid ""
+"This might be required by specific plugins, including new WordPress editor "
+"Gutenberg."
+msgstr ""
+"این ممکن است توسط افزونه های خاص ، از جمله ویرایشگر جدید وردپرس گوتنبرگ مورد "
+"نیاز باشد."
+
+#: modules/components/rewrite-json-rest.php:125
+#: modules/components/general-meta.php:157
+#: modules/components/general-meta.php:161
+msgid "Disable output the REST API link tag into page header"
+msgstr "غیرفعال کردن برچسب پیوند REST API را در قسمت header صفحه"
+
+#: modules/components/rewrite-json-rest.php:126
+#: modules/components/general-meta.php:158
+msgid "By default a REST API link tag is being append to HTML."
+msgstr "به طور پیش فرض ، یک برچسب پیوند REST API در HTML پیوست می شود."
+
+#: modules/components/rewrite-json-rest.php:129
+msgid "disable_json_rest_wphead_link"
+msgstr "غیر فعال کردن json_rest_wphead_link"
+
+#: modules/components/rewrite-json-rest.php:130
+msgid ""
+"As default the API url is being append into the front html head tag. Using "
+"this option, it will be replaced."
+msgstr ""
+"به صورت پیش فرض ، آدرس API در تگ سربرگ HTML فرانت اند قرار دارد. با استفاده "
+"از این امکان ، این گزینه جایگزین آن خواهد شد ."
+
+#: modules/components/rewrite-json-rest.php:149
+msgid "Disable JSON REST WP RSD endpoint from XML-RPC responses"
+msgstr "نقطه پایانی JSON REST WP RSD را از پاسخ های XML-RPC غیرفعال کنید"
+
+#: modules/components/rewrite-json-rest.php:150
+msgid "By default a WP RSD endpoint is being append to the XML respose."
+msgstr "به طور پیش فرض ، نقطه انتهایی WP RDS به پاسخ XML اضافه می شود."
+
+#: modules/components/rewrite-json-rest.php:153
+msgid "disable_json_rest_xmlrpc_rsd"
+msgstr "غیرفعال کردن _json_rest_xmlrpc_rsd"
+
+#: modules/components/rewrite-json-rest.php:154
+msgid "Disable any RSD endpoint from a XML-RPC response."
+msgstr "هرگونه نقطه انتهایی RDS را از پاسخ های XML-RPC غیرفعال کنید."
+
+#: modules/components/rewrite-json-rest.php:172
+msgid "Disable Sends a Link header for the REST API"
+msgstr "ارسال لینک سربرگ را برای REST API غیر فعال کنید ."
+
+#: modules/components/rewrite-json-rest.php:173
+msgid "On template_redirect, disable Sends a Link header for the REST API."
+msgstr "ارسال لینک هدر را برای REST API در  template_redirect غیر فعال کنید."
+
+#: modules/components/rewrite-json-rest.php:176
+msgid "disable_json_rest_template_redirect"
+msgstr "غیرفعال کردن _json_rest_template_redirect"
+
+#: modules/components/rewrite-json-rest.php:177
+msgid "Disable Sends a Link header for the REST API, on template_redirect"
+msgstr "ارسال لینک هدر را برای REST API غیر فعال کنید ، در template_redirect "
+
+#: modules/components/general-html.php:20
+#: modules/components/general-html.php:24
+#: modules/components/general-css-combine.php:63
+#: modules/components/general-css-combine.php:67
+msgid "Remove Comments"
+msgstr "حذف کردن کامنت ها"
+
+#: modules/components/general-html.php:21
+msgid "Remove comments from HTML source code."
+msgstr "حدف کردن کامنت ها از کد های HTML"
+
+#: modules/components/general-html.php:25
+msgid ""
+"The HTML source code usually contain many comment lines, however there is no "
+"use for that, unless debugging. Remove all HTML Comments, which usually "
+"specify Plugins Name and Version. Any Internet Explorer conditional tags are "
+"preserved."
+msgstr ""
+"در سورس کد HTML معمولاً خط های زیادی توضیح وجود دارد ، اما عملا هیچ استفاده "
+"ای از آنها نمی شود ، مگر اینکه گاهی در اشکال زدایی ها استفاده شوند . تمام "
+"کامنت های HTML را که معمولاً نام و نسخه افزونه ها را مشخص می کنند را حذف "
+"کنید. هر تگ مورد نیاز اینترنت اکسپلورر حفظ می شود."
+
+#: modules/components/general-html.php:43
+#: modules/components/general-html.php:47
+#: modules/components/general-css-combine.php:86
+#: modules/components/general-css-combine.php:90
+msgid "Minify"
+msgstr "متراکم کردن"
+
+#: modules/components/general-html.php:44
+msgid "Minify HTML, Inline Styles, Inline JavaScripts."
+msgstr "HTML ، استایل های درون خطی ، جاوا اسکریپت های درون خطی را کمینه کنید."
+
+#: modules/components/general-html.php:48
+msgid ""
+"When you minify HTML it removes the unnecessary characters and lines in the "
+"source code. Indentation, comments, empty lines, etc. are not required in "
+"HTML. They just make the file easier to read. Cutting out all this "
+"unnecessary stuff can shave down your file size considerably. When you "
+"minify HTML code on your website, the server will send a much smaller page "
+"to the client making your website load quicker."
+msgstr ""
+"با متراکم کردن HTML ، کاراکتر ها و خطوط غیر ضروری را در سورس کد حذف کنید . "
+"وجود تو رفتگی ها ، کامنت ها ، خطوط خالی و ... در HTML لازم نیست . این کار "
+"فقط خواندن فایل را راحت می کند . حذف کردن همه این موارد غیر ضروری می تواند "
+"سایز فایل های شما را به میزان قابل توجهی کاهش دهد . وقتی که سورس های HTML را "
+"در وب سایت خود متراکم می کنید ، سرور صفحه بسیار کوچکی را برای کاربران ارسال "
+"می کند که بارگذاری وب سایت شما ، به مراتب سریعتر خواهد شد ."
+
+#: modules/components/general-html.php:49
+msgid "The Minify component include multiple options:"
+msgstr "امکان متراکم کردن کد ها شامل چندین گزینه است:"
+
+#: modules/components/general-html.php:54
+msgid "Minify JavaScript might produce errors for specific plugins."
+msgstr "متراکم کردن JavaScript ممکن است برای پلاگین های خاص خطایی ایجاد کند."
+
+#: modules/components/general-html.php:61
+msgid "Html"
+msgstr ""
+
+#: modules/components/general-html.php:62
+msgid "Html & Css"
+msgstr ""
+
+#: modules/components/general-html.php:63
+msgid "Html & JavaScript"
+msgstr ""
+
+#: modules/components/general-html.php:64
+msgid "All"
+msgstr "همه"
+
+#: modules/components/general-html.php:74
+#: modules/components/general-html.php:78
+msgid "Remove general classes from body tag"
+msgstr "حذف کلاس های عمومی از تگ های بدنه"
+
+#: modules/components/general-html.php:75
+#: modules/components/general-html.php:79
+msgid "Remove general classes from body tag."
+msgstr "حذف کلاس های عمومی از تگ های بدنه"
+
+#: modules/components/general-html.php:80
+#: modules/components/general-html.php:103
+#: modules/components/general-html.php:127
+#: modules/components/general-html.php:150
+#: modules/components/general-html.php:172
+msgid ""
+"This can produce layout issues with certain themes, if something break this "
+"should be turned off."
+msgstr "این امکان در صورتی که مشکلی در قالب ایجاد کرد ، می تواند خاموش شود ."
+
+#: modules/components/general-html.php:97
+#: modules/components/general-html.php:101
+msgid "Remove ID from Menu items"
+msgstr "حذف شناسه از موارد منو"
+
+#: modules/components/general-html.php:98
+#: modules/components/general-html.php:122
+msgid "Remove class attribute from all menu items."
+msgstr "ویژگی کلاس را از همه ی موارد فهرست حذف کنید."
+
+#: modules/components/general-html.php:102
+#: modules/components/general-html.php:126
+msgid ""
+"Remove class attribute from all menu items. Any classes which include a "
+"'current' prefix or contain 'has-children' will be preserved."
+msgstr ""
+"ویژگی کلاس را از همه ی موارد فهرست حذف کنید. هر کلاس که شامل پیشوند "
+"\"current\" یا حاوی \"has-children\" باشد ، حفظ می شود."
+
+#: modules/components/general-html.php:121
+#: modules/components/general-html.php:125
+msgid "Remove class from Menu items"
+msgstr "حذف کلاس ها از موارد منو"
+
+#: modules/components/general-html.php:144
+#: modules/components/general-html.php:148
+msgid "Remove general classes from post"
+msgstr "حذف کلاس های عمومی از پست"
+
+#: modules/components/general-html.php:145
+#: modules/components/general-html.php:149
+msgid "Remove general classes from post."
+msgstr "حذف کلاس های عمومی از پست"
+
+#: modules/components/general-html.php:166
+#: modules/components/general-html.php:170
+msgid "Remove general classes from images"
+msgstr "حذف کلاس های عمومی از تصاویر"
+
+#: modules/components/general-html.php:167
+#: modules/components/general-html.php:171
+msgid "Remove general classes from media tags."
+msgstr "حذف کلاس های عمومی از فایل های رسانه"
+
+#: modules/components/rewrite-wp_content_path.php:16
+#: modules/components/rewrite-wp_content_path.php:20
+msgid "New Content Path"
+msgstr "مسیر جدید wp-content"
+
+#: modules/components/rewrite-wp_content_path.php:17
+msgid "Your default wp-content path is set to"
+msgstr "مسیر پیشفرض فایل wp-content  وردپرس  شما : "
+
+#: modules/components/rewrite-wp_content_path.php:21
+msgid ""
+"As default a WordPress installation contain a wp-content folder which store "
+"files and resources used by themes and plugin. The wp-content is a common "
+"fingerprint, which makes easily to anyone to identify the site as being "
+"created on WordPress."
+msgstr ""
+"وردپرس به صورت پیشفرض ، حاوی پوشه ای به نام wp-content می باشد که تمام فایل "
+"های مورد استفاده قالب ها و افزونه ها و ... در آن ذخیره می شوند. <b>wp-"
+"content </b> یکی از شناخته شده ترین اثر انگشت هایی است که هر کسی می تواند با "
+"دسترسی به آن ، سایتی که با وردپرس ساخته شده است را به راحتی تشخیص دهد ."
+
+#: modules/components/rewrite-wp_content_path.php:23
+msgid "After filling in this option e.g. data the links become:"
+msgstr ""
+"بعد از پر کردن این گزینه ، لینک یا مسیر این پوشه برای مثال به شکل زیر تغییر "
+"می کند :"
+
+#: modules/components/rewrite-wp_content_path.php:28
+msgid "e.g. my_content"
+msgstr "مثال : my_content"
+
+#: modules/components/rewrite-wp_content_path.php:38
+msgid "Block wp-content URL"
+msgstr "مسدود کردن URL پیشفرض wp-content"
+
+#: modules/components/rewrite-wp_content_path.php:39
+msgid "Block default /wp-content/ path. Your default wp-content path is set to"
+msgstr ""
+"دسترسی به فایل های فولدر /wp-content/ از طریق URL مسدود می شوند .\n"
+" مسیر فایل /wp-content/ شما در حال حاضر به این نام می باشد : "
+
+#: modules/components/rewrite-wp_content_path.php:42
+msgid "New content Path"
+msgstr "مسیر جدید wp-content"
+
+#: modules/components/rewrite-wp_content_path.php:43
+msgid ""
+"This blocks the default wp-content urls only for non loged-in users.<br />"
+"The functionality apply only if <b>New Content Path</b> option is filled in."
+msgstr ""
+"دسترسی به مسیر پیشفرض wp-content فقط برای کاربرانی که وارد نشده اند مسدود می "
+"شود .\n"
+"</br>این مورد فقط زمانی درست عمل خواهد کرد که گزینه ی <b>مسیر جدید wp-"
+"content</b> پر شده باشد."
+
+#: modules/components/general-css-combine.php:33
+msgid "CSS Processing type"
+msgstr "نوع پردازش CSS"
+
+#: modules/components/general-css-combine.php:34
+msgid ""
+"All assets and inline CSS will be post-processed, using Combine or In-place "
+"technique."
+msgstr ""
+"تمام فایل ها (assets) و CSS های درون خطی پس از پردازش ، با استفاده از تکنیک "
+"Combine یا In-place استفاده می شوند."
+
+#: modules/components/general-css-combine.php:37
+msgid "CSS Combine Code"
+msgstr ""
+
+#: modules/components/general-css-combine.php:38
+msgid ""
+"If the site use a plugin (e.g. cache plugin) to concatenate/compress CSS "
+"files, this functionality may fail."
+msgstr ""
+"اگر این سایت از افزونه ای (به عنوان مثال افزونه های حافظه نهان) برای جمع "
+"آوری / فشرده سازی پرونده های CSS استفاده می کند ، ممکن است این امکان به "
+"درستی عمل نکند ."
+
+#: modules/components/general-css-combine.php:39
+msgid ""
+"The module implement a post-processing engine, to provide additional "
+"functionality on Cascading Style Sheet data type as Replacements."
+msgstr ""
+"این ماژول یک موتور پس پردازش را پیاده سازی می کند تا بتوانید امکان جایگزینی "
+"را در فایل های CSS داشته باشید ."
+
+#: modules/components/general-css-combine.php:42
+msgid ""
+"<b>Combine</b>: Merge all CSS code in (usually) 2 files, one in the header "
+"and another in the footer."
+msgstr ""
+"<b>Combine - ترکیبی : </b> همه کد های CSS را (معمولاً) در 2 پرونده ادغام می "
+"کند ، یکی در هدر یا سربرگ و دیگری در پاورقی یا فوتر ."
+
+#: modules/components/general-css-combine.php:43
+msgid ""
+"<b>In Place</b>: All CSS code will be processed and the results will be left "
+"in the same spot as an initial asset or in-line CSS. "
+msgstr ""
+"<b>In Place - درجا  : </b>  تمام کدهای CSS پردازش می شوند و نتایج در همان "
+"نقطه به عنوان دارایی اولیه یا CSS درون خطی باقی می مانند."
+
+#: modules/components/general-css-combine.php:64
+msgid "Remove all Comments from combined css files."
+msgstr "حذف همه کامنت ها از فایلهای CSS ترکیب شده ."
+
+#: modules/components/general-css-combine.php:68
+#: modules/components/general-css-combine.php:91
+msgid "This option require CSS Combine Code to be active."
+msgstr "این گزینه نیاز به فعال سازی گزینه Combine در نوع پردازش CSS دارد."
+
+#: modules/components/general-css-combine.php:69
+msgid ""
+"Remove all Comments from combined css files, which usualy specify Theme and "
+"Plugins Name and Version."
+msgstr ""
+"همه کامنت ها را از فایلهای CSS ترکیب شده حذف کنید ، که معمولاً نام و نسخه "
+"Theme و Plugins را مشخص می کند."
+
+#: modules/components/general-css-combine.php:87
+msgid "Minify the combined css files. "
+msgstr "کاهش حجم فایلهای css ترکیب شده را کم کنید."
+
+#: modules/components/general-css-combine.php:92
+msgid ""
+"Minify the Cascading Style Sheet data for smaller files. This slighlty "
+"increase the overal site speed."
+msgstr ""
+"داده های استایل را برای پرونده های کوچکتر به حداقل برسانید. این کمی سرعت کلی "
+"سایت را افزایش می دهد."
+
+#: modules/components/general-css-combine.php:109
+msgid "Exclude style files from CSS Combine"
+msgstr "استایل های دلخواه خود را از CSS Combine  خارج کنید ."
+
+#: modules/components/general-css-combine.php:114
+msgid "Specify any style files which will be excluded when using CSS Combine."
+msgstr ""
+"فایل های استایل را که هنگام استفاده از CSS Combine حذف می شوند ، مشخص کنید."
+
+#: modules/components/general-css-combine.php:114
+msgid ""
+"Use only style filename and relative path e.g. <code>mediaelement.css</code>,"
+" <code>plugin-slug/player.min.css</code>  one per row."
+msgstr ""
+"فقط از نام فایل استایل و مسیر آن استفاده کنید به عنوان مثال <code>"
+"mediaelement.css</code> ، <code>plugin-slug/player.min.css</code> هر کدام در "
+"یک خط ."
+
+#: modules/components/general-css-combine.php:129
+msgid "Exclude CSS Block from Combine"
+msgstr "بلوک دلخواه CSS را از Combine - ترکیب شدن خارج کنید "
+
+#: modules/components/general-css-combine.php:135
+msgid "Specify partial CSS code block to be excluded from Combine."
+msgstr "کد بلوک CSS را مشخص کنید تا از ترکیب شدن حذف شود."
+
+#: modules/components/general-css-combine.php:135
+msgid ""
+"Use a full line or part of it to avoid matching other codes, avoid simple "
+"words which can match other CSS code. For inline styles, tag attributes can "
+"be used."
+msgstr ""
+"برای جلوگیری از تطبیق کدهای دیگر ،  از یک خط کامل یا بخشی از آن استفاده کنید "
+"، از کلمات ساده که می توانند با کد CSS دیگر مطابقت داشته باشند خودداری کنید. "
+"برای استایل های درون خطی، ویژگی های تگ را می توان مورد استفاده قرار داد."
+
+#: modules/components/general-feed.php:16
+#: modules/components/general-feed.php:20
+#: modules/components/general-feed.php:44
+msgid "Remove feed|rdf|rss|rss2|atom links"
+msgstr "حذف لینک های feed|rdf|rss|rss2|atom"
+
+#: modules/components/general-feed.php:17
+msgid ""
+"Remove feed|rdf|rss|rss2|atom links within head. Also block such content "
+"functionality."
+msgstr ""
+"حذف لینک های feed|rdf|rss|rss2|atom از سربرگ . همچنین عملکردهای مشابه را نیز "
+"بلاک کنید ."
+
+#: modules/components/general-feed.php:21
+msgid ""
+"A feed is a function of special software that allows feedreaders to access a "
+"site, automatically looking for new content and then posting the information "
+"about new content and updates to another site. This provides a way for users "
+"to keep up with the latest and hottest information posted on different "
+"blogging sites."
+msgstr ""
+"فید یک امکان بخصوص است که با استفاده از نرم افزار های فید خوان اجازه می دهد "
+"که به جدیدترین مطالب و اطلاعات منتشر شده در وب سایت دسترسی داشت . فید به "
+"صورت خودکار به دنبال مطالب جدید و سپس ارسال اطلاعات در مورد محتوی جدید و یا "
+"بروزرسانی شده به یک وب سایت دیگر فعالیت می کند .<br>فید به کاربران اجازه می "
+"دهد که به سادگی و یکجا به جدیدترین اطلاعات منتشر شده در <b>وبلاگ</b> وب سایت "
+"های مختلف مطلع شوند ."
+
+#: modules/components/general-feed.php:22
+msgid ""
+"There are several different kinds of feeds, read by different feedreaders. "
+"Some feeds include RSS (alternately defined as 'Rich Site Summary' or "
+"'Really Simple Syndication'), Atom or RDF files.."
+msgstr ""
+"چندین نوع مختلف از فید وجود دارد که توسط فید خوان های مختلف خوانده می شود . "
+"برخی از فیدها  به ترتیب RSS ( شامل عنوان و خلاصه ای از مطلب یا لینک به آن "
+"مطلب ) ، Atom یا RDF تعریف شده اند ."
+
+#: modules/components/general-feed.php:23
+#: modules/components/general-scripts.php:23
+#: modules/components/general-meta.php:115
+#: modules/components/general-meta.php:163
+#: modules/components/general-meta.php:190
+#: modules/components/general-meta.php:216
+#: modules/components/general-meta.php:240
+#: modules/components/general-meta.php:264
+msgid "Sample tag:"
+msgstr "نمونه تگ :"
+
+#: modules/components/general-feed.php:25
+msgid "Set this option to Yes also disable the feed service."
+msgstr ""
+"این گزینه را روی <b>بله</b> تنظیم کنید و همچنین سرویس فید را غیر فعال کنید  ."
+
+#: modules/components/general-feed.php:40
+msgid "Block feed|rdf|rss|rss2|atom links"
+msgstr "مسدود کردن لینک های feed|rdf|rss|rss2|atom"
+
+#: modules/components/general-feed.php:41
+msgid "Block default feed|rdf|rss|rss2|atom links."
+msgstr "مسدود کردن لینک های پیشفرض feed|rdf|rss|rss2|atom"
+
+#: modules/components/general-feed.php:45
+msgid "Block access to any of default feed|rdf|rss|rss2|atom links."
+msgstr "دسترسی به لینک های هرکدام از feed|rdf|rss|rss2|atom ها مسدود کنید ."
+
+#: modules/components/admin-admin_url.php:17
+#: modules/components/admin-admin_url.php:23
+#: modules/components/admin-admin_ajax_php.php:21
+msgid "New Admin Url"
+msgstr "مسیر جدید مدیریت"
+
+#: modules/components/admin-admin_url.php:19
+msgid "Create a new admin url instead default /wp-admin and /login."
+msgstr "یک مسیر جدید به جای مسیر پیشفرض /wp-admin و /login ایجاد کنید ."
+
+#: modules/components/admin-admin_url.php:24
+msgid ""
+"Despite the flexibility of WordPress framework, there are few ways to "
+"configure the admin login url customization for making a bit safer against "
+"unauthorized access and brute force attempts. All methods are not provided "
+"out of the box through WordPress core but require custom code to make it "
+"happen."
+msgstr ""
+"با وجود انعطاف پذیری چارچوب WordPress ، راه هایی برای پیکربندی سفارشی سازی "
+"آدرس ورود به سیستم برای ایجاد کمی امنیت در برابر دسترسی های غیرمجاز و تلاش "
+"های فراگیر وجود دارد. تمام این روش ها از طریق هسته و چارچوب وردپرس ارائه نمی "
+"شوند اما برای تحقق آنها به شخصی سازی کد ها نیاز دارند."
+
+#: modules/components/admin-admin_url.php:25
+msgid ""
+"This feature provide an easy way to change the default /wp-admin/ to a "
+"different slug."
+msgstr ""
+"این ویژگی روشی آسان برای تغییر نامک پیش فرض  /wp-admin/  به شما ارائه می دهد "
+"."
+
+#: modules/components/admin-admin_url.php:26
+msgid ""
+"Once changed, the new url will be used to access all Dashboard sections, "
+"from Posts and Pages section to Plugins, Appearance and Settings."
+msgstr ""
+"پس از تغییر ، از آدرس اینترنتی جدید برای دسترسی به همه بخش های داشبورد ، از "
+"بخش ارسال پست ها و صفحات گرفته تا افزونه ها ، ظاهر و تنظیمات استفاده می شود."
+
+#: modules/components/admin-admin_url.php:39
+#: modules/components/admin-admin_url.php:43
+#: modules/components/admin-admin_ajax_php.php:44
+msgid "Block default Admin Url"
+msgstr "مسدود کردن لینک پیشفرض مدیریت"
+
+#: modules/components/admin-admin_url.php:40
+msgid "Block default admin url and files from being accesible."
+msgstr "مسیر پیشفرض ورود به مدیریت و فایل های آن را مسدود کنید ."
+
+#: modules/components/admin-admin_url.php:44
+msgid ""
+"If set to Yes, the old admin url will be blocked and a default theme 404 "
+"error page will be returned."
+msgstr ""
+"در صورت انتخاب گزینه بله ، لینک پیشفرض مسدود شده و صفحه خطای پیش فرض 404 "
+"نمایش داده می شود."
+
+#: modules/components/admin-admin_url.php:323
+msgid "Hello"
+msgstr ""
+
+#: modules/components/admin-admin_url.php:324
+msgid ""
+"This is an automated message to inform that your login url has been changed "
+"at"
+msgstr ""
+
+#: modules/components/admin-admin_url.php:325
+msgid "The new login url is"
+msgstr ""
+
+#: modules/components/admin-admin_url.php:326
+msgid "Additionality you can use this to recover the old login / admin links "
+msgstr ""
+
+#: modules/components/admin-admin_url.php:327
+msgid "Please keep this url safe for recover, if forgot"
+msgstr ""
+
+#: modules/components/rewrite-upload_path.php:17
+#: modules/components/rewrite-upload_path.php:21
+msgid "New Uploads Path"
+msgstr "مسیر جدید پوشه آپلود ها"
+
+#: modules/components/rewrite-upload_path.php:18
+msgid "The default uploads path is set to"
+msgstr "آدرس پیشفرض پوشه آپلود ها :"
+
+#: modules/components/rewrite-upload_path.php:22
+msgid ""
+"Use any alphanumeric symbols for this field which will be used as the new "
+"slug for the uploads folder. Using this option the default media folder can "
+"be mapped to another path. Filling with a slug like 'media' the links become "
+"like this:"
+msgstr ""
+"برای پر کردن این فیلد فقط از حروف و اعداد استفاده کنید که به عنوان Slug "
+"(نامک) جدید برای پوشه آپلود ها استفاده شود . با استفاده از این گزینه می "
+"توانید مسیر پیشفرض رسانه ها در نقشه وب سایت را ، در مسیر دیگری تعریف کنید . "
+"به فرض اینکه شما از نامک 'media' استفاده کنید ، آدرس پوشه آپلود ها به شکل "
+"زیر تغییر خواهد کرد :"
+
+#: modules/components/rewrite-upload_path.php:27
+msgid "e.g. my_uploads"
+msgstr "مثال : my_uploads"
+
+#: modules/components/rewrite-upload_path.php:36
+msgid "Block uploads URL"
+msgstr "مسدود کردن مسیر آپلودها"
+
+#: modules/components/rewrite-upload_path.php:37
+msgid ""
+"Block default /wp-content/uploads/ media folder from being accesible through "
+"default urls."
+msgstr ""
+"دسترسی به فایل های موجود در /wp-content/uploads/ از طریق لینک پیشفرض را "
+"مسدود کنید."
+
+#: modules/components/rewrite-upload_path.php:40
+msgid "Block default uploads URL"
+msgstr "مسدود کردن مسیر پیشفرض پوشه آپلودها"
+
+#: modules/components/rewrite-upload_path.php:41
+msgid ""
+"This blocks the default wp-content/plugins/ url.<br />The functionality "
+"apply only if <b>New Uploads Path</b> option is filled in."
+msgstr ""
+"دسترسی به مسیر پیشفرض wp-content/plugins/ فقط برای کاربرانی که وارد نشده اند "
+"مسدود می شود .\n"
+"</br>این مورد فقط زمانی درست عمل خواهد کرد که فیلد گزینه ی <b>مسیر "
+"جدیدUploads Path</b> پر شده باشد."
+
+#: modules/components/rewrite-upload_path.php:60
+#: modules/components/rewrite-upload_path.php:64
+msgid "Redirect old URLs"
+msgstr "ریدایرکت لینک های قدیمی"
+
+#: modules/components/rewrite-upload_path.php:61
+msgid ""
+"All old URLs using format /wp-content/uploads/ will be redirected to new "
+"upload path."
+msgstr ""
+"تمام لینک های قدیمی که از فرمت  /wp-content/uploads/ استفاده می کنند به مسیر "
+"جدید ریدایرکت خواهند شد."
+
+#: modules/components/rewrite-upload_path.php:65
+msgid ""
+"If option active, all old URLs using format /wp-content/uploads/ will be "
+"redirected to the new upload path.<br />The redirect type is 301 - Moved "
+"Permanently, is recommended for SEO purposes. <br />The functionality apply "
+"only if <b>New Uploads Path</b> option is filled in."
+msgstr ""
+"در صورت فعال بودن این گزینه ، تمام URL های قدیمی با استفاده از قالب / wp-"
+"content / upload / به مسیر جدید هدایت می شوند. <br /> نوع ریدایرکت 301 و "
+"دائمی خواهد بود که برای سئو بسیار مهم است . <br /> این گزینه فقط در صورتی "
+"عمل خواهد کرد که فیلد <b>New Uploads Path</b> پر شده باشد ."
+
+#: modules/components/general-scripts.php:17
+msgid "Remove version number from enqueued script files."
+msgstr "حذف شماره نسخه درج شده در فایل های جاوا اسکریپت ."
+
+#: modules/components/general-scripts.php:21
+msgid ""
+"This provide a method to remove the JavaScript version number which is being "
+"append at the end of every script file. Generally this is intended to be a "
+"plain information upon the JavaScript code version, however not being used "
+"within any functionality or code run."
+msgstr ""
+"این گزینه راهی برای حذف شماره نسخه یا ورژن در فایل های JavaScript که در آخر "
+"لینک هر فایل جاوا اسکریپت وجود دارد را ارائه می دهد . به طور کلی این مورد "
+"برای این در نظر گرفته شده است که یک اطلاعات ساده در مورد نسخه جاوا اسکریپت "
+"باشد ، اما در هیچ عملکرد یا کد خاصی اجرا نمی شود."
+
+#: modules/components/general-scripts.php:22
+msgid ""
+"Keeping version number for scripts provide additional information to hackers "
+"which try to identify specific JavaScript code and version which know as "
+"being vulnerable."
+msgstr ""
+"نگه داشتن شماره نسخه ی فایل های جاوا اسکریپت ، اطلاعات بیشتری را در اختیار "
+"هکرها قرار می دهد که سعی در شناسایی کد یا نسخه ای خاص دارند که به عنوان آسیب "
+"پذیر شناخته می شوند."
+
+#: modules/components/general-scripts.php:25
+msgid "Once option set to Yes the tag becomes:"
+msgstr "بعد از تنظیم کردن این گزینه روی بله ، لینک تبدیل می شود به :"
+
+#: modules/components/general-tobots-txt.php:16
+#: modules/components/general-tobots-txt.php:20
+msgid "Disable admin url within Robots.txt"
+msgstr "غیرفعال کردن لینک ورود به مدیریت در Robots.txt"
+
+#: modules/components/general-tobots-txt.php:17
+msgid ""
+"Disable any admin url which is being automatically generated by WordPress "
+"when called robots.txt."
+msgstr ""
+"نوشتن لینک ورود به مدیریت که توسط وردپرس در فایل robots.txt به صورت اتوماتیک "
+"وارد می شود را غیرفعال کنید."
+
+#: modules/components/general-tobots-txt.php:21
+msgid ""
+"The robots.txt file plays a major role in search engine ranking. It blocks "
+"search engine bots and helps index and crawl important parts of your site."
+msgstr ""
+"پرونده robots.txt نقش مهمی در رتبه بندی سایت در موتورهای جستجو دارد. این "
+"امکان اجازه نمی دهد که رباتهای موتورهای جستجو قسمت های مهم وب سایت را در "
+"نتایج نمایش دهند ."
+
+#: modules/components/general-tobots-txt.php:22
+msgid ""
+"As default the robots.txt also includes an allow clause to admin URL and "
+"admin-ajax.php url. Once customized those areas, the new slugs might not "
+"want to be show to anyone. Turn this option to Yes removed any reference to "
+"new wp-admin and admin-ajax.php."
+msgstr ""
+"به طور پیش فرض ، robots.txt شامل یک بند است که اجازه مشاهده لینک های ورود به "
+"مدیریت و همچنین admin-ajax.php است . بعد از سفارشی کردن آدرس های این دو فایل "
+"، طبیعتا نمی خواهید لینک های این دو را کسی ببیند . این گزینه را روی بله "
+"تنظیم کنید . این امکان هرگونه اشاره به wp-admin و admin-ajax.php و یا آدرس "
+"های جدید آن ها را حذف می کند ."
+
+#: modules/components/general-tobots-txt.php:23
+msgid "Sample robots.txt url:"
+msgstr "نمونه لینک فایل robots.txt :"
+
+#: modules/components/admin-admin_ajax_php.php:17
+msgid "New admin-ajax&#46;php"
+msgstr "مسیر جدید admin-ajax&#46;php"
+
+#: modules/components/admin-admin_ajax_php.php:18
+msgid "Map a new slug for admin-ajax.php."
+msgstr "یک مسیر جدید برای admin-ajax.php تعریف کنید ."
+
+#: modules/components/admin-admin_ajax_php.php:22
+msgid ""
+"The admin-ajax.php is being used by WordPress core and many plugins to "
+"initiate AJAX calls from dashboard and front side. This is specific to "
+"WordPress, a site using such slug is an easy target to hack attempts."
+msgstr ""
+"admin-ajax.php توسط هسته وردپرس و بسیاری از افزونه ها برای شروع تماس AJAX از "
+"داشبورد و فرانت اند استفاده می شود. این فایل مخصوص وردپرس است ، سایتی که از "
+"این نامک استفاده می کند ، هدف آسانی برای هکر ها است."
+
+#: modules/components/admin-admin_ajax_php.php:23
+msgid "Default url can be found in html source like this"
+msgstr "آدرس اینترنتی پیش فرض را می توان در سورس html پیدا کرد . مثل این :"
+
+#: modules/components/admin-admin_ajax_php.php:25
+msgid "or like this"
+msgstr "یا مثل این :"
+
+#: modules/components/admin-admin_ajax_php.php:27
+msgid ""
+"Rewriting the admin-ajax.php to another slug to increase overall security "
+"for a WordPress site. It also allow to restrict admin access for a range of "
+"IPs without disabling the admin-ajax.php functionality calls."
+msgstr ""
+"با تغییر نامک پیشفرض admin-ajax.php  به یک نامک جدید می توانید امنیت کلی "
+"وردپرس را افزایش دهید .همچنین امکان محدود کردن دسترسی به مدیریت برای طیف "
+"وسیعی از IP ها بدون غیرفعال کردن تماس های عملکردی admin-ajax.php وجود دارد."
+
+#: modules/components/admin-admin_ajax_php.php:40
+msgid "Block default admin-ajax&#46;php"
+msgstr "مسدود کردن مسیر پیشفرض admin-ajax&#46;php"
+
+#: modules/components/admin-admin_ajax_php.php:41
+msgid "Block default admin-ajax&#46;php from being accesible."
+msgstr "مسیر پیشفرض admin-ajax&#46;php را از دسترس خارج کنید ."
+
+#: modules/components/admin-admin_ajax_php.php:45
+msgid ""
+"If set to Yes, the old ajax url will be blocked and a default theme 404 "
+"error page will be returned."
+msgstr ""
+"اگر روی بله تنظیم شود ، لینک قدیمی ajax مسدود خواهد شد و صفحه پیش فرض خطای "
+"404 نمایش داده می شود."
+
+#: modules/components/rewrite-comments.php:17
+msgid "New wp-comments-post.php Path"
+msgstr "مسیر جدید wp-comments-post.php"
+
+#: modules/components/rewrite-comments.php:18
+msgid "The default path is set to wp-comments-post.php"
+msgstr "مسیر پیشفرض این فایل wp-comments-post.php می باشد."
+
+#: modules/components/rewrite-comments.php:21
+msgid "New wp-comments-post.php"
+msgstr ""
+
+#: modules/components/rewrite-comments.php:22
+msgid "As default the form data is being sent and processed at:"
+msgstr "در حالت پیشفرض ، داده های فرم ، ارسال و پردازش می شوند در :"
+
+#: modules/components/rewrite-comments.php:24
+msgid ""
+"This makes it easy to recognise as WordPress form. Boots always search for "
+"such file ( wp-comments-post.php ) and automatically submit spam messages."
+msgstr ""
+"این مورد شناسایی وردپرس را به سادگی میسرمی کند . ربات ها همیشه به دنبال چنین "
+"فایل هایی ( wp-comments-post.php ) می گردند و به صورت اتوماتیک شروع به ارسال "
+"اسپم به آنها می کنند ."
+
+#: modules/components/rewrite-comments.php:25
+msgid "Though this option a new file slug can replace the default."
+msgstr ""
+"ولی در این گزینه ، یک نامک جدید برای این فایل ، می تواند جایگزین پیش فرض شود."
+
+#: modules/components/rewrite-comments.php:30
+msgid "e.g. user-input.php"
+msgstr "مثال : user-input.php"
+
+#: modules/components/rewrite-comments.php:39
+#: modules/components/rewrite-comments.php:43
+msgid "Block wp-comments-post.php"
+msgstr "مسدود کردن wp-comments-post.php"
+
+#: modules/components/rewrite-comments.php:40
+msgid "Block default wp-comments-post.php."
+msgstr "مسدود کردن مسیر پیشفرض wp-comments-post.php ."
+
+#: modules/components/rewrite-comments.php:44
+msgid ""
+"After changing the default wp-comments-post.php, the old url is still "
+"accessible, this provide a way to block the old.<br />The functionality "
+"apply only if <b>New wp-comments-post.php</b> option is filled in."
+msgstr ""
+"پس از تغییر پیش فرض wp-comments-post.php ، آدرس اینترنتی قدیمی همچنان در "
+"دسترس خواهد بود ، و این گزینه راهی برای مسدود کردن آدرس قدیمی است.<br /> این "
+"گزینه فقط در صورتی به درستی عمل خواهد کرد که فیلد مسیر جدید<b>wp-comments-"
+"post.php</b> پر شده باشد ."
+
+#: modules/components/rewrite-xml-rpc-path.php:18
+msgid "The default XML-RPC path is set to xmlrpc.php."
+msgstr "مسیر پیشفرض این فایل xmlrpc.php می باشد ."
+
+#: modules/components/rewrite-xml-rpc-path.php:22
+msgid ""
+"XML-RPC is a remote procedure call (RPC) protocol which uses XML to encode "
+"its calls and HTTP as a transport mechanism. This service allow other "
+"applications to talk to your WordPress site."
+msgstr ""
+"XML-RPC پروتکل فراخوانی از راه دور (RPC) است که از XML برای رمزگذاری "
+"فراخوانی ها و از HTTP به عنوان مکانیزم نقل و انتقال استفاده می کند. این "
+"سرویس به سایر برنامه ها امکان می دهد تا با سایت وردپرس شما ارتباط داشته "
+"باشند."
+
+#: modules/components/rewrite-xml-rpc-path.php:23
+msgid "As default the path to XML-RPC file is:"
+msgstr "آدرس پیشفرض فایل XML-RPC عبارت است از :"
+
+#: modules/components/rewrite-xml-rpc-path.php:25
+msgid ""
+"Through this option it can be changed to anything else. This ensure the "
+"protocol will not be called by anyone who don't know the actual path."
+msgstr ""
+"از طریق این گزینه می توان آن را به هر چیز دیگری تغییر داد. با تغییر مسیر این "
+"فایل اطمینان حاصل می کنید که این پروتکل توسط کسی که مسیر واقعی را نمی داند "
+"فراخوانی نخواهد شد."
+
+#: modules/components/rewrite-xml-rpc-path.php:30
+msgid "e.g. my-xml-rpc.php"
+msgstr "مثال : my-xml-rpc.php"
+
+#: modules/components/rewrite-xml-rpc-path.php:39
+#: modules/components/rewrite-xml-rpc-path.php:43
+msgid "Block default xmlrpc.php"
+msgstr "مسدود کردن مسیر پیشفرض xmlrpc.php"
+
+#: modules/components/rewrite-xml-rpc-path.php:40
+msgid "Shut down XML-RPC service."
+msgstr "سرویس XML-RPC را خاموش کنید."
+
+#: modules/components/rewrite-xml-rpc-path.php:44
+msgid ""
+"This blocks the default XML-RPC service. The functionality apply if <b>New "
+"XML-RPC Path</b> option is filled in or not."
+msgstr ""
+"این گزینه سرویس پیش فرض XML-RPC را مسدود می کند. این عملکرد فقط در صورتی "
+"کاربرد دارد که فیلد <b>مسیر جدید فایل XML-RPC </b>پر شده باشد ."
+
+#: modules/components/rewrite-xml-rpc-path.php:45
+msgid ""
+"Keep in mind that some plugins like Jetpack use this API, so disabling might "
+"break specific functionality."
+msgstr ""
+"به خاطر داشته باشید که برخی افزونه ها مانند Jetpack از این API استفاده می "
+"کنند ، بنابراین غیرفعال کردن این امکان ممکن است برخی از قابلیت های خاص و یا "
+"فعالیت افزونه های شما را مختل کند ."
+
+#: modules/components/rewrite-xml-rpc-path.php:63
+#: modules/components/rewrite-xml-rpc-path.php:67
+msgid "Disable XML-RPC authentication"
+msgstr "غیر فعال کردن تأیید هویت XML-RPC "
+
+#: modules/components/rewrite-xml-rpc-path.php:64
+msgid ""
+"Filter whether XML-RPC methods requiring authentication, such as for "
+"publishing purposes, are enabled."
+msgstr ""
+"فیلتر کنید که احراز هویت متد XML-RPC در چه مواردی مورد نیاز است ، برای مثال "
+"در انتشار اهداف فعال است ."
+
+#: modules/components/rewrite-xml-rpc-path.php:68
+msgid ""
+"As default it require authentication for the protocol to be used along with "
+"a remote application. Activating the option, no authentication will be "
+"required through a call. Recommended is to be set to No."
+msgstr ""
+"به عنوان پیش فرض ، برای مورد استفاده قرار گرفتن این پروتکل توسط یک برنامه از "
+"راه دور به احراز هویت احتیاج است. با فعال کردن این گزینه ، هیچگونه تأیید "
+"اعتبار برای فراخوانی ها لازم نخواهد بود. توصیه می شود روی گزینه <b>خیر</b> "
+"تنظیم شود."
+
+#: modules/components/rewrite-xml-rpc-path.php:87
+#: modules/components/rewrite-xml-rpc-path.php:91
+msgid "Remove pingback"
+msgstr "حذف پینگ بک (pingback)"
+
+#: modules/components/rewrite-xml-rpc-path.php:88
+msgid "Remove pingback link tag from theme."
+msgstr "حذف تگ لینک پینگ بک از پوسته"
+
+#: modules/components/rewrite-xml-rpc-path.php:92
+msgid ""
+"A pingback is one of four types of link-back methods for Web authors to "
+"request notification when somebody links to one of their documents. This "
+"enables authors to keep track of who is linking to, or referring to their "
+"articles Using this option this functionality can be removed."
+msgstr ""
+"پینگ بک یکی از چهار نوع روش اطلاع از بک لینک است که نویسندگان وب سایت ها در "
+"اسناد یا مطالب خود قرار می دهند که در هنگامی که دیگران به وب سایت آنها "
+"پیوندی دادند ، به وسیله دریافت نوتیفیکیشن از آن مطلع شوند . این امکان "
+"نویسندگان را قادر می سازد پیگیری کنند که چه کسی به آنها بک لینک داده یا به "
+"مقالات آنها مرجعیت داده است ،با استفاده از این گزینه می توان این قابلیت را "
+"حذف کرد ."
+
+#: modules/components/rewrite-map_custom_urls.php:17
+msgid "Map Custom Urls"
+msgstr "نقشه ی لینک های سفارشی"
+
+#: modules/components/rewrite-map_custom_urls.php:18
+msgid ""
+"Custom URLs mapping for links in HTML. The substitution is case-insensitive."
+msgstr ""
+"جایگزینی URL های سفارشی برای لینک های موجود در نقشه ی کد های HTML . جایگزینی "
+"این لینک ها حساسیت یا مشکلی ایجاد نمی کند ."
+
+#: modules/components/rewrite-map_custom_urls.php:22
+msgid ""
+"Any domain url can be mapped to something else. Any type of asset works with "
+"re-mapping e.g JavaScript, Cascading Style Sheets, Media Images etc."
+msgstr ""
+"هر لینکی از دامنه شما می تواند مجددا نقشه برداری شود و به هر چیز دیگری تبدیل "
+"شود . هر نوع فایل با ارزشی مثل فایل های جاوا اسکریپت ، استایل ها و رسانه ها "
+"، امکان نقشه برداری مجدد و تعویض را دارند."
+
+#: modules/components/rewrite-map_custom_urls.php:23
+msgid "For example the following link can be changed from:"
+msgstr "به عنوان مثال پیوند زیر را می توان تغییر داد از :"
+
+#: modules/components/rewrite-map_custom_urls.php:25
+msgid "to:"
+msgstr "به :"
+
+#: modules/components/general-wpemoji.php:16
+#: modules/components/general-wpemoji.php:20
+#: modules/components/general-wpemoji.php:42
+msgid "Disable Emoji"
+msgstr "غیرفعال کردن اموجی"
+
+#: modules/components/general-wpemoji.php:17
+msgid "Disable the Emoji icon library from being loaded."
+msgstr "غیرفعال کردن لود کردن کتابخانه شکلک های اموجی ها"
+
+#: modules/components/general-wpemoji.php:21
+msgid ""
+"Not everyone use Emoji. Since WordPress load the dependencies as default, it "
+"decrease the overall site speed. Disabling this will remove any code and "
+"related resources from being loaded on front side."
+msgstr ""
+"همه از ایموجی استفاده نمی کنند . از آنجا که وردپرس وابستگی ها را به صورت پیش "
+"فرض بارگذاری می کند ، باعث کاهش سرعت کلی سایت می شود. غیرفعال کردن این کار "
+"باعث می شود تا کد و منابع مرتبط از بارگیری آن در فرانت اند حذف شود."
+
+#: modules/components/general-wpemoji.php:38
+msgid "Disable TinyMCE Emoji"
+msgstr "غیرفعال کردن اموجی های TinyMCE"
+
+#: modules/components/general-wpemoji.php:39
+msgid "Disable the TinyMCE Emoji icons library from being loaded into TinyMC."
+msgstr "غیرفعال کردن لود کتابخانه TinyMCE Emoji در افزونه ویرایشگر  TinyMCE."
+
+#: modules/components/general-wpemoji.php:43
+msgid ""
+"Disable TinyMCE Emoji This is also loaded along the WordPress default "
+"TinyMCE editor, but it can be disabled through this option."
+msgstr ""
+"غیر فعال کردن لود TinyMCE Emoji که البته در ویرایشگر پیش فرض TinyMCE ورذپرس "
+"نیز بارگذاری می شود ، اما می توان از طریق این گزینه آن را غیرفعال کرد ."
+
+#: modules/components/rewrite-plugin_path.php:17
+#: modules/components/rewrite-plugin_path.php:21
+msgid "New Plugins Path"
+msgstr "مسیر جدید افزونه ها"
+
+#: modules/components/rewrite-plugin_path.php:18
+msgid "The default plugins path is set to"
+msgstr "مسیر پیشفرض افزونه ها : "
+
+#: modules/components/rewrite-plugin_path.php:22
+msgid ""
+"Use any alphanumeric symbols for this field which will be used as the new "
+"slug for the plugins folder. Presuming the `apps` slug is being used, all "
+"plugins urls become to something like this:"
+msgstr ""
+"برای پر کردن فیلد ها فقط از حروف و اعداد استفاده کنید که به عنوان Slug جدید "
+"( نامک ) برای پوشه افزونه ها استفاده شود .\n"
+"</br>به فرض اینکه شما برای این پوشه از نامک <b>`apps`</b> استفاده کرده باشید "
+"، همه ی آدرس های پوشه افزونه به شکل لینک زیر تغییر خواهند کرد :"
+
+#: modules/components/rewrite-plugin_path.php:27
+msgid "e.g. my_plugins"
+msgstr "مثال : my_plugins"
+
+#: modules/components/rewrite-plugin_path.php:36
+#: modules/components/rewrite-plugin_path.php:40
+msgid "Block plugins URL"
+msgstr "مسدود کردن آدرس plugins"
+
+#: modules/components/rewrite-plugin_path.php:37
+msgid ""
+"Block default /wp-content/plugins/ files from being accesible through "
+"default urls."
+msgstr ""
+"دسترسی به محتوی و فایل های موجود در /wp-content/plugins/ از طریق لینک پیشفرض "
+"را مسدود کنید."
+
+#: modules/components/rewrite-plugin_path.php:41
+msgid ""
+"This blocks the default wp-content/plugins/ url.<br />The functionality "
+"apply only if <b>New Plugins Path</b> option is filled in."
+msgstr ""
+"دسترسی به مسیر پیشفرض wp-content/plugins/ فقط برای کاربرانی که وارد نشده اند "
+"مسدود می شود .\n"
+"</br>این مورد فقط زمانی درست عمل خواهد کرد که فیلد گزینه ی <b>مسیر جدید "
+"افزونه ها</b> پر شده باشد."
+
+#: modules/components/rewrite-plugin_path.php:117
+#: modules/components/rewrite-plugin_path.php:121
+msgid "New Path for"
+msgstr "مسیر جدید برای"
+
+#: modules/components/rewrite-plugin_path.php:117
+msgid "plugin"
+msgstr "افزونه"
+
+#: modules/components/rewrite-plugin_path.php:118
+msgid "This setting if set, overwrites the"
+msgstr "اگر مسیر فولدر افزونه ها را تغییر داده اید ،"
+
+#: modules/components/rewrite-plugin_path.php:118
+msgid "New Plugin Path"
+msgstr "مسیر جدید این افزونه"
+
+#: modules/components/rewrite-plugin_path.php:118
+msgid "value for this plugin."
+msgstr "را تعریف کنید."
+
+#: modules/components/rewrite-plugin_path.php:122
+msgid ""
+"Use any alphanumeric symbols for this field which will be used as the new "
+"slug for the plugin folder. Presuming the `module_name` slug is being used, "
+"this particular plugin urls become to:<br />  <br /> <code>http://-domain-"
+"name-/module_name/</code>"
+msgstr ""
+"برای این قسمت از الفبا و اعداد مرسوم استفاده کنید که به عنوان نامک جدید برای "
+"پوشه افزونه استفاده شود. با فرض اینکه از نامک «module_name» استفاده شود ، "
+"مسیر افزونه به این آدرس تبدیل می شود: <br />  <br /> <code>http://-domain-"
+"name-/module_name/</code>"
+
+#: modules/components/rewrite-plugin_path.php:127
+msgid "e.g. modules/module"
+msgstr "مثال : modules/module"
+
+#: modules/components/general-meta.php:17
+#: modules/components/general-meta.php:21
+msgid "Remove WordPress Generator Meta"
+msgstr "حذف متای Generator وردپرس"
+
+#: modules/components/general-meta.php:18
+#: modules/components/general-meta.php:22
+msgid ""
+"Remove the autogenerated meta generator tag within head (WordPress Version)."
+msgstr ""
+"تگ متای generator که به صورت اتوماتیک ساخته می شود را از سربرگ حذف کنید . ( "
+"ورژن وردپرس )"
+
+#: modules/components/general-meta.php:23
+#: modules/components/general-meta.php:47
+msgid "Tag example:"
+msgstr "نمونه تگ :"
+
+#: modules/components/general-meta.php:41
+#: modules/components/general-meta.php:45
+msgid "Remove Other Generator Meta"
+msgstr "حذف متاهای Generator دیگر"
+
+#: modules/components/general-meta.php:42
+#: modules/components/general-meta.php:46
+msgid ""
+"Remove other meta generated tags within head (eg Theme Name, Theme Version)."
+msgstr ""
+"تگ های متای سازندگان دیگر را از سربرگ حذف کنید. ( به عنوان مثال نام پوسته ، "
+"ورژن پوسته و ...) ."
+
+#: modules/components/general-meta.php:65
+#: modules/components/general-meta.php:69
+msgid "Remove DNS Prefetch"
+msgstr "حذف متای پیش واکشی دی ان اس (DNS Prefetch)"
+
+#: modules/components/general-meta.php:66
+msgid "Remove DNS Prefetch meta generated tag."
+msgstr "برچسب متا تولید شده پیش واکشی DNS  را حذف کنید. (DNS Prefetch)"
+
+#: modules/components/general-meta.php:70
+msgid ""
+"DNS prefetching allows you to resolve domain names (perform a DNS lookup in "
+"the background) before a user clicks on a link, which in turn can help "
+"improve performance."
+msgstr ""
+"پیش واکشی DNS به شما این امکان را می دهد که پیش از کلیک کاربر روی پیوند ، "
+"مرورگر را آماده ی عزیمت به پیوند دیگر کنید ( یک جستجوی DNS را در پس زمینه "
+"انجام دهید ) ، که این به نوبه خود می تواند به بهبود عملکرد و سرعت وب سایت "
+"کمک کند ."
+
+#: modules/components/general-meta.php:87
+#: modules/components/general-meta.php:91
+msgid "Remove Resource Hints"
+msgstr "متاهای اشاره به منابع را حذف کنید"
+
+#: modules/components/general-meta.php:88
+msgid ""
+"Remove Resource Hints meta generated tags within head (eg dns-prefetch, "
+"preconnect)."
+msgstr ""
+"متا تگ های تولید شده در منابع را حذف کنید . (به عنوان مثال : واکشی DNS  ، "
+"اتصال مجدد )"
+
+#: modules/components/general-meta.php:92
+msgid ""
+"DNS prefetching and preconect allows you to resolve domain names before a "
+"user clicks on a link, which in turn can help and slightly improve "
+"performance."
+msgstr ""
+"پیش واکشی و اتصال مجدد DNS به شما امکان می دهد نام های دامنه را قبل از کلیک "
+"کاربر روی پیوند ، آماده انتقال کنید ، که به نوبه خود می تواند اندکی به بهبود "
+"عملکرد کمک کند."
+
+#: modules/components/general-meta.php:109
+#: modules/components/general-meta.php:113
+msgid "Remove wlwmanifest Meta"
+msgstr "حذف متا wlwmanifest"
+
+#: modules/components/general-meta.php:110
+msgid "Remove the wlwmanifest tag within head."
+msgstr "متا تگ wlwmanifest از سربرگ حذف کنید."
+
+#: modules/components/general-meta.php:114
+msgid ""
+"The above link is actually used by Windows Live Writer. If you don't te "
+"application, this is just unnecessary code."
+msgstr ""
+"پیوند فوق در واقع فقط توسط Windows Live Writer استفاده می شود. اگر از برنامه "
+"استفاده نکنید ، این فقط کد غیر ضروری است. <br>\n"
+"** توضیح مترجم : Windows Live Writer ابزاریست که به کمک آن راحت تر میتوان "
+"مطالب را بنویسید و پیش نمایش آنها را مشاهده کنید و آنرا بر روی وبلاگ پست کرد."
+" (بیخیالش بشین بهتره :)"
+
+#: modules/components/general-meta.php:134
+#: modules/components/general-meta.php:138
+msgid "Remove feed_links Meta"
+msgstr "تگ متای لینک فید را حذف کنید."
+
+#: modules/components/general-meta.php:135
+msgid "Remove the feed_links tag within head."
+msgstr "تگ متای لینک فید را از سربرگ حذف کنید."
+
+#: modules/components/general-meta.php:139
+msgid "This option disable all feed links outputed in the page HTML head."
+msgstr ""
+"این گزینه همه لینک های فید شده در سربرگ صفحات HTML خروجی را غیرفعال می کند."
+
+#: modules/components/general-meta.php:162
+msgid "This option disable the tag output with the JSON API url."
+msgstr "این گزینه تگ Rest API به همراه JASON API را در خروجی غیر فعال می کند ."
+
+#: modules/components/general-meta.php:184
+#: modules/components/general-meta.php:188
+msgid "Remove rsd_link Meta"
+msgstr "این قابلیت متا تگ لینک های rsd را حذف می کند ."
+
+#: modules/components/general-meta.php:185
+msgid "Remove the rsd_link tag within head."
+msgstr "متا تگ لینک rsd را از سربرگ حذف کنید ."
+
+#: modules/components/general-meta.php:189
+msgid ""
+"This helps to hide the link to the Really Simple Discovery service endpoint."
+msgstr ""
+"این گزینه به پنهان کردن لینک به نقطه پایانی سرویس Really Simple Discovery "
+"کمک می کند."
+
+#: modules/components/general-meta.php:210
+#: modules/components/general-meta.php:214
+#: modules/components/general-meta.php:238
+#: modules/components/general-meta.php:262
+msgid "Remove adjacent_posts_rel Meta"
+msgstr "متا نگ های adjacent_posts_rel را حذف کنید ."
+
+#: modules/components/general-meta.php:211
+msgid "Remove the adjacent_posts_rel tag within head."
+msgstr "متا تگ adjacent_posts_rel را از سربرگ حذف کنید ."
+
+#: modules/components/general-meta.php:215
+msgid "This helps to hide the post adjacent tags."
+msgstr "این گزینه به مخفی کردن متا تگ post adjacent کمک می کند ."
+
+#: modules/components/general-meta.php:234
+msgid "Remove profile link"
+msgstr "لینک پروفایل را حذف کنید ."
+
+#: modules/components/general-meta.php:235
+msgid "Remove profile link meta tag within head."
+msgstr "متا تگ لینک پروفایل را از سزبرگ حذف کنید ."
+
+#: modules/components/general-meta.php:239
+msgid "This helps to hide the profile tags."
+msgstr "این به مخفی کردن متا تگ لینک پروفایل کمک می کند . "
+
+#: modules/components/general-meta.php:258
+msgid "Remove canonical link"
+msgstr "لینک کنونیکال را حذف کنید ."
+
+#: modules/components/general-meta.php:259
+msgid "Remove canonical link meta tag within head."
+msgstr "متا تگ لینک کنونیکال را از سربرگ حذف کنید ."
+
+#: modules/components/general-meta.php:263
+msgid ""
+"The rel=canonical element, often called the 'canonical link', is an HTML "
+"element that helps webmasters prevent duplicate content issues. It does this "
+"by specifying the 'canonical URL', the 'preferred' version of a web page - "
+"the original source, even."
+msgstr ""
+"عنصر rel=canonical ، که اغلب به آن  ' کنویکال لینک یا پیوند متعارف ' گفته می "
+"شود ، عنصری HTML است که به مدیران وب سایت ها کمک می کند که از ایجاد محتوا "
+"های تکراری جلوگیری کنند.<br> این کار را با مشخص کردن ' لینک کنونیکال ' یک "
+"نسخه ی مرجع از صفحات وب یا حتی سورس ها انجام می دهد.\n"
+
+#: modules/components/rewrite-theme_path.php:65
+#: modules/components/rewrite-theme_path.php:69
+msgid "New Theme Path"
+msgstr "نام جدید قالب"
+
+#: modules/components/rewrite-theme_path.php:66
+msgid "Change the default theme url."
+msgstr "تغییر آدرس و نام پیشفرض قالب"
+
+#: modules/components/rewrite-theme_path.php:70
+msgid ""
+"This option helps to change the theme url to a custom one. As default all "
+"theme assets ( styles, JavaScript etc ) are loaded using the theme url and "
+"appear on front side html source like this:"
+msgstr ""
+"این گزینه به شما کمک می کند که آدرس و نام قالب سایت خود را کاملا تغییر دهید ."
+" این تغییر آدرس شامل تمام فایل های متعلق به قالب (فایل های CSS و جاوا "
+"اسکریپت و ... ) می شود . برای مثال اگر در سورس HTML سایت شما ، آدرس و نام "
+"قالب شبیه لینک زیر باشد :"
+
+#: modules/components/rewrite-theme_path.php:72
+msgid ""
+"When using this option, if filling with `template`, all urls on front side "
+"become as follow:"
+msgstr ""
+"با پر کردن فیلد نام جدید قالب مانند \"مثال\" ، تمام آدرس ها در فرانت اند "
+"سایت شما به شکل زیر تغییر خواهند کرد  :"
+
+#: modules/components/rewrite-theme_path.php:77
+msgid "e.g. my_template"
+msgstr "مثال : my_template"
+
+#: modules/components/rewrite-theme_path.php:93
+#: modules/components/rewrite-theme_path.php:97
+#: modules/components/rewrite-theme_path.php:125
+msgid "New Style File Path"
+msgstr "مسیر جدید فایل استایل"
+
+#: modules/components/rewrite-theme_path.php:94
+msgid "Change default theme style file style.css."
+msgstr "نام پیشفرض فایل style.css  قالب را تغییر دهید ."
+
+#: modules/components/rewrite-theme_path.php:98
+msgid ""
+"This allow to change the default style.css filename to something else e.g. "
+"template-style.css. Per this example, on front side the main style link "
+"change from /style.css to /template-style.css"
+msgstr ""
+"این گزینه به شما اجازه می دهد که نام پیشفرض فایل style.css را برای مثال به "
+"نام  template-style.css تغییر دهید . طبق این مثال در فرانت اند سایت شما ، "
+"آدرس فایل استایل قالب از  style.css به template-style.css تغییر می کند ."
+
+#: modules/components/rewrite-theme_path.php:104
+msgid "e.g. custom-style-file.css"
+msgstr "مثال : custom-style-file.css"
+
+#: modules/components/rewrite-theme_path.php:121
+msgid "Remove description headers from Style file"
+msgstr "حذف توضیحات مشخصات قالب و طراح قالب در سربرگ فایل استایل"
+
+#: modules/components/rewrite-theme_path.php:122
+msgid "Strip out all meta data from style file."
+msgstr "تمام داده های متای فایل استایل را حذف کنید."
+
+#: modules/components/rewrite-theme_path.php:126
+msgid ""
+"Strip out all meta data from style file as Theme Name, Theme URI, Author etc."
+" Those are important informations for hackers to find out possible theme "
+"security breaches. A list of headers can e found at"
+msgstr ""
+"تمام داده های متا را از فایل استایل قالب \"style.css\" ، مانند نام قالب ، "
+"لینک دانلود و یا خرید قالب ، نام طراح قالب و ... را باید حذف کنید . این "
+"موارد اطلاعات مهمی برای هکر ها هستند که از طریق آنها و با شناخت از نقص های "
+"ایمنی قالب شما ، به راحتی می توانند سایت شما را مورد حمله قرار دهند .\n"
+"نمونه ای از توضیحات متای قالب در فایل استایل در لینک درج شده قابل مشاهده است "
+". (تمام طراحان این توضیحات را در فایل استایل قالب قرار می دهند)\n"
+
+#: modules/components/rewrite-theme_path.php:126
+msgid "Theme Headers"
+msgstr "نمونه ای از سربرگ فایل استایل"
+
+#: modules/components/rewrite-theme_path.php:127
+msgid ""
+"This feature may fail if style file url not available on html ( being "
+"concatenated )."
+msgstr ""
+"در صورتی که نام پیشفرض استایل قالب شما style.css نباشد ، ممکن است این گزینه "
+"برای شما به درستی فعالیت نکند ."
+
+#: modules/components/general-styles.php:17
+msgid "Remove version number from enqueued style files."
+msgstr "شماره ورژن را از فایل های استایل حذف کنید ."
+
+#: modules/components/general-styles.php:21
+msgid ""
+"This provide a method to remove the Style file version number which is being "
+"append at the end of every style tag. Generally this is intended to be a "
+"plain information upon the style code version, however not being used within "
+"any functionality or code run."
+msgstr ""
+"این گزینه راهی برای حذف شماره نسخه یا ورژن فایل های Style که در آخر لینک هر "
+"فایل استایل وجود دارد را ارائه می دهد . به طور کلی این مورد برای این در نظر "
+"گرفته شده است که یک اطلاعات ساده در مورد نسخه استایل باشد ، اما در هیچ "
+"عملکرد یا کد خاصی اجرا نمی شود."
+
+#: modules/components/general-styles.php:22
+msgid ""
+"Keeping version number for styles provide additional information to hackers "
+"which try to identify specific code and version which know as being "
+"vulnerable."
+msgstr ""
+"نگه داشتن شماره نسخه ی فایل های استایل ، اطلاعات بیشتری را در اختیار هکرها "
+"قرار می دهد که سعی در شناسایی کد یا نسخه ای خاص دارند که به عنوان آسیب پذیر "
+"شناخته می شوند."
+
+#: modules/components/general-styles.php:39
+msgid "Remove ID from link tags"
+msgstr "حذف شناسه (ID) از تگ لینک ها"
+
+#: modules/components/general-styles.php:40
+msgid "Remove ID attribute from all link tags which include a stylesheet."
+msgstr "ویژگی ID را از تمام تگ لینک ها که شامل صفحه استایل است حذف کنید."
+
+#: modules/components/general-styles.php:44
+msgid ""
+"This provide a method to remove the Style file ID attribute which generally "
+"has no usage."
+msgstr ""
+"این روشی را برای از بین بردن ویژگی ID File Style که عموماً فاقد کاربرد است "
+"فراهم می کند."
+
+#: modules/components/rewrite-registration.php:19
+#: modules/components/rewrite-registration.php:23
+msgid "New wp-signup&#183;php"
+msgstr "مسیر جدید wp-signup&#183;php"
+
+#: modules/components/rewrite-registration.php:20
+msgid "Change default sign-up url."
+msgstr "لینک پیشفرض ثبت نام را تغییر دهید  ."
+
+#: modules/components/rewrite-registration.php:24
+msgid ""
+"This is the url through which users can register a site or / and a ursername."
+msgstr ""
+"این لینکی است که کاربران می توانند از طریق آن یک سایت / نام کاربری را ایجاد "
+"کنند."
+
+#: modules/components/rewrite-registration.php:25
+msgid ""
+"The registration status can be controlled through the network super admin "
+"interface:"
+msgstr ""
+"وضعیت ثبت نام می تواند توسط مدیر ارشد شبکه از طریق رابط مدیریتی کنترل شود :"
+
+#: modules/components/rewrite-registration.php:27
+msgid "If being active, it appear like the following URL:"
+msgstr "در صورتی که فعال باشد ، مانند URL زیر ظاهر می شود :"
+
+#: modules/components/rewrite-registration.php:32
+msgid "e.g. register"
+msgstr "مثال : register"
+
+#: modules/components/rewrite-registration.php:42
+msgid "Block wp-signup&#183;php URL"
+msgstr "مسدود کردن لینک wp-signup&#183;php"
+
+#: modules/components/rewrite-registration.php:43
+msgid "Block default wp-signup&#183;php file."
+msgstr "مسدود کردن فایل پیشفرض  wp-signup&#183;php"
+
+#: modules/components/rewrite-registration.php:46
+msgid "Block wp-signup&#183;php"
+msgstr "مسدود کردن wp-signup&#183;php"
+
+#: modules/components/rewrite-registration.php:47
+msgid ""
+"Block the default wp-signup&#183;php file. If <b>New wp-signup&#183;php</b> "
+"is being used, is save to block the default, the registration process will "
+"continue to work."
+msgstr ""
+"پرونده پیش فرض <b>New wp-signup&#183;php</b> را مسدود کنید. اگر wp-"
+"signup&#183;php جدید مورد استفاده قرار گیرد ، صرفه جویی می شود تا پیش فرض را "
+"مسدود کنید ، روند ثبت نام به کار خود ادامه خواهد داد."
+
+#: modules/components/rewrite-registration.php:72
+#: modules/components/rewrite-registration.php:76
+msgid "New wp-activate&#183;php"
+msgstr " wp-activate&#183;php جدید"
+
+#: modules/components/rewrite-registration.php:73
+msgid "Change default blog activation url."
+msgstr "آدرس پیش فرض فعال سازی وبلاگ را تغییر دهید."
+
+#: modules/components/rewrite-registration.php:77
+msgid "This is the URL through which a user can activate a registered blog."
+msgstr ""
+"این لینکی است که یک کاربر با استفاده از آن می تواند یک وبلاگ ثبت نام شده را "
+"فعال کند."
+
+#: modules/components/rewrite-registration.php:78
+msgid "The URL appear like the following:"
+msgstr "این URL مانند زیر ظاهر می شود:"
+
+#: modules/components/rewrite-registration.php:83
+msgid "e.g. activate"
+msgstr "مثال : activate"
+
+#: modules/components/rewrite-registration.php:94
+#: modules/components/rewrite-registration.php:98
+msgid "Block wp-activate&#183;php"
+msgstr "مسدود کردن wp-activate&#183;php"
+
+#: modules/components/rewrite-registration.php:95
+msgid "Block access to default wp-activate&#183;php file."
+msgstr "مسدود کردن دسترسی به فایل پیشفرض wp-activate&#183;php ."
+
+#: modules/components/rewrite-registration.php:99
+msgid ""
+"Block access to wp-activate&#183;php file. Through this file new users "
+"confirm that the activation key that is received in the email after signs up "
+"for a new blog, matches the key for that user."
+msgstr ""
+"دسترسی به فایل  wp-activate&#183;php را مسدود کنید. از طریق این فایل کاربران "
+"جدید تأیید می کنند که کلید فعال سازی که پس از ثبت نام برای یک وبلاگ جدید ، "
+"در ایمیل دریافت می شود ، با کلید آن کاربر مطابقت دارد."
+
+#: modules/components/rewrite-registration.php:100
+msgid ""
+"If <b>New wp-activate&#183;php</b> is being used, is save to block the "
+"default, the registration process will continue to work."
+msgstr ""
+"اگر <b>New wp-activate&#183;php</b> استفاده می شود ، صرفه جویی می شود تا پیش "
+"فرض را مسدود کنید ، روند ثبت نام به کار خود ادامه می دهد."
+
+#. Name of the plugin
+msgid "WP Hide & Security Enhancer PRO"
+msgstr "WP Hide & Security Enhancer PRO نسخه حرفه ای"
+
+#. Description of the plugin
+msgid ""
+"Hide and increase Security for your WordPress website instance using smart "
+"techniques. No files are changed on your server."
+msgstr ""
+"با استفاده از افزونه WP-Hide ، اینکه از وردپرس استفاده می کنید را مخفی کنید "
+"و همچنین امنیت وب سایت خود را با بکارگیری راهکارهای هوشمندانه به طرز چشمگیری "
+"افزایش دهید . همچنین نگران کد های خود نباشید . WP-Hide در کد های شما هیچ "
+"تغییری ایجاد نمی کند :)  پس با خیال راحت از قدرت WP-Hide لذت ببرید .\n"
+"* وب سایت برنامه نویس : www.wp-hide.com"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wp-hide.com/"
+msgstr "https://www.nolimited.world/"
+
+#. Author of the plugin
+msgid "Nsp Code"
+msgstr "Nsp Code | ترجمه فارسی توسط تیم : nolimited.world"

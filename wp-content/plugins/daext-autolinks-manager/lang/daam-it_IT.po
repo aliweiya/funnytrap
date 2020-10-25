@@ -1,0 +1,2248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Autolinks Manager\n"
+"POT-Creation-Date: 2019-01-18 13:11+0100\n"
+"PO-Revision-Date: 2019-01-18 13:17+0100\n"
+"Last-Translator: Danilo Andreini <andreini.danilo@gmail.com>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:258
+msgid "contextMenu"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid ""
+"moment construction falls back to js Date. This is discouraged and will be "
+"removed in upcoming major release. Please refer to https://github.com/moment/"
+"moment/issues/1407 for more info."
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid ""
+"moment().min is deprecated, use moment.max instead. https://github.com/"
+"moment/moment/issues/1548"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid ""
+"moment().max is deprecated, use moment.min instead. https://github.com/"
+"moment/moment/issues/1548"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid ""
+"moment().lang() is deprecated. Instead, use moment().localeData() to get the "
+"language configuration. Use moment().locale() to change languages."
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid "dates accessor is deprecated. Use date instead."
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid "months accessor is deprecated. Use month instead"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid "years accessor is deprecated. Use year instead"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid ""
+"moment().zone is deprecated, use moment().utcOffset instead. https://github."
+"com/moment/moment/issues/1779"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid "moment.lang is deprecated. Use moment.locale instead."
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid "moment.langData is deprecated. Use moment.localeData instead."
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.full.min.js:291
+msgid ""
+"toIsoString() is deprecated. Please use toISOString() instead (notice the "
+"capitals)"
+msgstr ""
+
+#: ../admin/assets/inc/handsontable/handsontable.min.js:38
+msgid "base"
+msgstr ""
+
+#: ../admin/class-daam-admin.php:376
+msgid "Delete"
+msgstr "Cancella"
+
+#: ../admin/class-daam-admin.php:377 ../admin/view/autolinks.php:945
+#: ../admin/view/categories.php:353 ../admin/view/term_groups.php:566
+msgid "Cancel"
+msgstr "Annulla"
+
+#: ../admin/class-daam-admin.php:378
+msgid "Choose an Option ..."
+msgstr "Scegli un Opzione ..."
+
+#: ../admin/class-daam-admin.php:1174
+msgid "AM"
+msgstr "AM"
+
+#: ../admin/class-daam-admin.php:1175 ../admin/class-daam-admin.php:1203
+#: ../admin/class-daam-admin.php:4064 ../admin/view/statistics.php:76
+#: ../admin/view/statistics.php:172
+msgid "Autolinks"
+msgstr "Autolink"
+
+#: ../admin/class-daam-admin.php:1184
+msgid "AM - Statistics"
+msgstr "AM- Statistiche"
+
+#: ../admin/class-daam-admin.php:1185
+msgid "Statistics"
+msgstr "Statistiche"
+
+#: ../admin/class-daam-admin.php:1193
+msgid "AM - Wizard"
+msgstr "AM - Wizard"
+
+#: ../admin/class-daam-admin.php:1194 ../admin/view/wizard.php:52
+msgid "Wizard"
+msgstr "Wizard"
+
+#: ../admin/class-daam-admin.php:1202
+msgid "AM - Autolinks"
+msgstr "AM - Autolink"
+
+#: ../admin/class-daam-admin.php:1211
+msgid "AM - Categories"
+msgstr "AM - Categorie"
+
+#: ../admin/class-daam-admin.php:1212 ../admin/class-daam-admin.php:1426
+#: ../admin/class-daam-admin.php:3703 ../admin/view/autolinks.php:717
+#: ../admin/view/autolinks.php:1125
+msgid "Categories"
+msgstr "Categorie"
+
+#: ../admin/class-daam-admin.php:1220
+msgid "AM - Term Groups"
+msgstr "AM - Gruppi Termine"
+
+#: ../admin/class-daam-admin.php:1221
+msgid "Term Groups"
+msgstr "Gruppi Termine"
+
+#: ../admin/class-daam-admin.php:1229
+msgid "AM - Tracking"
+msgstr "AM - Tracking"
+
+#: ../admin/class-daam-admin.php:1230 ../admin/view/options.php:37
+msgid "Tracking"
+msgstr "Tracking"
+
+#: ../admin/class-daam-admin.php:1238
+msgid "AM - Import"
+msgstr "AM - Import"
+
+#: ../admin/class-daam-admin.php:1239
+msgid "Import"
+msgstr "Importa"
+
+#: ../admin/class-daam-admin.php:1247
+msgid "AM - Export"
+msgstr "AM - Esporta"
+
+#: ../admin/class-daam-admin.php:1248 ../admin/view/export.php:25
+msgid "Export"
+msgstr "Esporta"
+
+#: ../admin/class-daam-admin.php:1256
+msgid "AM - Maintenance"
+msgstr "AM - Manutenzione"
+
+#: ../admin/class-daam-admin.php:1257 ../admin/view/maintenance.php:192
+msgid "Maintenance"
+msgstr "Manutenzione"
+
+#: ../admin/class-daam-admin.php:1265
+msgid "AM - Options"
+msgstr "AM - Opzioni"
+
+#: ../admin/class-daam-admin.php:1266
+msgid "Options"
+msgstr "Opzioni"
+
+#: ../admin/class-daam-admin.php:1370 ../admin/view/autolinks.php:463
+#: ../admin/view/autolinks.php:560 ../admin/view/autolinks.php:970
+#: ../admin/view/wizard.php:68
+msgid "Category"
+msgstr "Categoria"
+
+#: ../admin/class-daam-admin.php:1384 ../admin/view/autolinks.php:636
+#: ../admin/view/autolinks.php:1044
+msgid "Open New Tab"
+msgstr "Apri Nuova Tab"
+
+#: ../admin/class-daam-admin.php:1398 ../admin/view/autolinks.php:652
+#: ../admin/view/autolinks.php:1060
+msgid "Use Nofollow"
+msgstr "Usa Nofollow"
+
+#: ../admin/class-daam-admin.php:1412 ../admin/class-daam-admin.php:1616
+#: ../admin/view/autolinks.php:676 ../admin/view/autolinks.php:1084
+msgid "Post Types"
+msgstr "Post Type"
+
+#: ../admin/class-daam-admin.php:1440 ../admin/view/autolinks.php:754
+#: ../admin/view/autolinks.php:1162
+msgid "Tags"
+msgstr "Tag"
+
+#: ../admin/class-daam-admin.php:1454 ../admin/view/autolinks.php:790
+#: ../admin/view/autolinks.php:1199
+msgid "Term Group"
+msgstr "Gruppo Termine"
+
+#: ../admin/class-daam-admin.php:1468 ../admin/view/autolinks.php:829
+#: ../admin/view/autolinks.php:1240
+msgid "Case Sensitive Search"
+msgstr "Ricerca Case Sensitive"
+
+#: ../admin/class-daam-admin.php:1482 ../admin/view/autolinks.php:846
+#: ../admin/view/autolinks.php:1257
+msgid "Left Boundary"
+msgstr "Confine Sinistro"
+
+#: ../admin/class-daam-admin.php:1496 ../admin/view/autolinks.php:868
+#: ../admin/view/autolinks.php:1279
+msgid "Right Boundary"
+msgstr "Confine Destro"
+
+#: ../admin/class-daam-admin.php:1510 ../admin/view/autolinks.php:916
+#: ../admin/view/autolinks.php:1327
+msgid "Limit"
+msgstr "Limite"
+
+#: ../admin/class-daam-admin.php:1524 ../admin/view/autolinks.php:928
+#: ../admin/view/autolinks.php:1339
+msgid "Priority"
+msgstr "Priorità"
+
+#: ../admin/class-daam-admin.php:1546
+msgid "Set Max Execution Time"
+msgstr "Imposta Max Execution Time"
+
+#: ../admin/class-daam-admin.php:1560
+msgid "Max Execution Time Value"
+msgstr "Valore Max Execution Time"
+
+#: ../admin/class-daam-admin.php:1574
+msgid "Set Memory Limit"
+msgstr "Imposta Memory Limit"
+
+#: ../admin/class-daam-admin.php:1588
+msgid "Memory Limit Value"
+msgstr "Valore Memory Limit"
+
+#: ../admin/class-daam-admin.php:1602
+msgid "Limit Posts Analysis"
+msgstr "Limita Analisi Post"
+
+#: ../admin/class-daam-admin.php:1638
+msgid "Enable Click Tracking"
+msgstr "Abilita Tracciamento Link"
+
+#: ../admin/class-daam-admin.php:1652
+msgid "Minimum Interval"
+msgstr "Intervallo Minimo"
+
+#: ../admin/class-daam-admin.php:1674
+msgid "Editor Sidebar"
+msgstr "Editor Sidebar"
+
+#: ../admin/class-daam-admin.php:1688 ../admin/class-daam-admin.php:1822
+msgid "Statistics Menu"
+msgstr "Menu Statistiche"
+
+#: ../admin/class-daam-admin.php:1702
+msgid "Wizard Menu"
+msgstr "Menu Wizard"
+
+#: ../admin/class-daam-admin.php:1716 ../admin/class-daam-admin.php:1836
+msgid "Autolinks Menu"
+msgstr "Menu Autolink"
+
+#: ../admin/class-daam-admin.php:1730 ../admin/class-daam-admin.php:1850
+msgid "Categories Menu"
+msgstr "Menu Categorie"
+
+#: ../admin/class-daam-admin.php:1744 ../admin/class-daam-admin.php:1864
+msgid "Term Groups Menu"
+msgstr "Menu Gruppi Termine"
+
+#: ../admin/class-daam-admin.php:1758 ../admin/class-daam-admin.php:1878
+msgid "Tracking Menu"
+msgstr "Menu Tracciamento"
+
+#: ../admin/class-daam-admin.php:1772
+msgid "Import Menu"
+msgstr "Menu Importazione"
+
+#: ../admin/class-daam-admin.php:1786
+msgid "Export Menu"
+msgstr "Menu Esportazione"
+
+#: ../admin/class-daam-admin.php:1800
+msgid "Maintenance Menu"
+msgstr "Menu Manutenzione"
+
+#: ../admin/class-daam-admin.php:1900 ../blocks/dist/blocks.build.js:161
+#: ../blocks/src/autolinks-manager/index.js:46
+msgid "Enable Autolinks"
+msgstr "Abilita Autolink"
+
+#: ../admin/class-daam-admin.php:1914
+msgid "Filter Priority"
+msgstr "Priorità Filtro"
+
+#: ../admin/class-daam-admin.php:1928
+msgid "Test Mode"
+msgstr "Modalità Test"
+
+#: ../admin/class-daam-admin.php:1942
+msgid "Random Prioritization"
+msgstr "Prioritizzazione Casuale"
+
+#: ../admin/class-daam-admin.php:1956
+msgid "Ignore Self Autolinks"
+msgstr "Ignora Self Autolink"
+
+#: ../admin/class-daam-admin.php:1970
+msgid "Categories & Tags Verification"
+msgstr "Verifica Categorie e Tag"
+
+#: ../admin/class-daam-admin.php:1984
+msgid "General Limit Mode"
+msgstr "Modalità Limite Generale"
+
+#: ../admin/class-daam-admin.php:1998
+msgid "General Limit (Characters per Autolink)"
+msgstr "Limite Generale (Caratteri per Autolink)"
+
+#: ../admin/class-daam-admin.php:2012
+msgid "General Limit (Amount)"
+msgstr "Limite Generale (Quantità)"
+
+#: ../admin/class-daam-admin.php:2026
+msgid "Same URL Limit"
+msgstr "Limite Stesso URL"
+
+#: ../admin/class-daam-admin.php:2040
+msgid "Protected Tags"
+msgstr "Tag Protetti"
+
+#: ../admin/class-daam-admin.php:2054
+msgid "Protected Gutenberg Blocks"
+msgstr "Blocchi Gutenberg Protetti"
+
+#: ../admin/class-daam-admin.php:2068
+msgid "Protected Gutenberg Custom Blocks"
+msgstr "Blocchi Personalizzati Gutenberg Protetti"
+
+#: ../admin/class-daam-admin.php:2082
+msgid "Protected Gutenberg Custom Void Blocks"
+msgstr "Blocchi Personalizzati Vuoti Gutenberg Protetti"
+
+#: ../admin/class-daam-admin.php:2096
+msgid "Supported Terms"
+msgstr "Termini Supportati"
+
+#: ../admin/class-daam-admin.php:2110
+msgid "Wizard Rows"
+msgstr "Righe Wizard"
+
+#: ../admin/class-daam-admin.php:2131 ../admin/class-daam-admin.php:2337
+#: ../admin/class-daam-admin.php:2401 ../admin/class-daam-admin.php:2434
+#: ../admin/view/autolinks.php:567 ../admin/view/autolinks.php:796
+#: ../admin/view/autolinks.php:858 ../admin/view/autolinks.php:880
+#: ../admin/view/autolinks.php:977 ../admin/view/autolinks.php:1207
+#: ../admin/view/autolinks.php:1269 ../admin/view/autolinks.php:1291
+#: ../admin/view/term_groups.php:479 ../admin/view/term_groups.php:503
+#: ../admin/view/term_groups.php:527 ../admin/view/term_groups.php:603
+#: ../admin/view/term_groups.php:626 ../admin/view/term_groups.php:641
+#: ../admin/view/wizard.php:75 ../shared/class-daam-shared.php:1419
+msgid "None"
+msgstr "Nessuno"
+
+#: ../admin/class-daam-admin.php:2144
+msgid ""
+"The category of the autolink. This option determines the default value of "
+"the \"Category\" field available in the \"Autolinks\" menu and in the "
+"\"Wizard\" menu."
+msgstr ""
+"La categoria dell'autolink. Questa opzione determina il valore di default "
+"del campo \"Categoria\" disponibile nel menu \"Autolink\" e nel menu \"Wizard"
+"\"."
+
+#: ../admin/class-daam-admin.php:2163 ../admin/class-daam-admin.php:2186
+#: ../admin/class-daam-admin.php:2370 ../admin/class-daam-admin.php:2515
+#: ../admin/class-daam-admin.php:2564 ../admin/class-daam-admin.php:2685
+#: ../admin/class-daam-admin.php:3193 ../admin/class-daam-admin.php:3243
+#: ../admin/class-daam-admin.php:3266 ../admin/class-daam-admin.php:3289
+#: ../admin/class-daam-admin.php:3950 ../admin/view/autolinks.php:640
+#: ../admin/view/autolinks.php:656 ../admin/view/autolinks.php:834
+#: ../admin/view/autolinks.php:1048 ../admin/view/autolinks.php:1064
+#: ../admin/view/autolinks.php:1245 ../blocks/dist/blocks.build.js:163
+#: ../blocks/src/autolinks-manager/index.js:49
+msgid "No"
+msgstr "No"
+
+#: ../admin/class-daam-admin.php:2165 ../admin/class-daam-admin.php:2188
+#: ../admin/class-daam-admin.php:2372 ../admin/class-daam-admin.php:2517
+#: ../admin/class-daam-admin.php:2566 ../admin/class-daam-admin.php:2687
+#: ../admin/class-daam-admin.php:3195 ../admin/class-daam-admin.php:3245
+#: ../admin/class-daam-admin.php:3268 ../admin/class-daam-admin.php:3291
+#: ../admin/class-daam-admin.php:3952 ../admin/view/autolinks.php:642
+#: ../admin/view/autolinks.php:658 ../admin/view/autolinks.php:836
+#: ../admin/view/autolinks.php:1050 ../admin/view/autolinks.php:1066
+#: ../admin/view/autolinks.php:1247 ../blocks/dist/blocks.build.js:163
+#: ../blocks/src/autolinks-manager/index.js:50
+msgid "Yes"
+msgstr "Si"
+
+#: ../admin/class-daam-admin.php:2167
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword opens the "
+"linked document in a new tab. This option determines the default value of "
+"the \"Open New Tab\" field available in the \"Autolinks\" menu and is also "
+"used for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita è aperto in una "
+"nuova tab. Questa opzione determina il valore di default del campo \"Apri "
+"Nuova Tab\" fisponibile nel menu \"Autolink\" ed è anche utilizzato per gli "
+"autolink generati con il menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2190
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword will include "
+"the rel=\"nofollow\" attribute. This option determines the default value of "
+"the \"Use Nofollow\" field available in the \"Autolinks\" menu and is also "
+"used for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita includera "
+"l'attribute rel=\"nofollow\". Questa opzione determina il valore di default "
+"del campo \"Usa Nofollow\" ed è anche utilizzato per gli autolink generati "
+"con il menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2230
+msgid ""
+"With this option you are able to determine in which post types the defined "
+"keywords will be automatically converted to a link. Leave this field empty "
+"to convert the keyword in any post type. This option determines the default "
+"value of the \"Post Types\" field available in the \"Autolinks\" menu and is "
+"also used for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali opst type la keyword "
+"definita verrà automaticamente convertita in un link. Lascia questo campo "
+"vuoto per convertire la keyword in qualsiasi post type. Questa opzione "
+"determina il valore di default del campo \"Post Type\" disponibile nel menu "
+"\"Autolink\" ed è anche utilizzata per gli autolink generati con il menu "
+"\"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2271
+msgid ""
+"With this option you are able to determine in which categories the defined "
+"keywords will be automatically converted to a link. Leave this field empty "
+"to convert the keyword in any category. This option determines the default "
+"value of the \"Categories\" field available in the \"Autolinks\" menu and is "
+"also used for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali categorie la keyword "
+"definita verrà automaticamente convertita in un link. Lascia questo campo "
+"vuoto per convertire la keyword in qualsiasi categoria. Questa opzione "
+"determina il valore di default del campo \"Categorie\" disponibile nel menu "
+"\"Autolink\" ed è anche utilizzata per gli autolink generati con il menu "
+"\"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2313
+msgid ""
+"With this option you are able to determine in which tags the defined "
+"keywords will be automatically converted to a link. Leave this field empty "
+"to convert the keyword in any tag. This option determines the default value "
+"of the \"Tags\" field available in the \"Autolinks\" menu and is also used "
+"for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali tag la keyword "
+"definita verrà automaticamente convertita in un link. Lascia questo campo "
+"vuoto per convertire la keyword in qualsiasi tag. Questa opzione determina "
+"il valore di default del campo \"Tag\" disponibile nel menu \"Autolink\" ed "
+"è anche utilizzata per gli autolink generati con il menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2351
+msgid ""
+"The terms that will be compared with the ones available on the posts where "
+"the autolinks are applied. Please note that when a term group is selected "
+"the \"Categories\" and \"Tags\" options will be ignored. This option "
+"determines the default value of the \"Term Group\" field available in the "
+"\"Autolinks\" menu and is also used for the autolinks generated with the "
+"\"Wizard\" menu."
+msgstr ""
+"I termini che verranno comparati con quelli disponibili nei post dove sono "
+"applicati gli autolink. Per favore nota che quando un gruppo termine è "
+"selezionato le opzioni \"Categorie\" e \"Tag\" verranno ignorate. Questa "
+"opzione determina il valore di default del campo \"Gruppo Termine\" "
+"disponibile nel menu \"Autolink\" ed è anche utilizzata per gli autolink "
+"generati nel menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2374
+msgid ""
+"If you select \"No\" the defined keyword will match both lowercase and "
+"uppercase variations. This option determines the default value of the \"Case "
+"Sensitive Search\" field available in the \"Autolinks\" menu and is also "
+"used for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Se scegli \"No\" la keyword definità verrà applicata sia sulle variazioni "
+"minuscole che sulle variazioni maiuscole. Questa opzione determina il valore "
+"di default del campo \"Ricerca Case Sensitive\" disponibile nel menu "
+"\"Autolink\" ed è anche utilizzato per gli autolink generati con il menu "
+"\"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2393 ../admin/class-daam-admin.php:2426
+#: ../admin/view/autolinks.php:850 ../admin/view/autolinks.php:872
+#: ../admin/view/autolinks.php:1261 ../admin/view/autolinks.php:1283
+msgid "Generic"
+msgstr "Generico"
+
+#: ../admin/class-daam-admin.php:2395 ../admin/class-daam-admin.php:2428
+#: ../admin/view/autolinks.php:852 ../admin/view/autolinks.php:874
+#: ../admin/view/autolinks.php:1263 ../admin/view/autolinks.php:1285
+msgid "White Space"
+msgstr "Spazio Bianco"
+
+#: ../admin/class-daam-admin.php:2397 ../admin/class-daam-admin.php:2430
+#: ../admin/view/autolinks.php:854 ../admin/view/autolinks.php:876
+#: ../admin/view/autolinks.php:1265 ../admin/view/autolinks.php:1287
+msgid "Comma"
+msgstr "Virgola"
+
+#: ../admin/class-daam-admin.php:2399 ../admin/class-daam-admin.php:2432
+#: ../admin/view/autolinks.php:856 ../admin/view/autolinks.php:878
+#: ../admin/view/autolinks.php:1267 ../admin/view/autolinks.php:1289
+msgid "Point"
+msgstr "Punto"
+
+#: ../admin/class-daam-admin.php:2403
+msgid ""
+"Use this option to match keywords preceded by a generic boundary or by a "
+"specific character. This option determines the default value of the \"Left "
+"Boundary\" field available in the \"Autolinks\" menu and is also used for "
+"the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Utilizza questa opzione per considerare keyword precedute da un confine "
+"generico o da uno specifico carattere. Questa opzione determina il valore di "
+"default del campo \"Confine Sinistro\" disponibile nel menu \"Autolink\" ed "
+"è anche utilizzata per gli autolink generati con il menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2436
+msgid ""
+"Use this option to match keywords followed by a generic boundary or by a "
+"specific character. This option determines the default value of the \"Right "
+"Boundary\" field available in the \"Autolinks\" menu and is also used for "
+"the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Utilizza questa opzione per considerare keyword precedute da un confine "
+"generico o da uno specifico carattere. Questa opzione determina il valore di "
+"default del campo \"Confine Destro\" disponibile nel menu \"Autolink\" ed è "
+"anche utilizzata per gli autolink generati con il menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2459
+msgid ""
+"With this option you can determine the maximum number of matches of the "
+"defined keyword automatically converted to a link. This option determines "
+"the default value of the \"Limit\" field available in the \"Autolinks\" menu "
+"and is also used for the autolinks generated with the \"Wizard\" menu."
+msgstr ""
+"Con questa opzione puoi determinare il numero massimo di occorrenze della "
+"keyword definita automaticamente convertite in link. Questa opzione "
+"determina il valore di default del campo \"Limite\" disponibile nel menu "
+"\"Autolink\" ed è anche utilizzata per gli autolink generati nel menu "
+"\"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2471
+msgid "Please enter a number from 1 to 1000000 in the \"Limit\" option."
+msgstr ""
+"Per favore inserisci un numero compreso tra 1 e 1000000 nell'opzione \"Limite"
+"\"."
+
+#: ../admin/class-daam-admin.php:2487
+msgid ""
+"The priority value determines the order used to apply the autolinks on the "
+"post. This option determines the default value of the \"Priority\" field "
+"available in the \"Autolinks\" menu and is also used for the autolinks "
+"generated with the \"Wizard\" menu."
+msgstr ""
+"Il valore della priorità determina l'ordine utilizzato per applicare gli "
+"autolink sul post. Questa opzione determina il valore di default del campo "
+"\"Priorità\" disponbile nel menu \"Autolink\" ed è anche utilizzato per gli "
+"autolink generati nel menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2499
+msgid "Please enter a number from 1 to 1000000 in the \"Priority\" option."
+msgstr ""
+"Per favore inserisci un valore compreso tra 1 e 1000000 nell'opzione "
+"\"Priorità\"."
+
+#: ../admin/class-daam-admin.php:2519
+msgid ""
+"Select \"Yes\" to enable your custom \"Max Execution Time Value\" on long "
+"running scripts."
+msgstr ""
+"Scegli \"Si\" per abilitare il valore definito con l'opzione \"Valore Max "
+"Execution Time\" negli script di lunga durata."
+
+#: ../admin/class-daam-admin.php:2538
+msgid ""
+"This value determines the maximum number of seconds allowed to execute long "
+"running scripts."
+msgstr ""
+"Questo valore determina il numero massimo di secondi permessi per completare "
+"l'esecuzione degli script di lunga durata."
+
+#: ../admin/class-daam-admin.php:2549 ../admin/class-daam-admin.php:2598
+msgid "Please enter a valid value in the \"Memory Limit Value\" option."
+msgstr ""
+"Per favore inserisci un valore valid nell'opzione \"Valore Memory Limit\"."
+
+#: ../admin/class-daam-admin.php:2568
+msgid ""
+"Select \"Yes\" to enable your custom \"Memory Limit Value\" on long running "
+"scripts."
+msgstr ""
+"Scegli \"Si\" per abilitare il valore definito con l'opzione \"Valore Memory "
+"Limit\" negli script di lunga durata."
+
+#: ../admin/class-daam-admin.php:2587
+msgid ""
+"This value determines the PHP memory limit in megabytes allowed to execute "
+"long running scripts."
+msgstr ""
+"Questo valore determina il limite di memoria in megabyte di PHP permesso per "
+"completare l'esecuzione degli script di lunga durata."
+
+#: ../admin/class-daam-admin.php:2613
+msgid ""
+"With this options you can determine the maximum number of posts analyzed to "
+"get information about your autolinks. If you select for example \"1000\", "
+"the analysis performed by the plugin will use your latest \"1000\" posts."
+msgstr ""
+"Questa opzione determina il numero massimo di post analizzati per recuperare "
+"informazioni relative agli autolink. Se ad esempio scegli \"1000\" l'analisi "
+"verrà effettuata sugli ultimi \"1000\" post."
+
+#: ../admin/class-daam-admin.php:2624
+msgid "Please enter a valid value in the \"Limit Post Analysis\" option."
+msgstr ""
+"Per favore inserisci un valore valido nell'opzione \"Limite Analisi Post\"."
+
+#: ../admin/class-daam-admin.php:2661
+msgid ""
+"With this option you are able to determine in which post types the analysis "
+"should be performed. Leave this field empty to perform the analysis in any "
+"post type."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali post type deve "
+"essere effettuata l'analisi. Lascia questo campo vuoto per effettuare "
+"l'analisi in qualsiasi post type."
+
+#: ../admin/class-daam-admin.php:2689
+msgid ""
+"This option determines whether to track or not the clicks performed on the "
+"autolinks."
+msgstr ""
+"Questa opzione determina se tracciare o no i click effettuati sugli autolink."
+
+#: ../admin/class-daam-admin.php:2708
+msgid ""
+"This value determines the minimum interval in seconds between multiple "
+"clicks of the same users."
+msgstr ""
+"Questo valore determina l'intervallo minimo in secondi tra multipli click "
+"dello stesso utente."
+
+#: ../admin/class-daam-admin.php:2720
+msgid "Please enter a valid value in the \"Minimum Interval\" option."
+msgstr ""
+"Per favore inserisci un valore valido nell'opzione \"Intervallo Minimo\"."
+
+#: ../admin/class-daam-admin.php:2735
+msgid "The capability required to get access on the editor sidebar."
+msgstr "La capability richiesta per avere accesso alla sidebar dell'editor."
+
+#: ../admin/class-daam-admin.php:2747
+msgid "Please enter a valid capability in the \"Editor Sidebar\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Editor Sidebar\"."
+
+#: ../admin/class-daam-admin.php:2761
+msgid "The capability required to get access on the \"Statistics\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Statistiche\"."
+
+#: ../admin/class-daam-admin.php:2773
+msgid "Please enter a valid capability in the \"Statistics Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Statistiche\"."
+
+#: ../admin/class-daam-admin.php:2787
+msgid "The capability required to get access on the \"Wizard\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Wizard\"."
+
+#: ../admin/class-daam-admin.php:2799
+msgid "Please enter a valid capability in the \"Wizard Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Wizard\"."
+
+#: ../admin/class-daam-admin.php:2813
+msgid "The capability required to get access on the \"Autolinks\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Autolink\"."
+
+#: ../admin/class-daam-admin.php:2825
+msgid "Please enter a valid capability in the \"Autolinks Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Autolink\"."
+
+#: ../admin/class-daam-admin.php:2839
+msgid "The capability required to get access on the \"Categories\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Categorie\"."
+
+#: ../admin/class-daam-admin.php:2851
+msgid "Please enter a valid capability in the \"Categories Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Categorie\"."
+
+#: ../admin/class-daam-admin.php:2865
+msgid "The capability required to get access on the \"Term Groups\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Gruppi Termine\"."
+
+#: ../admin/class-daam-admin.php:2877
+msgid "Please enter a valid capability in the \"Term Groups Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Gruppi Termine"
+"\"."
+
+#: ../admin/class-daam-admin.php:2891
+msgid "The capability required to get access on the \"Tracking\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Tracking\"."
+
+#: ../admin/class-daam-admin.php:2903
+msgid "Please enter a valid capability in the \"Tracking Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Tracciamento"
+"\"."
+
+#: ../admin/class-daam-admin.php:2917
+msgid "The capability required to get access on the \"Import\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Importa\"."
+
+#: ../admin/class-daam-admin.php:2929
+msgid "Please enter a valid capability in the \"Import Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Importazione"
+"\"."
+
+#: ../admin/class-daam-admin.php:2943 ../admin/class-daam-admin.php:2969
+msgid "The capability required to get access on the \"Export\" menu."
+msgstr "La capability richiesta per avere accesso al menu \"Esporta\"."
+
+#: ../admin/class-daam-admin.php:2955
+msgid "Please enter a valid capability in the \"Export Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Esportazione"
+"\"."
+
+#: ../admin/class-daam-admin.php:2981
+msgid "Please enter a valid capability in the \"Maintenance Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nell'opzione \"Menu Manutenzione"
+"\"."
+
+#: ../admin/class-daam-admin.php:3017
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Statistics\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Statistiche\"."
+
+#: ../admin/class-daam-admin.php:3056
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Autolinks\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Autolink\"."
+
+#: ../admin/class-daam-admin.php:3095
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Categories\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Categorie\"."
+
+#: ../admin/class-daam-admin.php:3134
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Term Groups\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Gruppi Termine\"."
+
+#: ../admin/class-daam-admin.php:3173
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Tracking\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Tracking\"."
+
+#: ../admin/class-daam-admin.php:3197
+msgid ""
+"This option determines the default status of the \"Enable Autolinks\" option "
+"available in the \"Autolinks Manager\" meta box."
+msgstr ""
+"Questa opzione determina il valore di default del campo \"Abilita Autolink\" "
+"disponibile nel meta box \"Autolinks Manager\"."
+
+#: ../admin/class-daam-admin.php:3216
+msgid ""
+"This option determines the priority of the filter used to apply the "
+"autolinks. A lower number corresponds with an earlier execution."
+msgstr ""
+"Questa opzione determina la priorità del filtro utilizzato per applicare gli "
+"autolink. Un numero basso corrisponde ad una esecuzione anticipata."
+
+#: ../admin/class-daam-admin.php:3227
+msgid ""
+"Please enter a number from -2147483648 to 2147483646 in the \"Filter Priority"
+"\" option."
+msgstr ""
+"Per favore inserisci un valore compreso tra -2147483648 e 2147483646 "
+"nell'opzione \"Priorità Filtro\"."
+
+#: ../admin/class-daam-admin.php:3247
+msgid ""
+"With the test mode enabled the autolinks will be applied to your posts, "
+"pages or custom post types only if the user that is requesting the posts, "
+"pages or custom post types has the capability defined with the \"Autolinks "
+"Menu\" option."
+msgstr ""
+"Con la modalità test abilitata gli autolink verranno applicati agli "
+"articoli, pagine e custom post type solamente se l'utente che sta "
+"richiedendo l'articolo, pagina o custom post type ha la capability definita "
+"con l'opzione \"Menu Autolink\"."
+
+#: ../admin/class-daam-admin.php:3270
+msgid ""
+"With this option enabled the order used to apply the autolinks with the same "
+"priority is randomized on a per-post basis. With this option disabled the "
+"order used to apply the autolinks with the same priority is the order used "
+"to add them in the back-end. It's recommended to enable this option for a "
+"better distribution of the autolinks."
+msgstr ""
+"Con questa opzione abilitata l'ordine utilizzato per applicare gli autolink "
+"con la stessa priorità è casuale. Con questa opzione disabilitata l'ordine "
+"utilizzato per applicare gli autolink con la stessa priorità è l'ordine "
+"utilizzato per aggiungerli nel back-end. E' consigliato abilitare questa "
+"opzione per ottenere una migliore distribuzione degli autolink."
+
+#: ../admin/class-daam-admin.php:3293
+msgid ""
+"With this option enabled, the autolinks which have as a target the post "
+"where they should be applied, will be ignored."
+msgstr ""
+"Con questa opzione abilitata gli autolink che hanno come target il post "
+"stesso in cui sono stati applicati verranno ignorati."
+
+#: ../admin/class-daam-admin.php:3312 ../admin/class-daam-admin.php:4062
+#: ../admin/class-daam-admin.php:4129 ../admin/view/statistics.php:160
+#: ../admin/view/tracking.php:149
+msgid "Post"
+msgstr "Post"
+
+#: ../admin/class-daam-admin.php:3314
+msgid "Any"
+msgstr "Qualsiasi"
+
+#: ../admin/class-daam-admin.php:3316
+msgid ""
+"If \"Post\" is selected categories and tags will be verified only in the "
+"\"post\" post type, if \"Any\" is selected categories and tags will be "
+"verified in any post type."
+msgstr ""
+"Se \"Post\" è selezionato le categorie ed i tag verranno verificati solo nei "
+"post type di tipo \"post\", se \"Qualsiasi\" è selezionato le categorie ed i "
+"tag verranno verificati in qualsiasi post type."
+
+#: ../admin/class-daam-admin.php:3340
+msgid "Auto"
+msgstr "Automatico"
+
+#: ../admin/class-daam-admin.php:3342
+msgid "Manual"
+msgstr "Manuale"
+
+#: ../admin/class-daam-admin.php:3344
+msgid ""
+"If \"Auto\" is selected the maximum number of autolinks per post is "
+"automatically generated based on the length of the post, in this case the "
+"\"General Limit (Characters per Autolinks)\" option is used. If \"Manual\" "
+"is selected the maximum number of autolinks per post is equal to the value "
+"of the \"General Limit (Amount)\" option."
+msgstr ""
+"Se \"Automatico\" è selezionato il numero massimo di autolink per post è "
+"automaticamente generato basandosi sulla lunghezza del post ed in questo "
+"caso l'opzione \"Limite Generale (Caratteri per Autolink)\" è utilizzata. Se "
+"\"Manuale\" è selezionato il numero massimo di autolink per post è uguale al "
+"valore specificato nell'opzione \"Limite Generale (Quantità)\"."
+
+#: ../admin/class-daam-admin.php:3363
+msgid ""
+"This value is used to automatically determine the maximum number of "
+"autolinks per post when the \"General Limit Mode\" option is set to \"Auto\"."
+msgstr ""
+"Questo valore è utilizzato per determinare automaticamente il massimo numero "
+"di autolink per post quando l'opzione \"Modalità Limite Generale\" è "
+"impostata su \"Automatico\"."
+
+#: ../admin/class-daam-admin.php:3376
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"General Limit (Characters "
+"per Autolink)\" option."
+msgstr ""
+"Per favore inserisci un numero compreso tra 1 e 1000000 nell'opzione "
+"\"Limite Generale (Caratteri per Autolink)."
+
+#: ../admin/class-daam-admin.php:3392
+msgid ""
+"This value determines the maximum number of autolinks per post when the "
+"\"General Limit Mode\" option is set to \"Manual\"."
+msgstr ""
+"Questo valore determina il numero massimo di autolink per post quando "
+"l'opzione \"Modalità Limite Generale\" è impostata su \"Manuale\"."
+
+#: ../admin/class-daam-admin.php:3404
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"General Limit (Amount)\" "
+"option."
+msgstr ""
+"Per favore inserisci un numero compreso tra 1 e 1000000 nell'opzione "
+"\"Limite Generale (Quantità)\"."
+
+#: ../admin/class-daam-admin.php:3419
+msgid ""
+"This option limits the number of autolinks with the same URL to a specific "
+"value."
+msgstr ""
+"Questa opzione limita il numero di autolink con lo stesso URL al valore "
+"specificato."
+
+#: ../admin/class-daam-admin.php:3431
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Same URL Limit\" option."
+msgstr ""
+"Per favore inserisci un numero compreso tra 1 e 1000000 nell'opzione "
+"\"Limite Stesso URL\"."
+
+#: ../admin/class-daam-admin.php:3446
+msgid ""
+"This option determines the maximum number of terms supported in a single "
+"term group."
+msgstr ""
+"Questa opzione determina il numero massimo di termini supportati in un "
+"singolo gruppo termine."
+
+#: ../admin/class-daam-admin.php:3458
+msgid "Please enter a number from 1 to 50 in the \"Supported Terms\" option."
+msgstr ""
+"Per favore inserisci un valore compreso tra 1 e 50 nell'opzione \"Tag "
+"Protetti\"."
+
+#: ../admin/class-daam-admin.php:3473
+msgid ""
+"This option determines the number of rows available in the table of the "
+"Wizard menu."
+msgstr ""
+"Questa opzione determina il numero di righe disponibili nel menu Wizard."
+
+#: ../admin/class-daam-admin.php:3485
+msgid "Please enter a number from 100 to 10000 in the \"Wizard Rows\" option."
+msgstr ""
+"Per favore inserisci un numero compreso tra 100 e 10000 nell'opzione \"Righe "
+"Wizard\"."
+
+#: ../admin/class-daam-admin.php:3629
+msgid ""
+"With this option you are able to determine in which HTML tags the autolinks "
+"should not be applied."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali tag HTML gli "
+"autolink non devono essere applicati."
+
+#: ../admin/class-daam-admin.php:3655
+msgid "Paragraph"
+msgstr "Paragraph"
+
+#: ../admin/class-daam-admin.php:3657
+msgid "Image"
+msgstr "Image"
+
+#: ../admin/class-daam-admin.php:3659
+msgid "Heading"
+msgstr "Heading"
+
+#: ../admin/class-daam-admin.php:3661
+msgid "Gallery"
+msgstr "Gallery"
+
+#: ../admin/class-daam-admin.php:3663
+msgid "List"
+msgstr "List"
+
+#: ../admin/class-daam-admin.php:3665
+msgid "Quote"
+msgstr "Quote"
+
+#: ../admin/class-daam-admin.php:3667
+msgid "Audio"
+msgstr "Audio"
+
+#: ../admin/class-daam-admin.php:3669
+msgid "Cover Image"
+msgstr "Cover Image"
+
+#: ../admin/class-daam-admin.php:3671
+msgid "Subhead"
+msgstr "Subhead"
+
+#: ../admin/class-daam-admin.php:3673
+msgid "Video"
+msgstr "Video"
+
+#: ../admin/class-daam-admin.php:3675
+msgid "Code"
+msgstr "Code"
+
+#: ../admin/class-daam-admin.php:3677
+msgid "Custom HTML"
+msgstr "Custom HTML"
+
+#: ../admin/class-daam-admin.php:3679
+msgid "Preformatted"
+msgstr "Preformatted"
+
+#: ../admin/class-daam-admin.php:3681
+msgid "Pullquote"
+msgstr "Pullquote"
+
+#: ../admin/class-daam-admin.php:3683
+msgid "Table"
+msgstr "Table"
+
+#: ../admin/class-daam-admin.php:3685
+msgid "Verse"
+msgstr "Verse"
+
+#: ../admin/class-daam-admin.php:3687
+msgid "Button"
+msgstr "Button"
+
+#: ../admin/class-daam-admin.php:3689
+msgid "Columns (Experimentals)"
+msgstr "Columns (Experimentals)"
+
+#: ../admin/class-daam-admin.php:3691
+msgid "More"
+msgstr "More"
+
+#: ../admin/class-daam-admin.php:3693
+msgid "Page Break"
+msgstr "Page Break"
+
+#: ../admin/class-daam-admin.php:3695
+msgid "Separator"
+msgstr "Separator"
+
+#: ../admin/class-daam-admin.php:3697
+msgid "Spacer"
+msgstr "Spacer"
+
+#: ../admin/class-daam-admin.php:3699
+msgid "Text Columnns"
+msgstr "Text Columnns"
+
+#: ../admin/class-daam-admin.php:3701
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/class-daam-admin.php:3705
+msgid "Latest Posts"
+msgstr "Latest Posts"
+
+#: ../admin/class-daam-admin.php:3707
+msgid "Embed"
+msgstr "Embed"
+
+#: ../admin/class-daam-admin.php:3709
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/class-daam-admin.php:3711
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../admin/class-daam-admin.php:3713
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/class-daam-admin.php:3715
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/class-daam-admin.php:3717
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../admin/class-daam-admin.php:3719
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../admin/class-daam-admin.php:3721
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../admin/class-daam-admin.php:3723
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../admin/class-daam-admin.php:3725
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../admin/class-daam-admin.php:3727
+msgid "Animoto"
+msgstr "Animoto"
+
+#: ../admin/class-daam-admin.php:3729
+msgid "Cloudup"
+msgstr "Cloudup"
+
+#: ../admin/class-daam-admin.php:3731
+msgid "CollegeHumor"
+msgstr "CollegeHumor"
+
+#: ../admin/class-daam-admin.php:3733
+msgid "DailyMotion"
+msgstr "DailyMotion"
+
+#: ../admin/class-daam-admin.php:3735
+msgid "Funny or Die"
+msgstr "Funny or Die"
+
+#: ../admin/class-daam-admin.php:3737
+msgid "Hulu"
+msgstr "Hulu"
+
+#: ../admin/class-daam-admin.php:3739
+msgid "Imgur"
+msgstr "Imgur"
+
+#: ../admin/class-daam-admin.php:3741
+msgid "Issuu"
+msgstr "Issuu"
+
+#: ../admin/class-daam-admin.php:3743
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+#: ../admin/class-daam-admin.php:3745
+msgid "Meetup.com"
+msgstr "Meetup.com"
+
+#: ../admin/class-daam-admin.php:3747
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: ../admin/class-daam-admin.php:3749
+msgid "Photobucket"
+msgstr "Photobucket"
+
+#: ../admin/class-daam-admin.php:3751
+msgid "Polldaddy"
+msgstr "Polldaddy"
+
+#: ../admin/class-daam-admin.php:3753
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../admin/class-daam-admin.php:3755
+msgid "ReverbNation"
+msgstr "ReverbNation"
+
+#: ../admin/class-daam-admin.php:3757
+msgid "Screencast"
+msgstr "Screencast"
+
+#: ../admin/class-daam-admin.php:3759
+msgid "Scribd"
+msgstr "Scribd"
+
+#: ../admin/class-daam-admin.php:3761
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../admin/class-daam-admin.php:3763
+msgid "SmugMug"
+msgstr "SmugMug"
+
+#: ../admin/class-daam-admin.php:3765
+msgid "Speaker"
+msgstr "Speaker"
+
+#: ../admin/class-daam-admin.php:3767
+msgid "Ted"
+msgstr "Ted"
+
+#: ../admin/class-daam-admin.php:3769
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../admin/class-daam-admin.php:3771
+msgid "VideoPress"
+msgstr "VideoPress"
+
+#: ../admin/class-daam-admin.php:3773
+msgid "WordPress.tv"
+msgstr "WordPress.tv"
+
+#: ../admin/class-daam-admin.php:3776
+msgid ""
+"With this option you are able to determine in which Gutenberg blocks the "
+"autolinks should not be applied."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali blocchi Gutenberg "
+"gli autolink non devono essere applicati."
+
+#: ../admin/class-daam-admin.php:3798
+msgid "Enter a list of Gutenberg custom blocks, separated by a comma."
+msgstr ""
+"Inserisci una lista di blocchi personalizzati Gutenberg, separati da virgola."
+
+#: ../admin/class-daam-admin.php:3811
+msgid ""
+"Please enter a valid list of Gutenberg custom blocks separated by a comma in "
+"the \"Protected Gutenberg Custom Blocks\" option."
+msgstr ""
+"Per favore inserisci una lista valida di blocchi personalizzati Gutenberg "
+"separati da virgola."
+
+#: ../admin/class-daam-admin.php:3826
+msgid "Enter a list of Gutenberg custom void blocks, separated by a comma."
+msgstr ""
+"Inserisci una lista di blocchi personalizzati vuoti Gutenberg, separati da "
+"virgola."
+
+#: ../admin/class-daam-admin.php:3839
+msgid ""
+"Please enter a valid list of Gutenberg custom void blocks separated by a "
+"comma in the \"Protected Gutenberg Custom Void Blocks\" option."
+msgstr ""
+"Per favore inserisci una lista valida di blocchi personalizzati vuoti "
+"Gutenberg separati da virgola."
+
+#: ../admin/class-daam-admin.php:3865 ../admin/view/autolinks.php:4
+#: ../admin/view/categories.php:4 ../admin/view/export.php:4
+#: ../admin/view/import.php:4 ../admin/view/maintenance.php:4
+#: ../admin/view/statistics.php:4 ../admin/view/term_groups.php:4
+#: ../admin/view/tracking.php:4 ../admin/view/wizard.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi sufficienti per accedere a questa pagina."
+
+#: ../admin/class-daam-admin.php:3901 ../blocks/dist/blocks.build.js:189
+#: ../blocks/src/autolinks-manager/index.js:83
+msgid "Autolinks Manager"
+msgstr "Autolinks Manager"
+
+#: ../admin/class-daam-admin.php:3947
+msgid "Enable Autolinks:"
+msgstr "Abilita Autolink:"
+
+#: ../admin/class-daam-admin.php:4061 ../admin/view/statistics.php:155
+msgid "Post ID"
+msgstr "Post ID"
+
+#: ../admin/class-daam-admin.php:4063 ../admin/view/statistics.php:73
+#: ../admin/view/statistics.php:166
+msgid "Content Length"
+msgstr "Lunghezza Contenuto"
+
+#: ../admin/class-daam-admin.php:4065 ../admin/view/statistics.php:79
+#: ../admin/view/statistics.php:177
+msgid "Clicks"
+msgstr "Click"
+
+#: ../admin/class-daam-admin.php:4074 ../admin/class-daam-admin.php:4143
+#: ../admin/class-daam-admin.php:4149 ../admin/view/statistics.php:194
+#: ../admin/view/tracking.php:170 ../admin/view/tracking.php:177
+msgid "Not Available"
+msgstr "Non Disponibile"
+
+#: ../admin/class-daam-admin.php:4125 ../admin/view/tracking.php:127
+msgid "Tracking ID"
+msgstr "ID Tracking"
+
+#: ../admin/class-daam-admin.php:4126 ../admin/view/tracking.php:132
+msgid "User IP"
+msgstr "IP Utente"
+
+#: ../admin/class-daam-admin.php:4127 ../admin/view/tracking.php:137
+msgid "Date"
+msgstr "Data"
+
+#: ../admin/class-daam-admin.php:4128 ../admin/view/tracking.php:143
+msgid "Autolink"
+msgstr "Autolink"
+
+#: ../admin/view/autolinks.php:48 ../admin/view/categories.php:31
+#: ../admin/view/term_groups.php:32 ../admin/view/wizard.php:18
+msgid "Please enter a valid value in the \"Name\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Nome\"."
+
+#: ../admin/view/autolinks.php:55
+msgid "Please enter a valid value in the \"Keyword\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Keyword"
+
+#: ../admin/view/autolinks.php:70
+msgid "A keyword that includes only digits is not allowed."
+msgstr "Una keyword che include solo cifre non è permessa."
+
+#: ../admin/view/autolinks.php:80 ../admin/view/autolinks.php:91
+msgid "The specified keyword is not allowed."
+msgstr "La keyword specificata non è permessa."
+
+#: ../admin/view/autolinks.php:99
+msgid "Please enter a valid value in the \"URL\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"URL\"."
+
+#: ../admin/view/autolinks.php:106
+msgid "Please enter a valid value in the \"Title\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Titolo\"."
+
+#: ../admin/view/autolinks.php:113
+msgid "Please enter a valid value in the \"Limit\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Limite\"."
+
+#: ../admin/view/autolinks.php:120
+msgid "Please enter a valid value in the \"Priority\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Priorità\"."
+
+#: ../admin/view/autolinks.php:127
+msgid "Please enter a valid value in the \"Keyword Before\" field."
+msgstr ""
+"Per favore inserisci un valore valido nel campo \"Keyword Precedente\"."
+
+#: ../admin/view/autolinks.php:134
+msgid "Please enter a valid value in the \"Keyword After\" field."
+msgstr ""
+"Per favore inserisci un valore valido nel campo \"Keyword Successiva\"."
+
+#: ../admin/view/autolinks.php:190
+msgid "The autolink has been successfully updated."
+msgstr "Gli autolink sono stati creati con successo."
+
+#: ../admin/view/autolinks.php:244
+msgid "The autolink has been successfully added."
+msgstr "L'autolink è stato creato con successo."
+
+#: ../admin/view/autolinks.php:263
+msgid "The autolink has been successfully deleted."
+msgstr "L'autolink è stato cancellato con successo."
+
+#: ../admin/view/autolinks.php:308
+msgid "Autolinks Manager - Autolinks"
+msgstr "Autolinks Manager - Autolink"
+
+#: ../admin/view/autolinks.php:316 ../admin/view/categories.php:157
+#: ../admin/view/statistics.php:36 ../admin/view/term_groups.php:294
+#: ../admin/view/tracking.php:59
+msgid "Perform your Search"
+msgstr "Effettua la Ricerca"
+
+#: ../admin/view/autolinks.php:344
+msgid "Filter by Category"
+msgstr "Filtra per Categoria"
+
+#: ../admin/view/autolinks.php:350
+msgid "All"
+msgstr "Tutti"
+
+#: ../admin/view/autolinks.php:453
+msgid "Autolink ID"
+msgstr "ID Autolink"
+
+#: ../admin/view/autolinks.php:455
+msgid "The ID of the autolink."
+msgstr "L'ID dell'autolink."
+
+#: ../admin/view/autolinks.php:458 ../admin/view/autolinks.php:549
+#: ../admin/view/autolinks.php:960 ../admin/view/categories.php:235
+#: ../admin/view/categories.php:326 ../admin/view/categories.php:368
+#: ../admin/view/term_groups.php:370 ../admin/view/term_groups.php:456
+#: ../admin/view/term_groups.php:581 ../admin/view/wizard.php:58
+msgid "Name"
+msgstr "Nome"
+
+#: ../admin/view/autolinks.php:460 ../admin/view/autolinks.php:554
+#: ../admin/view/autolinks.php:964
+msgid "The name of the autolink."
+msgstr "Il nome dell'autolink."
+
+#: ../admin/view/autolinks.php:465 ../admin/view/autolinks.php:581
+#: ../admin/view/autolinks.php:991
+msgid "The category of the autolink."
+msgstr "La categoria dell'autolink."
+
+#: ../admin/view/autolinks.php:506 ../admin/view/categories.php:283
+#: ../admin/view/statistics.php:228 ../admin/view/term_groups.php:413
+#: ../admin/view/tracking.php:215
+msgid "items"
+msgstr "record"
+
+#: ../admin/view/autolinks.php:518 ../admin/view/categories.php:295
+#: ../admin/view/term_groups.php:425
+msgid "There are no results that match your filter."
+msgstr "Non ci sono risultati che soddisfano i tuoi criteri di ricerca."
+
+#: ../admin/view/autolinks.php:539
+msgid "Edit Autolink"
+msgstr "Modifica Autolink"
+
+#: ../admin/view/autolinks.php:592 ../admin/view/autolinks.php:1002
+msgid "Keyword"
+msgstr "Keyword"
+
+#: ../admin/view/autolinks.php:597 ../admin/view/autolinks.php:1007
+msgid "The keyword that will be converted to a link."
+msgstr "La keyword che verrà convertita in un link."
+
+#: ../admin/view/autolinks.php:604 ../admin/view/autolinks.php:1014
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/view/autolinks.php:609 ../admin/view/autolinks.php:1018
+msgid ""
+"The destination address of the link automatically generated on the keyword."
+msgstr ""
+"L'indirizzo di destinazione del link generato automaticamente sulla keyword."
+
+#: ../admin/view/autolinks.php:616 ../admin/view/autolinks.php:1025
+msgid "HTML"
+msgstr "HTML"
+
+#: ../admin/view/autolinks.php:624 ../admin/view/autolinks.php:1033
+msgid "Title"
+msgstr "Titolo"
+
+#: ../admin/view/autolinks.php:629 ../admin/view/autolinks.php:1037
+msgid "The title attribute of the link automatically generated on the keyword."
+msgstr "L'attributo titolo del link generato automaticamente sulla keyword."
+
+#: ../admin/view/autolinks.php:645 ../admin/view/autolinks.php:1053
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword opens the "
+"linked document in a new tab."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita apre il documento "
+"linkato in una nuova tab."
+
+#: ../admin/view/autolinks.php:661 ../admin/view/autolinks.php:1069
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword will include "
+"the rel=\"nofollow\" attribute."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita includerà "
+"l'attributo rel=\"nofollow\"."
+
+#: ../admin/view/autolinks.php:668 ../admin/view/autolinks.php:1076
+msgid "Affected Posts"
+msgstr "Post Considerati"
+
+#: ../admin/view/autolinks.php:706 ../admin/view/autolinks.php:1114
+msgid ""
+"With this option you are able to determine in which post types the defined "
+"keywords will be automatically converted to a link. Leave this field empty "
+"to convert the keyword in any post type."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali post type la keyword "
+"definita verrà automaticamente convertita in un link. Lascia questo campo "
+"vuoto per convertire la keyword in qualsiasi post type."
+
+#: ../admin/view/autolinks.php:743 ../admin/view/autolinks.php:1151
+msgid ""
+"With this option you are able to determine in which categories the defined "
+"keywords will be automatically converted to a link. Leave this field empty "
+"to convert the keyword in any category."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali categorie la keyword "
+"definita verrà automaticamente convertita in un link. Lascia questo campo "
+"vuoto per convertire la keyword in qualsiasi categoria."
+
+#: ../admin/view/autolinks.php:779 ../admin/view/autolinks.php:1188
+msgid ""
+"With this option you are able to determine in which tags the defined "
+"keywords will be automatically converted to a link. Leave this field empty "
+"to convert the keyword in any tag."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali tag la keyword "
+"definita verrà automaticamente convertita in un link. Lascia questo campo "
+"vuoto per convertire la keyword in qualsiasi tag."
+
+#: ../admin/view/autolinks.php:810 ../admin/view/autolinks.php:1221
+msgid ""
+"The terms that will be compared with the ones available on the posts where "
+"the autolinks are applied. Please note that when a term group is selected "
+"the \"Categories\" and \"Tags\" options will be ignored."
+msgstr ""
+"I termini che verranno comparati con quelli disponibili nei post dove sono "
+"applicati gli autolink. Per favore nota che quando un gruppo termine è "
+"selezionato le opzioni \"Categorie\" e \"Tag\" verranno ignorate."
+
+#: ../admin/view/autolinks.php:821 ../admin/view/autolinks.php:1232
+msgid "Advanced Match"
+msgstr "Match Avanzato"
+
+#: ../admin/view/autolinks.php:839 ../admin/view/autolinks.php:1250
+msgid ""
+"If you select \"No\" the defined keyword will match both lowercase and "
+"uppercase variations."
+msgstr ""
+"Se scegli  \"No\" la keyword definità verrà applicata sia sulle variazioni "
+"minuscole che sulle variazioni maiuscole."
+
+#: ../admin/view/autolinks.php:861 ../admin/view/autolinks.php:1272
+msgid ""
+"Use this option to match keywords preceded by a generic boundary or by a "
+"specific character."
+msgstr ""
+"Utilizza questa opzione per considerare keyword precedute da un confine "
+"generico o da uno specifico carattere."
+
+#: ../admin/view/autolinks.php:883 ../admin/view/autolinks.php:1294
+msgid ""
+"Use this option to match keywords followed by a generic boundary or by a "
+"specific character."
+msgstr ""
+"Utilizza questa opzione per considerare keyword precedute da un confine "
+"generico o da uno specifico carattere."
+
+#: ../admin/view/autolinks.php:890 ../admin/view/autolinks.php:1301
+msgid "Keyword Before"
+msgstr "Keyword Precedente"
+
+#: ../admin/view/autolinks.php:896 ../admin/view/autolinks.php:1307
+msgid "Use this option to match occurences preceded by a specific string."
+msgstr ""
+"Utilizza questa opzione per considerare occorrenze precedute da una "
+"specifica stringa."
+
+#: ../admin/view/autolinks.php:903 ../admin/view/autolinks.php:1314
+msgid "Keyword After"
+msgstr "Keyword Successiva"
+
+#: ../admin/view/autolinks.php:909 ../admin/view/autolinks.php:1320
+msgid "Use this option to match occurences followed by a specific string."
+msgstr ""
+"Utilizza questa opzione per considerare occorrenze seguite da una specifica "
+"stringa."
+
+#: ../admin/view/autolinks.php:921 ../admin/view/autolinks.php:1332
+msgid ""
+"With this option you can determine the maximum number of matches of the "
+"defined keyword automatically converted to a link."
+msgstr ""
+"Con questa opzione puoi determinare il numero massimo di occorrenze della "
+"keyword definita automaticamente convertite in link."
+
+#: ../admin/view/autolinks.php:933 ../admin/view/autolinks.php:1345
+msgid ""
+"The priority value determines the order used to apply the autolinks on the "
+"post."
+msgstr ""
+"Il valore della priorità determina l'ordine utilizzato per applicare gli "
+"autolink sul post."
+
+#: ../admin/view/autolinks.php:943
+msgid "Update Autolink"
+msgstr "Aggiorna Autolink"
+
+#: ../admin/view/autolinks.php:954
+msgid "Create New Autolink"
+msgstr "Crea Nuovo Autolink"
+
+#: ../admin/view/autolinks.php:1355
+msgid "Add Autolink"
+msgstr "Aggiungi Autolink"
+
+#: ../admin/view/autolinks.php:1371
+msgid "Delete the autolink?"
+msgstr "Cancellare l'autolink?"
+
+#: ../admin/view/autolinks.php:1372
+msgid ""
+"This autolink will be permanently deleted and cannot be recovered. Are you "
+"sure?"
+msgstr ""
+"Questo autolink verrà cancellato e non potrà più essere recuperato. Sei "
+"sicuro?"
+
+#: ../admin/view/categories.php:38
+msgid "Please enter a valid value in the \"Description\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Descrizione\"."
+
+#: ../admin/view/categories.php:62
+msgid "The category has been successfully updated."
+msgstr "La categoria è stata aggiornata con successo."
+
+#: ../admin/view/categories.php:84
+msgid "The category has been successfully added."
+msgstr "La categoria è stata aggiunta con successo."
+
+#: ../admin/view/categories.php:101
+msgid ""
+"This category is associated with one or more autolinks and can't be deleted."
+msgstr ""
+"La categoria è associate ad uno o più autolink e non può essere cancellata."
+
+#: ../admin/view/categories.php:111
+msgid "The category has been successfully deleted."
+msgstr "La categoria è stata aggiunta con successo."
+
+#: ../admin/view/categories.php:151
+msgid "Autolinks Manager - Categories"
+msgstr "Autolinks Manager - Categorie"
+
+#: ../admin/view/categories.php:230
+msgid "Category ID"
+msgstr "ID Categoria"
+
+#: ../admin/view/categories.php:232
+msgid "The ID of the category."
+msgstr "L'ID della categoria."
+
+#: ../admin/view/categories.php:237 ../admin/view/categories.php:331
+#: ../admin/view/categories.php:372
+msgid "The name of the category."
+msgstr "Il nome della categoria."
+
+#: ../admin/view/categories.php:240 ../admin/view/categories.php:337
+#: ../admin/view/categories.php:378
+msgid "Description"
+msgstr "Descrizione"
+
+#: ../admin/view/categories.php:242 ../admin/view/categories.php:342
+#: ../admin/view/categories.php:382
+msgid "The description of the category."
+msgstr "La descrizione della categoria."
+
+#: ../admin/view/categories.php:316
+msgid "Edit Category"
+msgstr "Modifica Categoria"
+
+#: ../admin/view/categories.php:351
+msgid "Update Category"
+msgstr "Aggiorna Categoria"
+
+#: ../admin/view/categories.php:362
+msgid "Create New Category"
+msgstr "Crea Nuova Categoria"
+
+#: ../admin/view/categories.php:391
+msgid "Add Category"
+msgstr "Aggiungi Categoria"
+
+#: ../admin/view/categories.php:407
+msgid "Delete the category?"
+msgstr "Cancellare la categoria?"
+
+#: ../admin/view/categories.php:408
+msgid ""
+"This category will be permanently deleted and cannot be recovered. Are you "
+"sure?"
+msgstr ""
+"Questa categoria verrà cancellata e non potrà essere recuperata. Sei sicuro?"
+
+#: ../admin/view/export.php:13
+msgid "Autolinks Manager - Export"
+msgstr "Autolinks Manager - Esporta"
+
+#: ../admin/view/export.php:17
+msgid ""
+"Click the Export button to generate an XML file that includes autolinks, "
+"categories and term groups."
+msgstr ""
+"Clicca il pulsante Esporta per generare un file XML che include autolink, "
+"categorie e gruppi termine."
+
+#: ../admin/view/import.php:13
+msgid "Autolinks Manager - Import"
+msgstr "Autolinks Manager - Importa"
+
+#: ../admin/view/import.php:148
+msgid "The following elements have been added:"
+msgstr "I seguenti elementi sono stati aggiunti:"
+
+#: ../admin/view/import.php:149
+msgid "autolinks"
+msgstr "autolink"
+
+#: ../admin/view/import.php:150
+msgid "categories"
+msgstr "categorie"
+
+#: ../admin/view/import.php:151
+msgid "term groups."
+msgstr "gruppi termine."
+
+#: ../admin/view/import.php:152
+msgid "Dismiss this notice."
+msgstr "Rimuovi questa notifica."
+
+#: ../admin/view/import.php:163
+msgid ""
+"Import the autolinks, categories and term groups stored in your XML file by "
+"clicking the Upload file and import button."
+msgstr ""
+"Importa gli autolink, le categorie ed i gruppi termine archiviati nel tuo "
+"file XML cliccando il pulsante Carica file e Importa"
+
+#: ../admin/view/import.php:167
+msgid "Choose a file from your computer:"
+msgstr "Scegli un file dal tuo computer:"
+
+#: ../admin/view/import.php:171
+msgid "Upload file and import"
+msgstr "Carica file e Importa"
+
+#: ../admin/view/import.php:174
+msgid ""
+"IMPORTANT: This menu should only be used to import the XML files generated "
+"with the \"Export\" menu."
+msgstr ""
+"IMPORTANTE: Questo menu deve essere utilizzato solamente per importare i "
+"file XML generati con il menu \"Esporta\"."
+
+#: ../admin/view/maintenance.php:27
+msgid "Please enter a valid range."
+msgstr "Per favore inserisci un range valido."
+
+#: ../admin/view/maintenance.php:33
+msgid "For performance reasons the range can't include more than 10000 items."
+msgstr ""
+"Per questioni di performance il range non può includere più di 10000 "
+"elementi."
+
+#: ../admin/view/maintenance.php:55
+msgid "autolinks have been successfully deleted."
+msgstr "autolink sono stati cancellati con successo."
+
+#: ../admin/view/maintenance.php:58
+msgid "The are no autolinks in this range."
+msgstr "Non ci sono autolink in questo range."
+
+#: ../admin/view/maintenance.php:88
+msgid "categories have been successfully deleted."
+msgstr "categorie sono state cancellate con successo."
+
+#: ../admin/view/maintenance.php:91
+msgid ""
+"The are no deletable categories in this range. Please note that categories "
+"associated with one or more autolinks can't be deleted."
+msgstr ""
+"Non ci sono categorie cancellabili in questo range. Per favore nota che le "
+"categorie associate con uno o più autolink non possono essere cancellate."
+
+#: ../admin/view/maintenance.php:120
+msgid "term groups have been successfully deleted."
+msgstr "gruppi termine sono stati cancellati con successo."
+
+#: ../admin/view/maintenance.php:123
+msgid ""
+"The are no deletable term groups in this range. Please note that term groups "
+"associated with one or more autolinks can't be deleted."
+msgstr ""
+"Non ci sono gruppi termine cancellabili in questo range. Per favore nota che "
+"i gruppi termine associati con uno o più autolink non possono essere "
+"cancellati."
+
+#: ../admin/view/maintenance.php:142
+msgid "tracked clicks have been successfully deleted."
+msgstr "click tracciati sono stati cancellati con successo."
+
+#: ../admin/view/maintenance.php:145
+msgid "There are no tracked clicks in this range."
+msgstr "Non ci sono click tracciati in questo range."
+
+#: ../admin/view/maintenance.php:167
+msgid "Autolinks Manager - Maintenance"
+msgstr "Autolink Manager - Manutenzione"
+
+#: ../admin/view/maintenance.php:198
+msgid "Task"
+msgstr "Operazione"
+
+#: ../admin/view/maintenance.php:201
+msgid "Delete Autolinks"
+msgstr "Cancella Autolink"
+
+#: ../admin/view/maintenance.php:203
+msgid "Delete Categories"
+msgstr "Cancella Categorie"
+
+#: ../admin/view/maintenance.php:204
+msgid "Delete Term Groups"
+msgstr "Cancella Gruppi Termine"
+
+#: ../admin/view/maintenance.php:205
+msgid "Delete Tracking"
+msgstr "Cancella Tracking"
+
+#: ../admin/view/maintenance.php:208
+msgid "The task that should be performed."
+msgstr "L'operazione da effettuare."
+
+#: ../admin/view/maintenance.php:214
+msgid "From"
+msgstr "Da"
+
+#: ../admin/view/maintenance.php:218
+msgid "The initial ID of the range."
+msgstr "L'ID iniziale del range."
+
+#: ../admin/view/maintenance.php:224
+msgid "To"
+msgstr "Fino a"
+
+#: ../admin/view/maintenance.php:228
+msgid "The final ID of the range."
+msgstr "L'ID finale del range."
+
+#: ../admin/view/maintenance.php:237
+msgid "Execute Task"
+msgstr "Esegui Operazione"
+
+#: ../admin/view/maintenance.php:251
+msgid "Execute the task?"
+msgstr "Eseguire l'operazione?"
+
+#: ../admin/view/maintenance.php:252
+msgid ""
+"Multiple database items are going to be deleted. Do you really want to "
+"proceed?"
+msgstr ""
+"Record multipli del database stanno per essere cancellati. Vuoi veramente "
+"procedere?"
+
+#: ../admin/view/options.php:4
+msgid "You do not have sufficient capabilities to access this page."
+msgstr "Non hai le capability sufficienti per accedere a questa pagina."
+
+#: ../admin/view/options.php:11
+msgid "Autolinks Manager - Options"
+msgstr "Autolinks Manager - Opzioni"
+
+#: ../admin/view/options.php:31
+msgid "Defaults"
+msgstr "Default"
+
+#: ../admin/view/options.php:34
+msgid "Analysis"
+msgstr "Analisi"
+
+#: ../admin/view/options.php:40
+msgid "Capabilities"
+msgstr "Capability"
+
+#: ../admin/view/options.php:43
+msgid "Pagination"
+msgstr "Paginazione"
+
+#: ../admin/view/options.php:46
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: ../admin/view/options.php:100
+msgid "Save Changes"
+msgstr "Salva Cambiamenti"
+
+#: ../admin/view/statistics.php:28
+msgid "Autolinks Manager - Statistics"
+msgstr "Autolinks Manager - Statistiche"
+
+#: ../admin/view/statistics.php:64
+msgid "Sort By"
+msgstr "Ordina Per"
+
+#: ../admin/view/statistics.php:70
+msgid "Post Id"
+msgstr "Post ID"
+
+#: ../admin/view/statistics.php:156
+msgid "The post, page or custom post type ID."
+msgstr "L'ID dell'articolo, pagina o custom post type."
+
+#: ../admin/view/statistics.php:162
+msgid "The post, page or custom post type title."
+msgstr "Il titolo dell'articolo, pagina o custom post type."
+
+#: ../admin/view/statistics.php:168
+msgid "The length of the raw (with filters not applied) post content."
+msgstr "La lunghezza del contenuto del post grezzo (senza filtri applicati)."
+
+#: ../admin/view/statistics.php:174
+msgid "The number of autolinks applied on the post."
+msgstr "Il numero di autolink applicati nel post."
+
+#: ../admin/view/statistics.php:179
+msgid "The number of clicks generated with the autolinks applied on the post."
+msgstr "Il numero di click generati con gli autolink applicati nel post."
+
+#: ../admin/view/statistics.php:214
+msgid "There are no results that match your filter criteria."
+msgstr "Non ci sono risultati che incontrano i criteri del filtro."
+
+#: ../admin/view/statistics.php:216
+msgid ""
+"There are no data at moment, click on the \"Generate\" button to generate "
+"statistics about the autolinks of your blog."
+msgstr ""
+"Non ci sono dati al momento, clicca il pulsante \"Genera\" per generare "
+"statistiche relative agli autolink del blog."
+
+#: ../admin/view/statistics.php:241
+msgid "Autolinks Data"
+msgstr "Dati Autolink"
+
+#: ../admin/view/statistics.php:245
+msgid ""
+"This procedure allows you to generate statistics about the autolinks of your "
+"blog."
+msgstr ""
+"Questa procedura ti permette di generare statistiche relative agli autolink "
+"del blog."
+
+#: ../admin/view/statistics.php:253
+msgid "Generate"
+msgstr "Genera"
+
+#: ../admin/view/statistics.php:262 ../admin/view/tracking.php:249
+msgid "Export CSV"
+msgstr "Esporta CSV"
+
+#: ../admin/view/statistics.php:266 ../admin/view/tracking.php:253
+msgid ""
+"The downloaded CSV file can be imported in your favorite spreadsheet "
+"software."
+msgstr ""
+"Il file CSV scaricato può essere importato nel tuo software spreadsheet "
+"preferito."
+
+#: ../admin/view/statistics.php:276 ../admin/view/tracking.php:263
+msgid "Download"
+msgstr "Scarica"
+
+#: ../admin/view/term_groups.php:67
+msgid "Please specify at least one term."
+msgstr "Per favore specifica almeno un termine."
+
+#: ../admin/view/term_groups.php:150
+msgid "The term has been successfully updated."
+msgstr "Il termine è stato aggiornato con successo."
+
+#: ../admin/view/term_groups.php:221
+msgid "The term group has been successfully added."
+msgstr "Il gruppo termine è associato con uno o più autolink"
+
+#: ../admin/view/term_groups.php:238
+msgid ""
+"This term group is associated with one or more autolinks and can't be "
+"deleted."
+msgstr ""
+"Questo gruppo termine è associato con uno o più autolink e non può essere "
+"cancellato."
+
+#: ../admin/view/term_groups.php:248
+msgid "The term group has been successfully deleted."
+msgstr "Il gruppo termine è stato cancellato con successo."
+
+#: ../admin/view/term_groups.php:288
+msgid "Autolinks Manager - Term Groups"
+msgstr "Autolink Manager - Gruppi Termine"
+
+#: ../admin/view/term_groups.php:365
+msgid "Term Group ID"
+msgstr "ID Gruppo Termine"
+
+#: ../admin/view/term_groups.php:367
+msgid "The ID of the term group."
+msgstr "L'ID del gruppo termine."
+
+#: ../admin/view/term_groups.php:372 ../admin/view/term_groups.php:461
+#: ../admin/view/term_groups.php:585
+msgid "The name of the term group."
+msgstr "Il nome del gruppo termine."
+
+#: ../admin/view/term_groups.php:446
+msgid "Edit Term Group"
+msgstr "Modifica Gruppo Termine"
+
+#: ../admin/view/term_groups.php:475 ../admin/view/term_groups.php:599
+msgid "Post Type"
+msgstr "Post Type"
+
+#: ../admin/view/term_groups.php:492 ../admin/view/term_groups.php:615
+msgid "The post type for which you want to retrieve the taxonomies."
+msgstr "Il post type per il quale vuoi che vengano recuperate le tassonomie."
+
+#: ../admin/view/term_groups.php:499 ../admin/view/term_groups.php:622
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+#: ../admin/view/term_groups.php:516 ../admin/view/term_groups.php:630
+msgid "The taxonomy for which you want to retrieve the terms."
+msgstr "La tassonomia per la quale vuoi che vengano recuperati i termini."
+
+#: ../admin/view/term_groups.php:523 ../admin/view/term_groups.php:637
+msgid "Term"
+msgstr "Termine"
+
+#: ../admin/view/term_groups.php:548 ../admin/view/term_groups.php:645
+msgid ""
+"The term that will be compared with the ones available on the posts where "
+"the autolinks are applied."
+msgstr ""
+"Il termine che verrà comparato con quelli disponibili nel post dove gli "
+"autolink verranno applicati."
+
+#: ../admin/view/term_groups.php:564
+msgid "Update Term Group"
+msgstr "Aggiorna Gruppo Termine"
+
+#: ../admin/view/term_groups.php:575
+msgid "Create New Term Group"
+msgstr "Crea Nuovo Gruppo Termine"
+
+#: ../admin/view/term_groups.php:661
+msgid "Add Term Group"
+msgstr "Aggiungi Gruppo Termine"
+
+#: ../admin/view/term_groups.php:677
+msgid "Delete the term group?"
+msgstr "Cancellare il gruppo termine?"
+
+#: ../admin/view/term_groups.php:678
+msgid ""
+"This term group will be permanently deleted and cannot be recovered. Are you "
+"sure?"
+msgstr ""
+"Questo gruppo termine verrà cancellato e non potrà essere recuperato. Sei "
+"sicuro?"
+
+#: ../admin/view/tracking.php:22
+msgid " tracked clicks have been successfully deleted."
+msgstr "click tracciati sono stati cancellati con successo."
+
+#: ../admin/view/tracking.php:39
+msgid "The tracked click has been successfully deleted."
+msgstr "Il click tracciato è stato cancellato con successo."
+
+#: ../admin/view/tracking.php:53
+msgid "Autolinks Manager - Tracking"
+msgstr "Autolinks Manager - Tracking"
+
+#: ../admin/view/tracking.php:129
+msgid "The ID of the tracked click."
+msgstr "L'ID del click tracciato."
+
+#: ../admin/view/tracking.php:134
+msgid "The IP address of the user that performed the click."
+msgstr "L'indirizzo IP dell'utente che ha effettuato il click."
+
+#: ../admin/view/tracking.php:139
+msgid "The date on which the autolink has been clicked."
+msgstr "La data nella quale l'autolink è stato cliccato"
+
+#: ../admin/view/tracking.php:145
+msgid "The autolink associated with the tracked click."
+msgstr "L'autolink associato con il click tracciato."
+
+#: ../admin/view/tracking.php:151
+msgid ""
+"The post, page or custom post type that includes the autolink that received "
+"the click."
+msgstr ""
+"L'articolo, pagina o custom post type che include l'autolink che ha ricevuto "
+"il click."
+
+#: ../admin/view/tracking.php:202
+msgid "There are no results that match your search."
+msgstr "Non ci sono risultati che soddisfano la tua ricerca."
+
+#: ../admin/view/tracking.php:204
+msgid "There are no tracked clicks at the moment."
+msgstr "Non ci sono click tracciati al momento"
+
+#: ../admin/view/tracking.php:228
+msgid "Reset Tracking"
+msgstr "Resetta Tracking"
+
+#: ../admin/view/tracking.php:232
+msgid "This procedure allows you to reset the tracked clicks."
+msgstr "Questa procedura ti permette di resettare i click tracciati."
+
+#: ../admin/view/tracking.php:240
+msgid "Reset"
+msgstr "Resetta"
+
+#: ../admin/view/tracking.php:280
+msgid "Delete the tracked click?"
+msgstr "Cancellare il click tracciato?"
+
+#: ../admin/view/tracking.php:281
+msgid ""
+"This tracked click will be permanently deleted and cannot be recovered. Are "
+"you sure?"
+msgstr ""
+"Questo click tracciato verrà cancellato e non potrà più essere recuperato. "
+"Sei sicuro?"
+
+#: ../admin/view/wizard.php:24
+msgid " autolinks have been added."
+msgstr " autolink sono stati aggiunti."
+
+#: ../admin/view/wizard.php:31
+msgid "Autolinks Manager - Wizard"
+msgstr "Autolinks Manager - Wizard"
+
+#: ../admin/view/wizard.php:62
+msgid "The name of the generated autolinks."
+msgstr "Il nome degli autolink generati."
+
+#: ../admin/view/wizard.php:89
+msgid "The category of the generated autolinks."
+msgstr "La categoria degli autolink generati."
+
+#: ../admin/view/wizard.php:100
+msgid "Data"
+msgstr "Dati"
+
+#: ../admin/view/wizard.php:111
+msgid "Generate Autolinks"
+msgstr "Genera Autolink"
+
+#~ msgid ""
+#~ "The title attribute of the link automatically generated on the keyword. "
+#~ "This option determines the default value of the \"Title\" field available "
+#~ "in the \"Autolinks\" menu and is also used for the autolinks generated "
+#~ "with the \"Wizard\" menu."
+#~ msgstr ""
+#~ "L'attributo titolo del link generato automaticamente sulla keyword. "
+#~ "Questa opzione determina il valore di default del campo \"Titolo\" "
+#~ "disponibile nel menu \"Autolink\" ed è anche utilizzato per gli autolink "
+#~ "generati con il menu \"Wizard\"."
+
+#~ msgid "Please enter a valid value in the \"Title\" option."
+#~ msgstr "Per favore inserisci un valore valiido nell'opzione \"Titolo\"."
+
+#~ msgid ""
+#~ "Use this option if you want to match occurences preceded by a specific "
+#~ "string. This option determines the default value of the \"Keyword Before"
+#~ "\" field available in the \"Autolinks\" menu and is also used for the "
+#~ "autolinks generated with the \"Wizard\" menu."
+#~ msgstr ""
+#~ "Utilizza questa opzione per considerare occorrenze precedute da una "
+#~ "specifica stringa. Questa opzione determina il valore di default del "
+#~ "campo \"Keyword Precedente\" ed è anche utilizzato per gli autolink "
+#~ "generati con il menu \"Autolink\"."
+
+#~ msgid "Please enter a valid value in the \"Keyword Before\" option."
+#~ msgstr ""
+#~ "Per favore inserisci un valore valido nell'opzione \"Keyword Precedente\"."
+
+#~ msgid ""
+#~ "Use this option to match occurences followed by a specific string. This "
+#~ "option determines the default value of the \"Keyword After\" field "
+#~ "available in the \"Autolinks\" menu and is also used for the autolinks "
+#~ "generated with the \"Wizard\" menu."
+#~ msgstr ""
+#~ "Utilizza questa opzione per considerare occorrenze seguite da una "
+#~ "specifica stringa. Questa opzione determina il valore di default del "
+#~ "campo \"Keyword Successiva\" ed è anche utilizzato per gli autolink "
+#~ "generati con il menu \"Autolink\"."
+
+#~ msgid "Please enter a valid value in the \"Keyword After\" option."
+#~ msgstr ""
+#~ "Per favore inserisci un valore valido nell'opzione \"Keyword Successiva\"."
+
+#~ msgid "Generate Data"
+#~ msgstr "Genera Dati"
+
+#~ msgid ""
+#~ "The terms that will be compared with the ones available on the posts "
+#~ "where the autolinks are applied."
+#~ msgstr ""
+#~ "I termini che verranno comparati con quelli disponibili nei post dove "
+#~ "sono applicati gli autolink."
+
+#~ msgid "Select \"Yes\" to enable the autolinks in this post."
+#~ msgstr "Scegli \"Si\" per abilitare gli autolink in questo post."
+
+#~ msgid "Protected Gutenberg Embeds"
+#~ msgstr "Embed Gutenberg Protetti"
+
+#~ msgid ""
+#~ "Enter a list of HTML tags, separated by a comma, where the autolinks "
+#~ "should not be applied."
+#~ msgstr ""
+#~ "Inserisci una lista di tag HTML, separati da virgola, per indicare dove "
+#~ "gli AIL non devono essere applicati."
+
+#~ msgid "Please enter a valid value in the \"Protected Tags\" option."
+#~ msgstr ""
+#~ "Per favore inserisci un valore valido nell'opzione \"Tag Protetti\"."
+
+#~ msgid ""
+#~ "With this option you are able to determine in which Gutenberg embeds the "
+#~ "autolinks should not be applied."
+#~ msgstr ""
+#~ "Con questa opzione sei in grado di determinare in quali embed Gutenberg "
+#~ "gli autolink non devono essere applicati."
+
+#~ msgid "todo"
+#~ msgstr "todo"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "autolinks have been added."
+#~ msgstr "autolink sono stati aggiunti."
+
+#~ msgid "Post Type "
+#~ msgstr "Post Type"

@@ -1,0 +1,18 @@
+.mejs-currenttime,.mejs-duration,.mejs-time-slider {
+    display: none !important;
+}
+.youtubomatic-video-container {
+position: relative;
+padding-bottom: 56.25%;
+height: 0; overflow: hidden;
+}
+
+.youtubomatic-video-container iframe,
+.youtubomatic-video-container object,
+.youtubomatic-video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}

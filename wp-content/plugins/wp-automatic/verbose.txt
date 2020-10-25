@@ -1,0 +1,49 @@
+*   Trying 151.101.1.140:443...
+* TCP_NODELAY set
+* Connected to external-preview.redd.it (151.101.1.140) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: /Applications/MAMP/Library/OpenSSL/cert.pem
+  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Reddit Inc.; OU=Website; CN=*.redd.it
+*  start date: May  2 00:00:00 2019 GMT
+*  expire date: Sep  2 12:00:00 2020 GMT
+*  subjectAltName: host "external-preview.redd.it" matched cert's "*.redd.it"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x7fae0e8e5e00)
+> GET /14YyLyJnmq1F3YKjc6prkxij_E5kibT_C9li1Cea3cE.png?format=pjpg&auto=webp&s=82015282e27d0e40408964f13720c1a5e55f0f8d HTTP/2
+Host: external-preview.redd.it
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: */*
+Referer: http://external-preview.redd.it
+
+* Connection state changed (MAX_CONCURRENT_STREAMS == 100)!
+< HTTP/2 200 
+< content-type: image/jpeg
+< etag: "gbtinAmcmi5u988bKnUuPs3lpzXM17BVAoPVON8hYEY"
+< fastly-io-info: ifsz=296534 idim=576x720 ifmt=png ofsz=39151 odim=576x720 ofmt=jpeg
+< fastly-stats: io=1
+< via: 1.1 varnish
+< cache-control: public, max-age=604800
+< accept-ranges: bytes
+< date: Sat, 18 Jul 2020 23:01:51 GMT
+< via: 1.1 varnish
+< age: 25739
+< x-served-by: cache-dca17771-DCA, cache-fra19157-FRA
+< x-cache: HIT, HIT
+< x-cache-hits: 1, 1
+< x-timer: S1595113312.529853,VS0,VE1
+< vary: Accept
+< server: snooserv
+< content-length: 39151
+< 
+* Connection #0 to host external-preview.redd.it left intact

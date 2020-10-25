@@ -1,0 +1,4843 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Crawlomatic Multipage Scraper Post Generator\n"
+"POT-Creation-Date: 2019-04-17 18:54+0300\n"
+"PO-Revision-Date: 2019-04-17 18:54+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: crawlomatic-multipage-scraper-post-generator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: crawlomatic-multipage-scraper-post-generator.php:147
+#, php-format
+msgid ""
+"The plugin is not registered. Automatic updating is disabled. Please "
+"purchase a license for it from <a href=\"%s\" target=\"_blank\">here</a> and "
+"register  the plugin from the 'Main Settings' menu using your purchase code. "
+"<a href=\"%s\" target=\"_blank\">How I find my purchase code?"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:175
+msgid "Activate Plugin License"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:183
+msgid "Main Settings"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:188
+msgid "Web Crawl to Posts"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:191
+msgid "Crawling Helper"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:194
+msgid "Tips & Tricks"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:196
+msgid "Activity & Logging"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:274
+msgid "Support"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:281
+msgid "Settings"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:292
+msgid "Crawlomatic Auto Generated Post Information"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:458
+msgid "Crawlomatic Cron"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:462
+msgid "Once A Minute"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:466
+msgid "Once Weekly"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:470
+msgid "Once Monthly"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3825
+msgid "Post Parent Rule:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3826
+msgid "Post Original Title:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3828
+msgid "Post Creation Date:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3831
+msgid "Post Categories:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3834
+msgid "Post Tags:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3837
+msgid "Featured Image:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3840
+msgid "Post Image:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3843
+msgid "Item Source URL Date:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3846
+msgid "Item Source URL:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3849
+msgid "Pingback/Trackback Status:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3852
+msgid "Comment Status:"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:3859
+msgid "This is not an automatically generated post."
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4319
+msgid "thumbnail"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4527
+msgctxt "taxonomy general name"
+msgid "Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4528
+msgctxt "taxonomy singular name"
+msgid "Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4529
+msgid "Search Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4530
+msgid "Popular Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4531
+msgid "All Post Sources"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4534
+msgid "Edit Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4535
+msgid "Update Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4536
+msgid "Add New Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4537
+msgid "New Post Source Name"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4538
+msgid "Separate Post Source with commas"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4539
+msgid "Add or remove Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4540
+msgid "Choose from the most used Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4541
+msgid "No Post Sources found."
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:4542
+msgid "Post Source"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:6159
+msgid "&hellip;"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:6164
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:7537
+msgid ""
+"Please enable curl PHP extension. Please contact your hosting provider's "
+"support to help you in this matter."
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:7542
+msgid "You are not allowed to activate plugins!"
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:7550
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s. Please update your PHP version before you activate it."
+msgstr ""
+
+#: crawlomatic-multipage-scraper-post-generator.php:7556
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to get the latest "
+"version of WordPress."
+msgstr ""
+
+#: res/crawlomatic-helper.php:27
+msgid "URL To Get Info From:"
+msgstr ""
+
+#: res/crawlomatic-helper.php:31
+msgid "Input the URL you want to get HTML Class, ID or XPATH from."
+msgstr ""
+
+#: res/crawlomatic-helper.php:56
+msgid "Query Type:"
+msgstr ""
+
+#: res/crawlomatic-helper.php:60
+msgid ""
+"Input the query type that you want to apply for the crawled article. This "
+"should be the same as the 'Query Type' settings field from the plugin "
+"settings."
+msgstr ""
+
+#: res/crawlomatic-helper.php:67
+msgid "Get Clicked Element HTML Class"
+msgstr ""
+
+#: res/crawlomatic-helper.php:69
+msgid "Get Clicked Element HTML ID"
+msgstr ""
+
+#: res/crawlomatic-helper.php:71
+msgid "Get Clicked Element XPATH Expression"
+msgstr ""
+
+#: res/crawlomatic-helper.php:82
+msgid "Crawled Content:"
+msgstr ""
+
+#: res/crawlomatic-helper.php:86
+msgid "Here you can see the crawled webpage content."
+msgstr ""
+
+#: res/crawlomatic-logs.php:38
+msgid "System Info:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:42
+msgid "Some general system information."
+msgstr ""
+
+#: res/crawlomatic-logs.php:50
+msgid "User Agent:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:54
+msgid "Web Server:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:58
+msgid "PHP Version:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:62
+msgid "PHP Max POST Size:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:66
+msgid "PHP Max Upload Size:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:70
+msgid "PHP Memory Limit:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:74
+msgid "PHP DateTime Class:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:75 res/crawlomatic-logs.php:79
+msgid "Available"
+msgstr ""
+
+#: res/crawlomatic-logs.php:75 res/crawlomatic-logs.php:79
+msgid "Not available"
+msgstr ""
+
+#: res/crawlomatic-logs.php:78
+msgid "PHP Curl:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:89
+msgid "Rules Currently Running:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:93
+msgid "These rules are currently running on your server."
+msgstr ""
+
+#: res/crawlomatic-logs.php:109
+msgid " - started at: "
+msgstr ""
+
+#: res/crawlomatic-logs.php:112
+msgid "Current time: "
+msgstr ""
+
+#: res/crawlomatic-logs.php:116
+msgid "No rules are running right now"
+msgstr ""
+
+#: res/crawlomatic-logs.php:121
+msgid "Are you sure you want to clear the running list?"
+msgstr ""
+
+#: res/crawlomatic-logs.php:122
+msgid "Caution! This is for debugging purpose only!"
+msgstr ""
+
+#: res/crawlomatic-logs.php:122
+msgid "Clear Running Rules List"
+msgstr ""
+
+#: res/crawlomatic-logs.php:130
+msgid "Backup Current Rules To File:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:134
+msgid ""
+"Hit this button and you can backup the current rule settings to file. This "
+"is useful if you have many rules created and want to migrate settings to "
+"another server."
+msgstr ""
+
+#: res/crawlomatic-logs.php:146
+msgid "Load Rules From File:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:150
+msgid ""
+"Here you can upload a previously downloaded backup file and restore the "
+"rules from it."
+msgstr ""
+
+#: res/crawlomatic-logs.php:164 res/crawlomatic-logs.php:174
+msgid "Restore Plugin Default Settings"
+msgstr ""
+
+#: res/crawlomatic-logs.php:168
+msgid ""
+"Hit this button and the plugin settings will be restored to their default "
+"values. Warning! All settings will be lost!"
+msgstr ""
+
+#: res/crawlomatic-logs.php:174
+msgid "Are you sure you want to restore the default plugin settings?"
+msgstr ""
+
+#: res/crawlomatic-logs.php:180
+msgid "Delete All Posts Generated by this Plugin:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:184
+msgid "Hit this button and all posts generated by this plugin will be deleted!"
+msgstr ""
+
+#: res/crawlomatic-logs.php:190
+msgid ""
+"Are you sure you want to delete all generated posts? This can take a while, "
+"please wait until it finishes."
+msgstr ""
+
+#: res/crawlomatic-logs.php:190
+msgid "Delete All Generated Posts"
+msgstr ""
+
+#: res/crawlomatic-logs.php:196
+msgid "Delete All Rules from 'Web Crawl to Posts' Section: "
+msgstr ""
+
+#: res/crawlomatic-logs.php:200
+msgid "Hit this button and all rules will be deleted!"
+msgstr ""
+
+#: res/crawlomatic-logs.php:211
+msgid "Activity Log:"
+msgstr ""
+
+#: res/crawlomatic-logs.php:215
+msgid ""
+"This is the main log of your plugin. Here will be listed every single "
+"instance of the rules you run or are automatically run by schedule jobs (if "
+"you enable logging, in the plugin configuration)."
+msgstr ""
+
+#: res/crawlomatic-logs.php:229
+msgid "Log empty"
+msgstr ""
+
+#: res/crawlomatic-logs.php:235
+msgid "Are you sure you want to delete all logs?"
+msgstr ""
+
+#: res/crawlomatic-logs.php:236
+msgid "Delete Logs"
+msgstr ""
+
+#: res/crawlomatic-main.php:563
+#, php-format
+msgid ""
+"Did you see our new <a href=\"%s\" target=\"_blank\">recommendations page</"
+"a>? It will help you increase your passive earnings!"
+msgstr ""
+
+#: res/crawlomatic-main.php:571 res/crawlomatic-rules-list.php:241
+msgid "Settings saved."
+msgstr ""
+
+#: res/crawlomatic-main.php:580
+msgid "Plugin registration failed!"
+msgstr ""
+
+#: res/crawlomatic-main.php:589
+msgid "Plugin registration successful!"
+msgstr ""
+
+#: res/crawlomatic-main.php:601
+msgid "Main Switch:"
+msgstr ""
+
+#: res/crawlomatic-main.php:606
+msgid "Enable or disable this plugin. This acts like a main switch."
+msgstr ""
+
+#: res/crawlomatic-main.php:636
+msgid "Plugin Registration Info - Automatic Updates Enabled:"
+msgstr ""
+
+#: res/crawlomatic-main.php:638
+msgid "Item Name:"
+msgstr ""
+
+#: res/crawlomatic-main.php:640
+msgid "Item ID:"
+msgstr ""
+
+#: res/crawlomatic-main.php:643
+msgid "Created At:"
+msgstr ""
+
+#: res/crawlomatic-main.php:646
+msgid "Buyer Name:"
+msgstr ""
+
+#: res/crawlomatic-main.php:649
+msgid "License Type:"
+msgstr ""
+
+#: res/crawlomatic-main.php:652
+msgid "Supported Until:"
+msgstr ""
+
+#: res/crawlomatic-main.php:660
+msgid ""
+"Automatic updates disabled. Activate plugin now, to enable automatic updates!"
+msgstr ""
+
+#: res/crawlomatic-main.php:668
+#, php-format
+msgid ""
+"Please input your Envato purchase code, to enable automatic updates in the "
+"plugin. To get your purchase code, please follow <a href=\"%s\" target="
+"\"_blank\">this tutorial</a>. Info submitted to the registration server "
+"consists of: purchase code, site URL, site name, admin email. All these data "
+"will be used strictly for registration purposes."
+msgstr ""
+
+#: res/crawlomatic-main.php:672
+msgid "Register Envato Purchase Code To Enable Automatic Updates:"
+msgstr ""
+
+#: res/crawlomatic-main.php:674
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: res/crawlomatic-main.php:678
+msgid "Register Purchase Code"
+msgstr ""
+
+#: res/crawlomatic-main.php:695
+#, php-format
+msgid ""
+"Need help configuring this plugin? Please check out it's <a href=\"%s\" "
+"target=\"_blank\">video tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-main.php:697
+#, php-format
+msgid ""
+"Having issues with the plugin? Please be sure to check out our <a href=\"%s"
+"\" target=\"_blank\">knowledge-base</a> before you contact our support!"
+msgstr ""
+
+#: res/crawlomatic-main.php:698
+#, php-format
+msgid ""
+"Do you enjoy our plugin? Please give it a <a href=\"%s\" target=\"_blank"
+"\">rating</a>  on CodeCanyon, or even more: <a href=\"%s\" target=\"_blank"
+"\">support our innovative plugin development on Patreon</a>"
+msgstr ""
+
+#: res/crawlomatic-main.php:699
+msgid "Are you looking for a cool new theme that best fits this plugin?"
+msgstr ""
+
+#: res/crawlomatic-main.php:699
+msgid "Click here for our theme related recommendation"
+msgstr ""
+
+#: res/crawlomatic-main.php:708
+msgid "Getting started creating your rules:"
+msgstr ""
+
+#: res/crawlomatic-main.php:712
+msgid "Blog Posts Generator Using Multipage Scraper"
+msgstr ""
+
+#: res/crawlomatic-main.php:717
+msgid ""
+"You can start creating your rules which will automatically create posts by "
+"scraping the URLs you define in the importing rules."
+msgstr ""
+
+#: res/crawlomatic-main.php:725
+msgid "Plugin Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:734
+msgid ""
+"Click this option to enable the post auto deletion feature after a period of "
+"time (defined by the 'Automatically Delete Post' settings for each rule)."
+msgstr ""
+
+#: res/crawlomatic-main.php:738
+msgid "Enable Post Auto Deletion Feature:"
+msgstr ""
+
+#: res/crawlomatic-main.php:754
+msgid ""
+"Click this option if you are experiencing malformed content in your post "
+"generation. Enabling this value may resolve such issues. If you do not have "
+"such issues with generated post content, please leave this checkbox disabled."
+msgstr ""
+
+#: res/crawlomatic-main.php:758
+msgid "Clear Curl Decoding Value:"
+msgstr ""
+
+#: res/crawlomatic-main.php:774
+msgid ""
+"Choose if you want to skip checking for duplicate posts when publishing new "
+"posts (check this if you have 10000+ posts on your blog and you are "
+"experiencing slowdows when the plugin is running. If you check this, "
+"duplicate posts will be posted! So use it only when it is necesarry."
+msgstr ""
+
+#: res/crawlomatic-main.php:778
+msgid "Do Not Check For Duplicate Posts:"
+msgstr ""
+
+#: res/crawlomatic-main.php:794
+msgid ""
+"Choose if you want to make the plugin remember links that it already "
+"imported and not crawl any more a link that was already imported. This "
+"feature will not work when the 'Do Not Check For Duplicate Posts' checkbox "
+"is checked."
+msgstr ""
+
+#: res/crawlomatic-main.php:798
+msgid "Remember Imported Links And Do Not Crawl Them Twice:"
+msgstr ""
+
+#: res/crawlomatic-main.php:814
+msgid ""
+"Select if you want to link generated post titles to source articles. This "
+"option will be overwritten if you set it also from rule settings."
+msgstr ""
+
+#: res/crawlomatic-main.php:818
+msgid "Link Generated Post Titles To Source Articles:"
+msgstr ""
+
+#: res/crawlomatic-main.php:833
+msgid ""
+"Check this to force the plugin not check generated posts in rule settings. "
+"Improves performance if you have 100k posts generated using this plugin."
+msgstr ""
+
+#: res/crawlomatic-main.php:837
+msgid "Do Not Check Generated Posts In Rule Settings:"
+msgstr ""
+
+#: res/crawlomatic-main.php:852
+msgid ""
+"Choose if you want to add 'canonical' meta tags to generated posts, pointing "
+"to the original article. This is useful for SEO optimization."
+msgstr ""
+
+#: res/crawlomatic-main.php:856
+msgid "Add 'Canonical' Meta Tag To Generated Posts:"
+msgstr ""
+
+#: res/crawlomatic-main.php:872
+msgid ""
+"Select if you want to update the post when it is found as it is already "
+"posted (by title). If you uncheck this value, if duplicate post found, no "
+"action will be taken."
+msgstr ""
+
+#: res/crawlomatic-main.php:876
+msgid "Update Post If It Is Already Posted:"
+msgstr ""
+
+#: res/crawlomatic-main.php:892
+msgid ""
+"Choose if you want to show an extended information metabox under every "
+"plugin generated post."
+msgstr ""
+
+#: res/crawlomatic-main.php:896
+msgid "Show Extended Item Information Metabox in Post:"
+msgstr ""
+
+#: res/crawlomatic-main.php:912
+msgid "Do you want to enable logging for rules?"
+msgstr ""
+
+#: res/crawlomatic-main.php:916
+msgid "Enable Logging for Rules:"
+msgstr ""
+
+#: res/crawlomatic-main.php:932
+msgid ""
+"Do you want to enable detailed logging for rules? Note that this will "
+"dramatically increase the size of the log this plugin generates."
+msgstr ""
+
+#: res/crawlomatic-main.php:936
+msgid "Enable Detailed Logging for Rules:"
+msgstr ""
+
+#: res/crawlomatic-main.php:954
+msgid "Choose if you want to automatically clear logs after a period of time."
+msgstr ""
+
+#: res/crawlomatic-main.php:958
+msgid "Automatically Clear Logs After:"
+msgstr ""
+
+#: res/crawlomatic-main.php:968 res/crawlomatic-main.php:2791
+#: res/crawlomatic-rules-list.php:4
+msgid "Disabled"
+msgstr ""
+
+#: res/crawlomatic-main.php:973
+msgid "Once a month"
+msgstr ""
+
+#: res/crawlomatic-main.php:978
+msgid "Once a week"
+msgstr ""
+
+#: res/crawlomatic-main.php:983
+msgid "Once a day"
+msgstr ""
+
+#: res/crawlomatic-main.php:988
+msgid "Twice a day"
+msgstr ""
+
+#: res/crawlomatic-main.php:993
+msgid "Once an hour"
+msgstr ""
+
+#: res/crawlomatic-main.php:1004
+msgid ""
+"Choose if you want to search Google Archives when you don't have access to "
+"the direct CarreerJet webpage."
+msgstr ""
+
+#: res/crawlomatic-main.php:1008
+msgid "Search Google Archives When Direct Page Fetching Fails:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1024
+msgid ""
+"If you want to use a custom string for the 'Post Source' meta data assigned "
+"to posts, please input it here. If you will leave this blank, the default "
+"'Post Source' value will be assigned to posts."
+msgstr ""
+
+#: res/crawlomatic-main.php:1028
+msgid "Custom 'Post Source' Post Meta Data:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1033
+msgid "Input a custom post source string"
+msgstr ""
+
+#: res/crawlomatic-main.php:1043
+msgid ""
+"If you want to use a proxy to crawl webpages, input it's address here. "
+"Required format: IP Address/URL:port. You can input a comma separated list "
+"of proxies."
+msgstr ""
+
+#: res/crawlomatic-main.php:1047
+msgid "Web Proxy Address List:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1052
+msgid "Input web proxy url"
+msgstr ""
+
+#: res/crawlomatic-main.php:1062
+msgid ""
+"If you want to use a proxy to crawl webpages, and it requires "
+"authentification, input it's authentification details here. Required format: "
+"username:password. You can input a comma separated list of users/passwords. "
+"If a proxy does not have a user/password, please leave it blank in the list. "
+"Example: user1:pass1,user2:pass2,,user4:pass4."
+msgstr ""
+
+#: res/crawlomatic-main.php:1066
+msgid "Web Proxy Authentification:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1071
+msgid "Input web proxy auth"
+msgstr ""
+
+#: res/crawlomatic-main.php:1081
+msgid ""
+"Set the timeout (in seconds) for every rule running. I recommend that you "
+"leave this field at it's default value (3600)."
+msgstr ""
+
+#: res/crawlomatic-main.php:1085
+msgid "Timeout for Rule Running (seconds):"
+msgstr ""
+
+#: res/crawlomatic-main.php:1090
+msgid "Input rule timeout in seconds"
+msgstr ""
+
+#: res/crawlomatic-main.php:1100
+msgid ""
+"Set the timeout (in seconds) for every rule running. I recommend that you "
+"leave this field at it's default value (90)."
+msgstr ""
+
+#: res/crawlomatic-main.php:1104
+msgid "Timeout for One Request (seconds):"
+msgstr ""
+
+#: res/crawlomatic-main.php:1109
+msgid "Input request timeout in seconds"
+msgstr ""
+
+#: res/crawlomatic-main.php:1119
+msgid ""
+"Set the timeout (in milliseconds) between each subsequest call to the "
+"crawled website. Increase this value if the website has a anti-crawling "
+"mechanism active. Here you can also input a pair of values, separrated by "
+"comma (ex: 300,500). In this case, a random timeout will be selected, "
+"between the two values you specified."
+msgstr ""
+
+#: res/crawlomatic-main.php:1123
+msgid "Delay Between Request (milliseconds):"
+msgstr ""
+
+#: res/crawlomatic-main.php:1128
+msgid "Input request delay"
+msgstr ""
+
+#: res/crawlomatic-main.php:1138
+msgid ""
+"Define a number of seconds the plugin should wait between the rule running. "
+"Use this to not decrease the use of your server's resources. Leave blank to "
+"disable."
+msgstr ""
+
+#: res/crawlomatic-main.php:1142
+msgid "Delay Between Rule Running:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1147
+msgid "delay (s)"
+msgstr ""
+
+#: res/crawlomatic-main.php:1157
+msgid ""
+"Choose if you want to receive a summary of the rule running in an email."
+msgstr ""
+
+#: res/crawlomatic-main.php:1161
+msgid "Send Rule Running Summary in Email:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1177
+msgid ""
+"Do you want to send each published post in email to the defined email "
+"address below?"
+msgstr ""
+
+#: res/crawlomatic-main.php:1181
+msgid "Send Each Post in Email:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1197
+msgid ""
+"Input the email adress where you want to send the report. You can input more "
+"email addresses, separated by commas."
+msgstr ""
+
+#: res/crawlomatic-main.php:1201
+msgid "Email Address:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1206
+msgid "Input a valid email adress"
+msgstr ""
+
+#: res/crawlomatic-main.php:1216
+msgid ""
+"Select if you wish to get only a single daily summary email (instead of one "
+"email for each rule running)."
+msgstr ""
+
+#: res/crawlomatic-main.php:1220
+msgid "Send Only A Daily Summary Email:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1242
+msgid "Image Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1251
+msgid ""
+"Click this option if your want to save images found in post content locally. "
+"Note that this option may be heavy on your hosting free space."
+msgstr ""
+
+#: res/crawlomatic-main.php:1255
+msgid "Copy Images From Content Locally:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1271
+msgid ""
+"Click this option if your want to set the featured image from the remote "
+"image location. This settings can save disk space, but beware that if the "
+"remote image gets deleted, your featured image will also be broken."
+msgstr ""
+
+#: res/crawlomatic-main.php:1275
+msgid "Do Not Copy Featured Image Locally:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1291
+msgid ""
+"Click this option if your want to check images if they are not corrupt. If "
+"you have issues with featured image generation, uncheck this option."
+msgstr ""
+
+#: res/crawlomatic-main.php:1295
+msgid "Verify Featured Images If Not Corrupt:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1311
+msgid ""
+"Resize the image that was assigned to be the featured image to the width "
+"specified in this text field (in pixels). If you want to disable this "
+"feature, leave this field blank. This feature only works if you leave 'Do "
+"Not Copy Featured Image Locally' checkbox unchecked."
+msgstr ""
+
+#: res/crawlomatic-main.php:1315
+msgid "Featured Image Resize Width:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1320
+msgid "Please insert the desire width for featured images"
+msgstr ""
+
+#: res/crawlomatic-main.php:1330
+msgid ""
+"Resize the image that was assigned to be the featured image to the height "
+"specified in this text field (in pixels). If you want to disable this "
+"feature, leave this field blank. This feature only works if you leave 'Do "
+"Not Copy Featured Image Locally' checkbox unchecked."
+msgstr ""
+
+#: res/crawlomatic-main.php:1334
+msgid "Featured Image Resize Height:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1339
+msgid "Please insert the desire height for featured images"
+msgstr ""
+
+#: res/crawlomatic-main.php:1349 res/crawlomatic-main.php:1368
+msgid ""
+"Resize the iframes that were imported from the custom content. If you want "
+"to disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:1353
+msgid "Iframe Resize Width:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1358
+msgid "Please insert the desire width for iframes"
+msgstr ""
+
+#: res/crawlomatic-main.php:1372
+msgid "Iframe Resize Height:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1377
+msgid "Please insert the desire height for iframes"
+msgstr ""
+
+#: res/crawlomatic-main.php:1383
+msgid "Royalty Free Featured Image Importing Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1390
+#, php-format
+msgid ""
+"Insert your MorgueFile App ID. Register <a href='%s' target='_blank'>here</"
+"a>. Learn how to get an API key <a href='%s' target='_blank'>here</a>. If "
+"you enter an API Key and an API Secret, you will enable search for images "
+"using the MorgueFile API."
+msgstr ""
+
+#: res/crawlomatic-main.php:1394
+msgid "MorgueFile App ID:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1401
+msgid "Please insert your MorgueFile API key"
+msgstr ""
+
+#: res/crawlomatic-main.php:1411
+#, php-format
+msgid ""
+"Insert your MorgueFile App Secret. Register <a href='%s' "
+"target='_blank'>here</a>. Learn how to get an API key <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key and an API Secret, you "
+"will enable search for images using the MorgueFile API."
+msgstr ""
+
+#: res/crawlomatic-main.php:1415
+msgid "MorgueFile App Secret:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1422
+msgid "Please insert your MorgueFile API Secret"
+msgstr ""
+
+#: res/crawlomatic-main.php:1436
+#, php-format
+msgid ""
+"Insert your Pexels App ID. Learn how to get an API key <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key and an API Secret, you "
+"will enable search for images using the Pexels API."
+msgstr ""
+
+#: res/crawlomatic-main.php:1440
+msgid "Pexels App ID:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1447
+msgid "Please insert your Pexels API key"
+msgstr ""
+
+#: res/crawlomatic-main.php:1461
+#, php-format
+msgid ""
+"Insert your Flickr App ID. Learn how to get an API key <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key and an API Secret, you "
+"will enable search for images using the Flickr API."
+msgstr ""
+
+#: res/crawlomatic-main.php:1465
+msgid "Flickr App ID: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1468
+msgid "Please insert your Flickr APP ID"
+msgstr ""
+
+#: res/crawlomatic-main.php:1476
+msgid "The license id for photos to be searched."
+msgstr ""
+
+#: res/crawlomatic-main.php:1480
+msgid "Photo License: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1491
+msgid "Do Not Search By Photo Licenses"
+msgstr ""
+
+#: res/crawlomatic-main.php:1498
+msgid "All Rights Reserved"
+msgstr ""
+
+#: res/crawlomatic-main.php:1505
+msgid "Attribution-NonCommercial-ShareAlike License"
+msgstr ""
+
+#: res/crawlomatic-main.php:1512
+msgid "Attribution-NonCommercial License"
+msgstr ""
+
+#: res/crawlomatic-main.php:1519
+msgid "Attribution-NonCommercial-NoDerivs License"
+msgstr ""
+
+#: res/crawlomatic-main.php:1526
+msgid "Attribution License"
+msgstr ""
+
+#: res/crawlomatic-main.php:1533
+msgid "Attribution-ShareAlike License"
+msgstr ""
+
+#: res/crawlomatic-main.php:1540
+msgid "Attribution-NoDerivs License"
+msgstr ""
+
+#: res/crawlomatic-main.php:1547
+msgid "No known copyright restrictions"
+msgstr ""
+
+#: res/crawlomatic-main.php:1554
+msgid "United States Government Work"
+msgstr ""
+
+#: res/crawlomatic-main.php:1563
+msgid ""
+"The order in which to sort returned photos. Deafults to date-posted-desc "
+"(unless you are doing a radial geo query, in which case the default sorting "
+"is by ascending distance from the point specified)."
+msgstr ""
+
+#: res/crawlomatic-main.php:1567
+msgid "Search Results Order: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1577
+msgid "Date Posted Descendant"
+msgstr ""
+
+#: res/crawlomatic-main.php:1584
+msgid "Date Posted Ascendent"
+msgstr ""
+
+#: res/crawlomatic-main.php:1591
+msgid "Date Taken Ascendent"
+msgstr ""
+
+#: res/crawlomatic-main.php:1598
+msgid "Date Taken Descendant"
+msgstr ""
+
+#: res/crawlomatic-main.php:1605
+msgid "Interestingness Descendant"
+msgstr ""
+
+#: res/crawlomatic-main.php:1612
+msgid "Interestingness Ascendant"
+msgstr ""
+
+#: res/crawlomatic-main.php:1619
+msgid "Relevance"
+msgstr ""
+
+#: res/crawlomatic-main.php:1633
+#, php-format
+msgid ""
+"Insert your Pixabay App ID. Learn how to get one <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key here, you will enable "
+"search for images using the Pixabay API."
+msgstr ""
+
+#: res/crawlomatic-main.php:1637
+msgid "Pixabay App ID:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1644
+msgid "Please insert your Pixabay API key"
+msgstr ""
+
+#: res/crawlomatic-main.php:1654 res/crawlomatic-main.php:2079
+msgid "Filter results by image type."
+msgstr ""
+
+#: res/crawlomatic-main.php:1658
+msgid "Image Types To Search:"
+msgstr ""
+
+#: res/crawlomatic-main.php:1667 res/crawlomatic-main.php:1727
+#: res/crawlomatic-main.php:2091 res/crawlomatic-main.php:2127
+#: res/crawlomatic-main.php:2189
+msgid "All"
+msgstr ""
+
+#: res/crawlomatic-main.php:1671 res/crawlomatic-main.php:2096
+msgid "Photo"
+msgstr ""
+
+#: res/crawlomatic-main.php:1675 res/crawlomatic-main.php:2101
+msgid "Illustration"
+msgstr ""
+
+#: res/crawlomatic-main.php:1679 res/crawlomatic-main.php:2106
+msgid "Vector"
+msgstr ""
+
+#: res/crawlomatic-main.php:1689 res/crawlomatic-main.php:2146
+msgid "Order results by a predefined rule."
+msgstr ""
+
+#: res/crawlomatic-main.php:1693 res/crawlomatic-main.php:2150
+msgid "Results Order: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1701 res/crawlomatic-main.php:2163
+msgid "Popular"
+msgstr ""
+
+#: res/crawlomatic-main.php:1706 res/crawlomatic-main.php:2168
+msgid "Latest"
+msgstr ""
+
+#: res/crawlomatic-main.php:1715 res/crawlomatic-main.php:2177
+msgid "Filter results by image category."
+msgstr ""
+
+#: res/crawlomatic-main.php:1719 res/crawlomatic-main.php:2181
+msgid "Image Category: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1732 res/crawlomatic-main.php:2194
+msgid "Fashion"
+msgstr ""
+
+#: res/crawlomatic-main.php:1737 res/crawlomatic-main.php:2199
+msgid "Nature"
+msgstr ""
+
+#: res/crawlomatic-main.php:1742 res/crawlomatic-main.php:2204
+msgid "Backgrounds"
+msgstr ""
+
+#: res/crawlomatic-main.php:1747 res/crawlomatic-main.php:2209
+msgid "Science"
+msgstr ""
+
+#: res/crawlomatic-main.php:1752 res/crawlomatic-main.php:2214
+msgid "Education"
+msgstr ""
+
+#: res/crawlomatic-main.php:1757 res/crawlomatic-main.php:2219
+msgid "People"
+msgstr ""
+
+#: res/crawlomatic-main.php:1762 res/crawlomatic-main.php:2224
+msgid "Feelings"
+msgstr ""
+
+#: res/crawlomatic-main.php:1767 res/crawlomatic-main.php:2229
+msgid "Religion"
+msgstr ""
+
+#: res/crawlomatic-main.php:1772 res/crawlomatic-main.php:2234
+msgid "Health"
+msgstr ""
+
+#: res/crawlomatic-main.php:1777 res/crawlomatic-main.php:2239
+msgid "Places"
+msgstr ""
+
+#: res/crawlomatic-main.php:1782 res/crawlomatic-main.php:2244
+msgid "Animals"
+msgstr ""
+
+#: res/crawlomatic-main.php:1787 res/crawlomatic-main.php:2249
+msgid "Industry"
+msgstr ""
+
+#: res/crawlomatic-main.php:1792 res/crawlomatic-main.php:2254
+msgid "Food"
+msgstr ""
+
+#: res/crawlomatic-main.php:1797 res/crawlomatic-main.php:2259
+msgid "Computer"
+msgstr ""
+
+#: res/crawlomatic-main.php:1802 res/crawlomatic-main.php:2264
+msgid "Sports"
+msgstr ""
+
+#: res/crawlomatic-main.php:1807 res/crawlomatic-main.php:2269
+msgid "Transportation"
+msgstr ""
+
+#: res/crawlomatic-main.php:1812 res/crawlomatic-main.php:2274
+msgid "Travel"
+msgstr ""
+
+#: res/crawlomatic-main.php:1817 res/crawlomatic-main.php:2279
+msgid "Buildings"
+msgstr ""
+
+#: res/crawlomatic-main.php:1822 res/crawlomatic-main.php:2284
+msgid "Business"
+msgstr ""
+
+#: res/crawlomatic-main.php:1827 res/crawlomatic-main.php:2289
+msgid "Music"
+msgstr ""
+
+#: res/crawlomatic-main.php:1836 res/crawlomatic-main.php:2298
+msgid "Minimum image width."
+msgstr ""
+
+#: res/crawlomatic-main.php:1840 res/crawlomatic-main.php:2302
+msgid "Image Min Width: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1843 res/crawlomatic-main.php:2305
+msgid "Please insert image min width"
+msgstr ""
+
+#: res/crawlomatic-main.php:1851
+msgid "Maximum image width."
+msgstr ""
+
+#: res/crawlomatic-main.php:1855
+msgid "Image Max Width: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1858
+msgid "Please insert image max width"
+msgstr ""
+
+#: res/crawlomatic-main.php:1866
+msgid ""
+"A flag indicating that only images suitable for all ages should be returned."
+msgstr ""
+
+#: res/crawlomatic-main.php:1870
+msgid "Safe Search: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1885
+msgid "Select images that have received an Editor's Choice award."
+msgstr ""
+
+#: res/crawlomatic-main.php:1889
+msgid "Editor's Choice: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1904
+msgid "Specify default language for regional content."
+msgstr ""
+
+#: res/crawlomatic-main.php:1908
+msgid "Filter Language: "
+msgstr ""
+
+#: res/crawlomatic-main.php:1916 res/crawlomatic-main.php:2158
+msgid "Any"
+msgstr ""
+
+#: res/crawlomatic-main.php:1921
+msgid "English"
+msgstr ""
+
+#: res/crawlomatic-main.php:1926
+msgid "Czech"
+msgstr ""
+
+#: res/crawlomatic-main.php:1931
+msgid "Danish"
+msgstr ""
+
+#: res/crawlomatic-main.php:1936
+msgid "German"
+msgstr ""
+
+#: res/crawlomatic-main.php:1941
+msgid "Spanish"
+msgstr ""
+
+#: res/crawlomatic-main.php:1946
+msgid "French"
+msgstr ""
+
+#: res/crawlomatic-main.php:1951
+msgid "Indonesian"
+msgstr ""
+
+#: res/crawlomatic-main.php:1956
+msgid "Italian"
+msgstr ""
+
+#: res/crawlomatic-main.php:1961
+msgid "Hungarian"
+msgstr ""
+
+#: res/crawlomatic-main.php:1966
+msgid "Dutch"
+msgstr ""
+
+#: res/crawlomatic-main.php:1971
+msgid "Norvegian"
+msgstr ""
+
+#: res/crawlomatic-main.php:1976
+msgid "Polish"
+msgstr ""
+
+#: res/crawlomatic-main.php:1981
+msgid "Portuguese"
+msgstr ""
+
+#: res/crawlomatic-main.php:1986
+msgid "Romanian"
+msgstr ""
+
+#: res/crawlomatic-main.php:1991
+msgid "Slovak"
+msgstr ""
+
+#: res/crawlomatic-main.php:1996
+msgid "Finish"
+msgstr ""
+
+#: res/crawlomatic-main.php:2001
+msgid "Swedish"
+msgstr ""
+
+#: res/crawlomatic-main.php:2006
+msgid "Turkish"
+msgstr ""
+
+#: res/crawlomatic-main.php:2011
+msgid "Vietnamese"
+msgstr ""
+
+#: res/crawlomatic-main.php:2016
+msgid "Thai"
+msgstr ""
+
+#: res/crawlomatic-main.php:2021
+msgid "Bulgarian"
+msgstr ""
+
+#: res/crawlomatic-main.php:2026
+msgid "Russian"
+msgstr ""
+
+#: res/crawlomatic-main.php:2031
+msgid "Greek"
+msgstr ""
+
+#: res/crawlomatic-main.php:2036
+msgid "Japanese"
+msgstr ""
+
+#: res/crawlomatic-main.php:2041
+msgid "Korean"
+msgstr ""
+
+#: res/crawlomatic-main.php:2046
+msgid "Chinese"
+msgstr ""
+
+#: res/crawlomatic-main.php:2060
+msgid ""
+"Select if you want to enable direct scraping of Pixabay website. This will "
+"generate different results from the API."
+msgstr ""
+
+#: res/crawlomatic-main.php:2064
+msgid "Enable Pixabay Direct Website Scraping: "
+msgstr ""
+
+#: res/crawlomatic-main.php:2083
+msgid "Image Types To Search: "
+msgstr ""
+
+#: res/crawlomatic-main.php:2115
+msgid "Filter results by image orientation."
+msgstr ""
+
+#: res/crawlomatic-main.php:2119
+msgid "Image Orientation: "
+msgstr ""
+
+#: res/crawlomatic-main.php:2132
+msgid "Horizontal"
+msgstr ""
+
+#: res/crawlomatic-main.php:2137
+msgid "Vertical"
+msgstr ""
+
+#: res/crawlomatic-main.php:2313
+msgid "Maximum image height."
+msgstr ""
+
+#: res/crawlomatic-main.php:2317
+msgid "Image Min Height: "
+msgstr ""
+
+#: res/crawlomatic-main.php:2320
+msgid "Please insert image min height"
+msgstr ""
+
+#: res/crawlomatic-main.php:2333
+#, php-format
+msgid ""
+"Please set a the image attribution shortcode value. You can use this value, "
+"using the %%image_attribution%% shortcode, in 'Prepend Content With' and "
+"'Append Content With' settings fields. You can use the following shortcodes, "
+"in this settings field: %%image_source_name%%, %%image_source_website%%, "
+"%%image_source_url%%. These will be updated automatically for the respective "
+"image source, from where the imported image is from. This will replace the "
+"%%royalty_free_image_attribution%% shortcode, in 'Generated Post Content' "
+"settings field."
+msgstr ""
+
+#: res/crawlomatic-main.php:2337
+#, php-format
+msgid ""
+"Royalty Free Image Attribution Text (%%royalty_free_image_attribution%%): "
+msgstr ""
+
+#: res/crawlomatic-main.php:2340
+msgid "Please insert image attribution text pattern"
+msgstr ""
+
+#: res/crawlomatic-main.php:2348
+msgid "Do you want to enable broad search for royalty free images?"
+msgstr ""
+
+#: res/crawlomatic-main.php:2352
+msgid "Enable broad image search: "
+msgstr ""
+
+#: res/crawlomatic-main.php:2367
+msgid ""
+"Do you want to not use article's original image if no royalty free image "
+"found for the post?"
+msgstr ""
+
+#: res/crawlomatic-main.php:2371
+msgid "Do Not Use Original Image If No Free Image Found: "
+msgstr ""
+
+#: res/crawlomatic-main.php:2392
+msgid "Posting Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2407
+#, php-format
+msgid ""
+"If you wish to shorten outgoing links using shorte.st, please enter your API "
+"token here. To sign up for a new account, click <a href='%s' "
+"target='_blank'>here</a>. To get your API token after you have signed up, "
+"click <a href='%s' target='_blank'>here</a>. To disable URL shortening, "
+"leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:2411
+msgid "Shorte.st API Token"
+msgstr ""
+
+#: res/crawlomatic-main.php:2416
+msgid "Shorte.st API token"
+msgstr ""
+
+#: res/crawlomatic-main.php:2426
+msgid "Disable excerpt automatic generation for resulting blog posts."
+msgstr ""
+
+#: res/crawlomatic-main.php:2430
+msgid "Disable Automatic Excerpt Generation:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2446
+msgid ""
+"Try to fix imported HTML content (if it is corrupted on the source site)."
+msgstr ""
+
+#: res/crawlomatic-main.php:2450
+msgid "Try To Fix Imported HTML:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2466
+msgid ""
+"Use alternate readability version to automatically extract text from "
+"articles."
+msgstr ""
+
+#: res/crawlomatic-main.php:2470
+msgid "Use Alternate Readability:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2486
+msgid ""
+"Select if you want to convert cyrilic characters to latin characters from "
+"posts."
+msgstr ""
+
+#: res/crawlomatic-main.php:2490
+msgid "Convert Cyrilic Characters to Latin Characters:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2506
+msgid "Choose if you want to strip links from the generated post content."
+msgstr ""
+
+#: res/crawlomatic-main.php:2510
+msgid "Strip Links From Generated Post Content:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2526
+msgid ""
+"Choose if you want to strip links from the imported post content (keep links "
+"that were added afterwards."
+msgstr ""
+
+#: res/crawlomatic-main.php:2530
+msgid "Strip Links Only From Imported Content:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2546
+msgid "Choose if you want to strip javascript from the crawled post content."
+msgstr ""
+
+#: res/crawlomatic-main.php:2550
+msgid "Strip Javascript From Crawled Content:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2566
+#, php-format
+msgid ""
+"Input the width of the screenshot that will be generated for crawled pages. "
+"This will affect the content generated by the %%item_show_screenshot%% "
+"shortcode. The default is 600."
+msgstr ""
+
+#: res/crawlomatic-main.php:2570
+msgid "Page Screenshot Width:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2573
+msgid "600"
+msgstr ""
+
+#: res/crawlomatic-main.php:2583
+#, php-format
+msgid ""
+"Input the height of the screenshot that will be generated for crawled pages. "
+"This will affect the content generated by the %%item_show_screenshot%% "
+"shortcode. The default is 450."
+msgstr ""
+
+#: res/crawlomatic-main.php:2587
+msgid "Page Screenshot Height:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2590
+msgid "450"
+msgstr ""
+
+#: res/crawlomatic-main.php:2600
+msgid ""
+"Input the separator character for category assignation from crawled content."
+msgstr ""
+
+#: res/crawlomatic-main.php:2604
+msgid "Crawled Category Separator:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2607
+msgid ","
+msgstr ""
+
+#: res/crawlomatic-main.php:2617
+msgid ""
+"Input the attributes you want to set for each internal link from content."
+msgstr ""
+
+#: res/crawlomatic-main.php:2621
+msgid "Add Attributes to Internal Links:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2624 res/crawlomatic-main.php:2641
+msgid "Link attributes"
+msgstr ""
+
+#: res/crawlomatic-main.php:2634
+msgid ""
+"Input the attributes you want to set for each external link from content."
+msgstr ""
+
+#: res/crawlomatic-main.php:2638
+msgid "Add Attributes to External Links:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2651
+msgid ""
+"Do you want to replace all URLs from generated posts content with this "
+"predefined URL?"
+msgstr ""
+
+#: res/crawlomatic-main.php:2655
+msgid "Replace All URLs from Content With This URL:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2658
+msgid "Replacement link"
+msgstr ""
+
+#: res/crawlomatic-main.php:2668
+#, php-format
+msgid ""
+"Insert the desired text to be show for the 'Read More' buttons. Exemple: for "
+"the %%item_read_more_button%% shortcode or for the excerpt."
+msgstr ""
+
+#: res/crawlomatic-main.php:2672 res/crawlomatic-rules-list.php:1173
+msgid "'Read More' Button Text:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2677
+msgid "Please insert the text to be show for the 'Read More' links"
+msgstr ""
+
+#: res/crawlomatic-main.php:2691
+msgid "Price Related Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2700 res/crawlomatic-main.php:2717
+#, php-format
+msgid ""
+"Multiply the price by this number. The increased price will be available in "
+"the %%item_price%% shortcode. The original price will be available in the "
+"%%item_original_price%% shortcode. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:2704
+msgid "Multiply Imported Item Price By:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2707
+msgid "Enter a multiply amount for imported item price"
+msgstr ""
+
+#: res/crawlomatic-main.php:2721
+msgid "Add To Imported Item Price:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2724
+msgid "Enter a number that will be added to imported item price"
+msgstr ""
+
+#: res/crawlomatic-main.php:2734
+msgid "Price separator to use for prices."
+msgstr ""
+
+#: res/crawlomatic-main.php:2738
+msgid "Price Separator:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2741
+msgid "."
+msgstr ""
+
+#: res/crawlomatic-main.php:2755
+msgid "Text Spinning Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2761
+msgid "Don't have an 'The Best Spinner' account yet? Click here to get one:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2761 res/crawlomatic-main.php:2764
+#: res/crawlomatic-main.php:2767
+msgid "get a new account now!"
+msgstr ""
+
+#: res/crawlomatic-main.php:2764
+msgid "Don't have an 'WordAI' account yet? Click here to get one:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2767
+msgid "Don't have an 'SpinRewriter' account yet? Click here to get one:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2777
+msgid ""
+"Do you want to randomize text by changing words of a text with synonyms "
+"using one of the listed methods? Note that this is an experimental feature "
+"and can in some instances drastically increase the rule running time!"
+msgstr ""
+
+#: res/crawlomatic-main.php:2781
+msgid "Spin Text Using Word Synonyms (for automatically generated posts only):"
+msgstr ""
+
+#: res/crawlomatic-main.php:2798 res/crawlomatic-main.php:2806
+#: res/crawlomatic-main.php:2814
+msgid "High Quality - Paid"
+msgstr ""
+
+#: res/crawlomatic-main.php:2821
+msgid "Built-in - Medium Quality - Free"
+msgstr ""
+
+#: res/crawlomatic-main.php:2828 res/crawlomatic-main.php:2835
+msgid "Low Quality - Free"
+msgstr ""
+
+#: res/crawlomatic-main.php:2846
+msgid "Do you want to not spin or translate post title (only content)?"
+msgstr ""
+
+#: res/crawlomatic-main.php:2850
+msgid "Do Not Spin or Translate Post Title:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2868
+msgid ""
+"Input the words that you do not want to be spinned. You can input more "
+"words, separated by commas. Ex: dog, cat, cow"
+msgstr ""
+
+#: res/crawlomatic-main.php:2872
+msgid "Do Not Spin These Words:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2877
+msgid "Select the words that should not be spinned"
+msgstr ""
+
+#: res/crawlomatic-main.php:2887
+msgid "Insert your user name on premium spinner service."
+msgstr ""
+
+#: res/crawlomatic-main.php:2891
+msgid "Premium Spinner Service User Name/Email:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2898
+msgid "Please insert your premium text spinner service user name"
+msgstr ""
+
+#: res/crawlomatic-main.php:2908
+msgid "Insert your password for the selected premium spinner service."
+msgstr ""
+
+#: res/crawlomatic-main.php:2912
+msgid "Premium Spinner Service Password/API Key:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2919
+msgid "Please insert your premium text spinner service password"
+msgstr ""
+
+#: res/crawlomatic-main.php:2929
+msgid "Insert your words, separated by comma, that you not want to be spinned."
+msgstr ""
+
+#: res/crawlomatic-main.php:2933
+msgid "'The Best Spinner' Protected Terms:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2938
+msgid "Please insert your 'The Best Spinner' protected terms"
+msgstr ""
+
+#: res/crawlomatic-main.php:2952
+msgid "Posting Restrictions Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:2961
+msgid ""
+"Set the minimum word count for post titles. Items that have less than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:2965
+msgid "Minimum Title Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/crawlomatic-main.php:2970
+msgid "Input the minimum word count for the title"
+msgstr ""
+
+#: res/crawlomatic-main.php:2980
+msgid ""
+"Set the maximum word count for post titles. Items that have more than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:2984
+msgid "Maximum Title Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/crawlomatic-main.php:2989
+msgid "Input the maximum word count for the title"
+msgstr ""
+
+#: res/crawlomatic-main.php:2999
+msgid ""
+"Set the minimum word count for post content. Items that have less than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:3003
+msgid "Minimum Content Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/crawlomatic-main.php:3008
+msgid "Input the minimum word count for the content"
+msgstr ""
+
+#: res/crawlomatic-main.php:3018
+msgid ""
+"Set the maximum word count for post content. Items that have more than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-main.php:3022
+msgid "Maximum Content Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/crawlomatic-main.php:3027
+msgid "Input the maximum word count for the content"
+msgstr ""
+
+#: res/crawlomatic-main.php:3037
+msgid ""
+"Do you want to skip posts that have these words in their featured image "
+"names? To disable this feature, leave this field blank. You can also use "
+"wildcards in the expressions."
+msgstr ""
+
+#: res/crawlomatic-main.php:3041
+msgid "Skip Posts With These Words In Their Featured Image Names:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3046
+msgid "Select the words of images to skip"
+msgstr ""
+
+#: res/crawlomatic-main.php:3056
+msgid "Choose if you want to skip posts that do not have images."
+msgstr ""
+
+#: res/crawlomatic-main.php:3060
+msgid "Skip Posts That Do Not Have Images:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3076
+msgid ""
+"Choose if you want to skip posts that are older than a selected date. For "
+"this to work, you have to specify a HTML class or ID which contains the date "
+"in the crawled article."
+msgstr ""
+
+#: res/crawlomatic-main.php:3080
+msgid "Skip Posts Older Than a Selected Date:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3096
+msgid "Select the date prior which you want to skip posts."
+msgstr ""
+
+#: res/crawlomatic-main.php:3100
+msgid "Select the Date for Old Posts:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3105
+msgid "Day:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3139
+msgid "Month:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3141
+msgid "January"
+msgstr ""
+
+#: res/crawlomatic-main.php:3142
+msgid "February"
+msgstr ""
+
+#: res/crawlomatic-main.php:3143
+msgid "March"
+msgstr ""
+
+#: res/crawlomatic-main.php:3144
+msgid "April"
+msgstr ""
+
+#: res/crawlomatic-main.php:3145
+msgid "May"
+msgstr ""
+
+#: res/crawlomatic-main.php:3146
+msgid "June"
+msgstr ""
+
+#: res/crawlomatic-main.php:3147
+msgid "July"
+msgstr ""
+
+#: res/crawlomatic-main.php:3148
+msgid "August"
+msgstr ""
+
+#: res/crawlomatic-main.php:3149
+msgid "September"
+msgstr ""
+
+#: res/crawlomatic-main.php:3150
+msgid "October"
+msgstr ""
+
+#: res/crawlomatic-main.php:3151
+msgid "November"
+msgstr ""
+
+#: res/crawlomatic-main.php:3152
+msgid "December"
+msgstr ""
+
+#: res/crawlomatic-main.php:3154
+msgid "Year:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3154
+msgid "year"
+msgstr ""
+
+#: res/crawlomatic-main.php:3168
+msgid "PhantomJS Settings:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3177
+#, php-format
+msgid ""
+"Set the path on your local server of the phantomjs executable. If you leave "
+"this field blank, the default 'phantomjs' call will be used. <a href='%s' "
+"target='_blank'>How to install PhantomJs?</a>"
+msgstr ""
+
+#: res/crawlomatic-main.php:3181
+msgid "PhantomJS Path On Server:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3186
+msgid "Path to phantomjs"
+msgstr ""
+
+#: res/crawlomatic-main.php:3196
+msgid ""
+"Set the timeout (in milliseconds) for every phantomjs running. I recommend "
+"that you leave this field at it's default value (15000). If you leave this "
+"field blank, the default value will be used."
+msgstr ""
+
+#: res/crawlomatic-main.php:3200
+msgid "Timeout for PhantomJs Execution:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3205
+msgid "Input phantomjs timeout in milliseconds"
+msgstr ""
+
+#: res/crawlomatic-main.php:3223
+msgid "Post Meta Options:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3231 res/crawlomatic-main.php:3247
+#: res/crawlomatic-main.php:3262 res/crawlomatic-main.php:3277
+#: res/crawlomatic-main.php:3291 res/crawlomatic-main.php:3306
+#: res/crawlomatic-main.php:3320 res/crawlomatic-main.php:3334
+msgid "Skip saving this post meta for posts?"
+msgstr ""
+
+#: res/crawlomatic-main.php:3235
+msgid "Skip Saving 'crawlomatic_enable_pingbacks' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3251
+msgid "Skip Saving 'crawlomatic_comment_status' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3266
+msgid "Skip Saving 'crawlomatic_item_title' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3281
+msgid "Skip Saving 'crawlomatic_extra_categories' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3295
+msgid "Skip Saving 'crawlomatic_extra_tags' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3310
+msgid "Skip Saving 'crawlomatic_post_img' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3324
+msgid "Skip Saving 'crawlomatic_timestamp' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3338
+msgid "Skip Saving 'crawlomatic_post_date' Post Meta"
+msgstr ""
+
+#: res/crawlomatic-main.php:3346
+msgid "Random Sentence Generator Settings:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3353 res/crawlomatic-main.php:3366
+#, php-format
+msgid ""
+"Insert some sentences from which you want to get one at random. You can also "
+"use variables defined below. %something ==> is a variable. Each sentence "
+"must be separated by a new line."
+msgstr ""
+
+#: res/crawlomatic-main.php:3357
+#, php-format
+msgid "First List of Possible Sentences (%%random_sentence%%):"
+msgstr ""
+
+#: res/crawlomatic-main.php:3359
+msgid "Please insert the first list of sentences"
+msgstr ""
+
+#: res/crawlomatic-main.php:3370
+#, php-format
+msgid "Second List of Possible Sentences (%%random_sentence2%%):"
+msgstr ""
+
+#: res/crawlomatic-main.php:3372
+msgid "Please insert the second list of sentences"
+msgstr ""
+
+#: res/crawlomatic-main.php:3379
+msgid ""
+"Insert some variables you wish to be exchanged for different instances of "
+"one sentence. Please format this list as follows:<br/>\n"
+"   Variablename => Variables (seperated by semicolon)<br/>Example:<br/"
+">adjective => clever;interesting;smart;huge;astonishing;unbelievable;nice;"
+"adorable;beautiful;elegant;fancy;glamorous;magnificent;helpful;awesome<br/>"
+msgstr ""
+
+#: res/crawlomatic-main.php:3384
+msgid "List of Possible Variables:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3386
+msgid "Please insert the list of variables"
+msgstr ""
+
+#: res/crawlomatic-main.php:3389
+msgid "Custom HTML Code/ Ad Code:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3396
+#, php-format
+msgid ""
+"Insert a custom HTML code that will replace the %%custom_html%% variable. "
+"This can be anything, even an Ad code."
+msgstr ""
+
+#: res/crawlomatic-main.php:3400
+msgid "Custom HTML Code #1:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3402
+msgid "Custom HTML #1"
+msgstr ""
+
+#: res/crawlomatic-main.php:3409
+#, php-format
+msgid ""
+"Insert a custom HTML code that will replace the %%custom_html2%% variable. "
+"This can be anything, even an Ad code."
+msgstr ""
+
+#: res/crawlomatic-main.php:3413
+msgid "Custom HTML Code #2:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3415
+msgid "Custom HTML #2"
+msgstr ""
+
+#: res/crawlomatic-main.php:3419
+msgid "Affiliate Keyword Replacer Tool Settings:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3424 res/crawlomatic-rules-list.php:254
+#: res/crawlomatic-rules-list.php:1466 res/crawlomatic-rules-list.php:1508
+#: res/crawlomatic-rules-list.php:1550 res/crawlomatic-rules-list.php:1645
+#: res/crawlomatic-rules-list.php:1685 res/crawlomatic-rules-list.php:1743
+#: res/crawlomatic-rules-list.php:1783 res/crawlomatic-rules-list.php:1823
+#: res/crawlomatic-rules-list.php:1885 res/crawlomatic-rules-list.php:1966
+#: res/crawlomatic-rules-list.php:3708 res/crawlomatic-rules-list.php:3752
+#: res/crawlomatic-rules-list.php:3796 res/crawlomatic-rules-list.php:3876
+#: res/crawlomatic-rules-list.php:3926 res/crawlomatic-rules-list.php:3983
+#: res/crawlomatic-rules-list.php:4033 res/crawlomatic-rules-list.php:4083
+#: res/crawlomatic-rules-list.php:4146 res/crawlomatic-rules-list.php:4221
+msgid "ID"
+msgstr ""
+
+#: res/crawlomatic-main.php:3427
+msgid "This is the ID of the rule."
+msgstr ""
+
+#: res/crawlomatic-main.php:3431 res/crawlomatic-rules-list.php:342
+msgid "Del"
+msgstr ""
+
+#: res/crawlomatic-main.php:3434 res/crawlomatic-rules-list.php:346
+msgid "Do you want to delete this rule?"
+msgstr ""
+
+#: res/crawlomatic-main.php:3438
+msgid "Search Keyword"
+msgstr ""
+
+#: res/crawlomatic-main.php:3441
+msgid "This keyword will be replaced with a link you define."
+msgstr ""
+
+#: res/crawlomatic-main.php:3445
+msgid "Replacement Keyword"
+msgstr ""
+
+#: res/crawlomatic-main.php:3448
+msgid ""
+"This keyword will replace the search keyword you define. Leave this field "
+"blank if you only want to add an URL to the specified keyword."
+msgstr ""
+
+#: res/crawlomatic-main.php:3452
+msgid "Link to Add"
+msgstr ""
+
+#: res/crawlomatic-main.php:3455
+msgid ""
+"Define the link you want to appear the defined keyword. Leave this field "
+"blank if you only want to replace the specified keyword without linking from "
+"it."
+msgstr ""
+
+#: res/crawlomatic-main.php:3459
+msgid "Target Content"
+msgstr ""
+
+#: res/crawlomatic-main.php:3462
+msgid ""
+"Select if you want to make this rule target post title, content or both."
+msgstr ""
+
+#: res/crawlomatic-main.php:3475
+msgid "Please insert the keyword to be replaced"
+msgstr ""
+
+#: res/crawlomatic-main.php:3476
+msgid "Please insert the keyword to replace the search keyword"
+msgstr ""
+
+#: res/crawlomatic-main.php:3477
+msgid "Please insert the link to be added to the keyword"
+msgstr ""
+
+#: res/crawlomatic-main.php:3479 res/crawlomatic-main.php:3545
+msgid "Content"
+msgstr ""
+
+#: res/crawlomatic-main.php:3480 res/crawlomatic-main.php:3550
+msgid "Title"
+msgstr ""
+
+#: res/crawlomatic-main.php:3481 res/crawlomatic-main.php:3555
+msgid "Content and Title"
+msgstr ""
+
+#: res/crawlomatic-main.php:3492 res/crawlomatic-rules-list.php:2272
+msgid "Save Settings"
+msgstr ""
+
+#: res/crawlomatic-main.php:3495
+msgid "Available shortcodes:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3495
+msgid "to include a list that contains only posts imported by this plugin, and"
+msgstr ""
+
+#: res/crawlomatic-main.php:3495
+msgid "to include a WordPress like post listing. Usage:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3496
+msgid "Example:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3497
+msgid "Example 2:"
+msgstr ""
+
+#: res/crawlomatic-main.php:3497
+msgid "Please check plugin's documentation for more info."
+msgstr ""
+
+#: res/crawlomatic-main.php:3529
+msgid "Input the keyword to be replaced. This field is required"
+msgstr ""
+
+#: res/crawlomatic-main.php:3530
+msgid "Input the replacement word"
+msgstr ""
+
+#: res/crawlomatic-main.php:3531
+msgid "Input the URL to be added"
+msgstr ""
+
+#: res/crawlomatic-offer.php:10
+msgid "Our Recommendations"
+msgstr ""
+
+#: res/crawlomatic-offer.php:14
+msgid ""
+"Some general recommendations, to help boost the ROI of this plugin and your "
+"website."
+msgstr ""
+
+#: res/crawlomatic-offer.php:23
+msgid "Import premium unique content for more organic traffic:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:24
+msgid ""
+"To import good quality unique content, we recommend that you use a premium "
+"text spinning service with the plugin (can be configured from 'Main "
+"Settings' page)"
+msgstr ""
+
+#: res/crawlomatic-offer.php:24 res/crawlomatic-offer.php:43
+msgid "tutorial video"
+msgstr ""
+
+#: res/crawlomatic-offer.php:25
+msgid "Supported premium spinners:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:29 res/crawlomatic-offer.php:33
+#: res/crawlomatic-offer.php:37
+msgid "Sign up now"
+msgstr ""
+
+#: res/crawlomatic-offer.php:42
+msgid "Earn a side income from your blog:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:43
+msgid "To earn a side income using our plugins, you can try using"
+msgstr ""
+
+#: res/crawlomatic-offer.php:43
+msgid "Shorte.st link shortener"
+msgstr ""
+
+#: res/crawlomatic-offer.php:43
+msgid "It can be configured from plugin's 'Main Settings'"
+msgstr ""
+
+#: res/crawlomatic-offer.php:46
+msgid "Create a multilingual blog:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:47
+msgid "To create a multilingual blog, we recommend that you use"
+msgstr ""
+
+#: res/crawlomatic-offer.php:47
+msgid ""
+"If you just wish to import content in a language, and translate it to "
+"another language automatically, our plugins also support Google Translate to "
+"achieve this."
+msgstr ""
+
+#: res/crawlomatic-offer.php:50
+msgid "Like our plugin? Want more?"
+msgstr ""
+
+#: res/crawlomatic-offer.php:51
+msgid "Check our"
+msgstr ""
+
+#: res/crawlomatic-offer.php:51
+msgid "plugin portfolio from CodeCanyon"
+msgstr ""
+
+#: res/crawlomatic-offer.php:51
+msgid ""
+"We release periodically new plugins that complement our existing ones, so "
+"this list of plugins is worth following. We also have a private plugin "
+"marketplace, check it"
+msgstr ""
+
+#: res/crawlomatic-offer.php:51
+msgid "here"
+msgstr ""
+
+#: res/crawlomatic-offer.php:54
+msgid "All our plugins, at a Mega price:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:55
+msgid "If you enjoy our work and want to get more of it, check our"
+msgstr ""
+
+#: res/crawlomatic-offer.php:55
+#, php-format
+msgid ""
+"which is possibly the largest plugin bundle on CodeCanyon. It includes all "
+"our plugins (and also all our future plugins), at a 95% discount - so it is "
+"really a great deal."
+msgstr ""
+
+#: res/crawlomatic-offer.php:58
+msgid "Learn more about WordPress (beginners to advanced):"
+msgstr ""
+
+#: res/crawlomatic-offer.php:59
+msgid ""
+"To learn more about WordPress (or maybe WordPress plugin development), check"
+msgstr ""
+
+#: res/crawlomatic-offer.php:59
+msgid "our online courses on"
+msgstr ""
+
+#: res/crawlomatic-offer.php:59
+msgid ""
+"They provide great value for starters with WordPress, but also for WordPress "
+"junior developers. You can also become our"
+msgstr ""
+
+#: res/crawlomatic-offer.php:59
+msgid "affiliate on Teachable"
+msgstr ""
+
+#: res/crawlomatic-offer.php:59
+msgid "to earn income from course sales you generate."
+msgstr ""
+
+#: res/crawlomatic-offer.php:62
+msgid ""
+"Learn more about how to create your first internet business (or even earn "
+"with it):"
+msgstr ""
+
+#: res/crawlomatic-offer.php:63
+msgid ""
+"To learn more about how to start your own internet business from scratch, "
+"check"
+msgstr ""
+
+#: res/crawlomatic-offer.php:63
+msgid "our e-book on this subject"
+msgstr ""
+
+#: res/crawlomatic-offer.php:63
+msgid "You can also become our"
+msgstr ""
+
+#: res/crawlomatic-offer.php:63
+msgid "affiliate on Clickbank"
+msgstr ""
+
+#: res/crawlomatic-offer.php:63
+msgid "to earn income from e-book sales you generate."
+msgstr ""
+
+#: res/crawlomatic-offer.php:66
+msgid "If you are looking for a cool theme:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:67
+msgid ""
+"If you are looking for a cool new theme that best fits this plugin, we "
+"recommend"
+msgstr ""
+
+#: res/crawlomatic-offer.php:67
+msgid "Divi theme"
+msgstr ""
+
+#: res/crawlomatic-offer.php:67
+msgid "by"
+msgstr ""
+
+#: res/crawlomatic-offer.php:70
+msgid "Earn more by becoming our affiliate:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:71
+msgid ""
+"You can also become our affiliate (for CodeCanyon items and also for private "
+"marketplace items), to earn from the sales you generate for our plugins"
+msgstr ""
+
+#: res/crawlomatic-offer.php:71
+msgid "more info here"
+msgstr ""
+
+#: res/crawlomatic-offer.php:74
+msgid "Check the video tutorials for our plugins:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:75
+msgid "For video tutorials, subscribe to our"
+msgstr ""
+
+#: res/crawlomatic-offer.php:75
+msgid "YouTube channel"
+msgstr ""
+
+#: res/crawlomatic-offer.php:75
+msgid "we post periodically new video tutorials over there also."
+msgstr ""
+
+#: res/crawlomatic-offer.php:78
+msgid "Check our blog and get a free e-book:"
+msgstr ""
+
+#: res/crawlomatic-offer.php:79
+msgid "For more updates, tips and tricks follow our"
+msgstr ""
+
+#: res/crawlomatic-offer.php:79
+msgid "blog"
+msgstr ""
+
+#: res/crawlomatic-offer.php:79
+msgid ""
+"subscribe to our newsletter from our blog, to get our affiliate marketing e-"
+"book, for free!"
+msgstr ""
+
+#: res/crawlomatic-offer.php:82
+msgid "Our social networks (for more tips and news):"
+msgstr ""
+
+#: res/crawlomatic-offer.php:83
+msgid "Follow us for even more:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:5
+msgid "Afrikaans (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:6
+msgid "Albanian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:7
+msgid "Arabic (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:8
+msgid "Amharic (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:9
+msgid "Armenian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:10
+msgid "Belarusian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:11
+msgid "Bulgarian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:12
+msgid "Catalan (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:13
+msgid "Chinese Simplified (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:14
+msgid "Croatian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:15
+msgid "Czech (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:16
+msgid "Danish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:17
+msgid "Dutch (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:18
+msgid "English (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:19
+msgid "Estonian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:20
+msgid "Filipino (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:21
+msgid "Finnish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:22
+msgid "French (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:23
+msgid "Galician (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:24
+msgid "German (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:25
+msgid "Greek (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:26
+msgid "Hebrew (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:27
+msgid "Hindi (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:28
+msgid "Hungarian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:29
+msgid "Icelandic (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:30
+msgid "Indonesian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:31
+msgid "Irish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:32
+msgid "Italian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:33
+msgid "Japanese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:34
+msgid "Korean (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:35
+msgid "Latvian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:36
+msgid "Lithuanian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:37
+msgid "Norwegian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:38
+msgid "Macedonian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:39
+msgid "Malay (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:40
+msgid "Maltese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:41
+msgid "Persian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:42
+msgid "Polish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:43
+msgid "Portuguese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:44
+msgid "Romanian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:45
+msgid "Russian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:46
+msgid "Serbian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:47
+msgid "Slovak (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:48
+msgid "Slovenian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:49
+msgid "Spanish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:50 res/crawlomatic-rules-list.php:105
+msgid "Swahili (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:51
+msgid "Swedish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:52
+msgid "Thai (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:53
+msgid "Turkish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:54
+msgid "Ukrainian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:55
+msgid "Vietnamese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:56
+msgid "Welsh (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:57
+msgid "Yiddish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:58
+msgid "Tamil (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:59
+msgid "Azerbaijani (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:60
+msgid "Kannada (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:61
+msgid "Basque (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:62
+msgid "Bengali (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:63
+msgid "Latin (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:64
+msgid "Chinese Traditional (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:65
+msgid "Esperanto (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:66
+msgid "Georgian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:67
+msgid "Telugu (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:68
+msgid "Gujarati (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:69
+msgid "Haitian Creole (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:70
+msgid "Urdu (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:72
+msgid "Burmese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:73
+msgid "Bosnian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:74
+msgid "Cebuano (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:75
+msgid "Chichewa (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:76
+msgid "Corsican (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:77
+msgid "Frisian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:78
+msgid "Scottish Gaelic (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:79
+msgid "Hausa (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:80
+msgid "Hawaian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:81
+msgid "Hmong (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:82
+msgid "Igbo (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:83
+msgid "Javanese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:84
+msgid "Kazakh (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:85
+msgid "Khmer (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:86
+msgid "Kurdish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:87
+msgid "Kyrgyz (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:88
+msgid "Lao (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:89
+msgid "Luxembourgish (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:90
+msgid "Malagasy (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:91
+msgid "Malayalam (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:92
+msgid "Maori (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:93
+msgid "Marathi (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:94
+msgid "Mongolian (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:95
+msgid "Nepali (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:96
+msgid "Pashto (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:97
+msgid "Punjabi (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:98
+msgid "Samoan (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:99
+msgid "Sesotho (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:100
+msgid "Shona (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:101
+msgid "Sindhi (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:102
+msgid "Sinhala (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:103
+msgid "Somali (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:104
+msgid "Sundanese (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:106
+msgid "Tajik (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:107
+msgid "Uzbek (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:108
+msgid "Xhosa (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:109
+msgid "Yoruba (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:110
+msgid "Zulu (Google Translate)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:258
+msgid "This is the ID of the rule. "
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:264
+msgid "Scraper Start (Seed) URL"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:268
+msgid ""
+"Input the URL which you want to use as a crawling starting point. This URL "
+"will also be scraped."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:274
+msgid "Schedule"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:281
+msgid ""
+"Select the interval in minutes after which you want this rule to run. "
+"Defined in minutes."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:285
+msgid ""
+"Select the interval in hours after which you want this rule to run. Defined "
+"in hours."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:292
+msgid "Max # Posts"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:296
+msgid "Select the maximum number of posts that this rule can create at once."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:302
+msgid "Post Status"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:306
+msgid ""
+"Select the status that you want for the automatically generated posts to "
+"have."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:312
+msgid "Item Type"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:316
+msgid "Select the type (post/page) for your automatically generated item."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:322
+msgid "Post Author"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:326
+msgid ""
+"Select the author that you want to assign for the automatically generated "
+"posts."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:332
+msgid "More Options"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:336
+msgid "Shows advanced settings for this rule."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:352
+msgid "Active"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:356
+msgid ""
+"Do you want to enable this rule? You can deactivate any rule (you don't have "
+"to delete them to deactivate them)."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:364
+msgid "Info"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:368
+msgid "The number of items (posts, pages) this rule has generated so far."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:374
+msgid "Actions"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:378
+msgid ""
+"Do you want to run this rule now? Note that only one instance of a rule is "
+"allowed at once."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:482 res/crawlomatic-rules-list.php:2821
+msgid "Pending -> Moderate"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:483 res/crawlomatic-rules-list.php:2827
+msgid "Draft -> Moderate"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:484 res/crawlomatic-rules-list.php:2833
+msgid "Published"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:485 res/crawlomatic-rules-list.php:2839
+msgid "Private"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:486 res/crawlomatic-rules-list.php:2845
+msgid "Trash"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:520
+msgid "New Rule"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:520 res/crawlomatic-rules-list.php:2872
+msgid "Advanced Settings"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:527 res/crawlomatic-rules-list.php:2878
+msgid "Generated Post Customizations:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:536
+#, php-format
+msgid ""
+"Set the title of the generated posts for user rules. You can use the "
+"following shortcodes: %%random_sentence%%, %%random_sentence2%%, %%item_title"
+"%%, %%item_description%%, %%item_content%%, %%item_cat%%, %%item_tags%%. You "
+"will also be able to use the custom shortcodes defined in the 'Custom "
+"Shortcode Creator' feature from below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:540
+msgid "Generated Post Title:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:553
+#, php-format
+msgid ""
+"Set the content of the generated posts for user rules. You can use the "
+"following shortcodes: %%custom_html%%, %%custom_html2%%, %%random_sentence"
+"%%, %%random_sentence2%%, %%item_title%%, %%item_original_price%%, "
+"%%item_price%%, %%item_content%%, %%royalty_free_image_attribution%%, "
+"%%item_url%%, %%item_cat%%, %%item_tags%%, %%item_content_plain_text%%, "
+"%%item_screenshot_url%%, %%item_show_screenshot%%, %%item_read_more_button"
+"%%, %%item_show_image%%, %%item_image_URL%%, %%item_description%%, "
+"%%item_pub_date%%. If you wish to embed YouTube or Vimeo videos, you should "
+"use the following format: [embed]%%item_url%%[/embed]. You will also be able "
+"to use the custom shortcodes defined in the 'Custom Shortcode Creator' "
+"feature from below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:557
+msgid "Generated Post Content:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:570
+msgid ""
+"If your template supports 'Post Formats', than you can select one here. If "
+"not, leave this at it's default value."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:574
+msgid "Generated Post Format:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:578 res/crawlomatic-rules-list.php:2917
+msgid "Standard"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:579 res/crawlomatic-rules-list.php:2923
+msgid "Aside"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:580 res/crawlomatic-rules-list.php:2929
+msgid "Gallery"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:581 res/crawlomatic-rules-list.php:2935
+msgid "Link"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:582 res/crawlomatic-rules-list.php:2941
+msgid "Image"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:583 res/crawlomatic-rules-list.php:2947
+msgid "Quote"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:584 res/crawlomatic-rules-list.php:2953
+msgid "Status"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:585 res/crawlomatic-rules-list.php:2959
+msgid "Video"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:586 res/crawlomatic-rules-list.php:2965
+msgid "Audio"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:587 res/crawlomatic-rules-list.php:2971
+msgid "Chat"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:598 res/crawlomatic-rules-list.php:2977
+msgid ""
+"Select the post category that you want for the automatically generated posts "
+"to have. To select more categories, hold down the CTRL key."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:602
+msgid "Additional Post Category:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:606 res/crawlomatic-rules-list.php:2996
+msgid "Do Not Add a Category"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:698 res/crawlomatic-rules-list.php:3052
+msgid ""
+"Input a list of categories that you want to remove from the list of "
+"automatic categories. Input more categories, separated by comma. Ex: "
+"remove1, remove2, remove3"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:702
+msgid "Categories To Remove:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:715 res/crawlomatic-rules-list.php:3064
+msgid ""
+"Do you want to automatically add post categories from the crawled items? "
+"This will have effect only if you select a query string for the \"Category "
+"Query String\" below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:719
+msgid "Add Post Categories From Query Strings (Below):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:732 res/crawlomatic-rules-list.php:3080
+msgid ""
+"Select the auto created categories parent category id. If you leave this "
+"field blank, automatically created categories will be a root category (no "
+"parent)."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:736
+msgid "Auto Created Categories Parent Category ID:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:749
+msgid ""
+"This feature will try to remove the WordPress's default post category. This "
+"may fail in case no additional categories are added, because WordPress "
+"requires at least one post category for every post."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:753
+msgid "Remove WP Default Post Category:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:766 res/crawlomatic-rules-list.php:3109
+msgid ""
+"Do you want to automatically add post tags from the crawled items? This will "
+"have effect only if you select a query string for the \"Category Query String"
+"\" below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:770
+msgid "Add Post Tags From Query Strings (Below):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:783 res/crawlomatic-rules-list.php:3126
+msgid ""
+"Select the post tags that you want for the automatically generated posts to "
+"have."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:787
+msgid "Additional Post Tags:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:800 res/crawlomatic-rules-list.php:3138
+msgid "Do you want to enable comments for the generated posts?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:804
+msgid "Enable Comments:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:817
+msgid "Do you want to enable pingbacks/trackbacks for the generated posts?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:821
+msgid "Enable Pingbacks/Trackbacks:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:834 res/crawlomatic-rules-list.php:3172
+msgid ""
+"Do you want to set featured image for generated post (to the first image "
+"that was found in the post)?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:838
+msgid "Auto Featured Image:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:851
+msgid ""
+"Do you want to replace the imported article's image with a royalty free "
+"image? Please note that for this feature to function you must configure the "
+"plugin (add API keys) in the plugin's 'Main Settings' menu -> 'Royalty Free "
+"Featured Image Importing Options' section."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:855
+msgid "Replace Article Image With Royalty Free Image:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:868 res/crawlomatic-rules-list.php:3205
+msgid "Do you want to strip images from generated post content?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:872
+msgid "Strip Images From Post Content:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:881 res/crawlomatic-rules-list.php:3217
+msgid "Featured Image Options:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:888
+msgid ""
+"Do you want to skip checking the og image meta tag when searching for a "
+"featured image for the generated article?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:891
+msgid "Skip Checking OG:Image Meta:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:902
+msgid ""
+"Do you want to skip checking the post content when searching for a featured "
+"image for the generated article?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:905
+msgid "Skip Checking Post Content:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:917 res/crawlomatic-rules-list.php:3252
+msgid ""
+"Insert a comma separated list of links to valid images that will be set "
+"randomly for the featured image for the posts that do not have a valid image "
+"attached or if you disabled automatical featured image generation. You can "
+"also use image numeric IDs from images found in the Media Gallery. To "
+"disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:921
+msgid "Default Featured Image List:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:930 res/crawlomatic-rules-list.php:3259
+msgid "Posting Restrictions:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:939
+msgid ""
+"Do not include posts that's title or content contains at least one of these "
+"words. Separate words by comma. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:943
+msgid "Banned Words List:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:956
+msgid ""
+"Do not include posts that's title or content does not contain at least one "
+"of these words. Separate words by comma. To disable this feature, leave this "
+"field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:960
+msgid "Required Words List:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:973 res/crawlomatic-rules-list.php:3287
+msgid ""
+"Run regex on post content. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:977
+msgid "Run Regex On Content:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:990 res/crawlomatic-rules-list.php:3299
+msgid ""
+"Replace the above regex matches with this regex expression. If you want to "
+"strip matched content, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:994
+msgid "Replace Matches From Regex:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1003 res/crawlomatic-rules-list.php:3308
+msgid "Other Post Customizations:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1010
+msgid "Do you want to strip HTML from Full Article Content?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1013
+msgid "Strip HTML From Full Content:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1028 res/crawlomatic-rules-list.php:3329
+msgid ""
+"Strip HTML elements from final content that have this IDs. You can insert "
+"more IDs, separated by comma. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1032
+msgid "Strip HTML Elements by ID:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1045 res/crawlomatic-rules-list.php:3341
+msgid ""
+"Strip HTML elements from final content that have this class. You can insert "
+"more classes, separated by comma. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1049
+msgid "Strip HTML Elements by Class:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1062 res/crawlomatic-rules-list.php:3353
+msgid ""
+"Strip HTML elements by their tag name. You can insert more tag names, "
+"separated by comma. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1066
+msgid "Strip HTML Elements by Tag Name:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1077 res/crawlomatic-rules-list.php:3365
+msgid ""
+"Set the maximum word count for the article. If you set this value, a \"Read "
+"More\" link will be automatically appended to the end of the article for "
+"articles that where shortened. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1080
+msgid "Limit Article Word Count:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1093 res/crawlomatic-rules-list.php:3377
+msgid ""
+"Do you want to automatically translate generated content using Google "
+"Translate?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1096
+msgid "Automatically Translate Content To:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1096 res/crawlomatic-rules-list.php:3380
+msgid "Info:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1096 res/crawlomatic-rules-list.php:3380
+msgid "for translation, the plugin also supports WPML."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1096 res/crawlomatic-rules-list.php:3380
+msgid "Get WPML now!"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1122
+msgid ""
+"If you use the above translate feature and want to translate not English "
+"articles to other languages, please select their original language here."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1125
+msgid "Source Articles Language:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1151 res/crawlomatic-rules-list.php:3423
+msgid ""
+"Do you want to keep original link sources after translation? If you uncheck "
+"this, links will point to Google Translate version of the linked website."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1154
+msgid "Keep Original Link Source After Translation:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1169
+msgid ""
+"Set the text to be shown for the 'Read More' link. If you leave this field "
+"blank, the global setting will take effect, defined in the plugin's 'Main "
+"Settings' -> ''Read More' Button Text'. To disable the read more button, "
+"enter a space in this settings field."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1186 res/crawlomatic-rules-list.php:3452
+#, php-format
+msgid ""
+"Do you want to automatically delete generated posts after a period of time? "
+"Accepted values for this field are listed: <a href='%s' "
+"target='_blank'>here</a>, <a href='%s' target='_blank'>here</a>, <a "
+"href='%s' target='_blank'>here</a> and <a href='%s' target='_blank'>here</"
+"a>. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1190
+msgid "Automatically Delete Post:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1203 res/crawlomatic-rules-list.php:3464
+#, php-format
+msgid ""
+"Select a percentage of the grabbed content that will be included in the "
+"article. This is useful when the author states that you can legally get up "
+"to 25% of the full article. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1207
+msgid "Percentage Of The Content To Keep:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1222
+#, php-format
+msgid ""
+"Set the custom fields that will be set for generated posts. The syntax for "
+"this field is the following: custom_field_name1 => custom_field_value1, "
+"custom_field_name2 => custom_field_value2, ... . In custom_field_valueX, you "
+"can use shortcodes, same like in post content. Example (without quotes): "
+"'title_custom_field => %%item_title%%'. You can use the following "
+"shortcodes: %%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_original_price%%, %%item_price"
+"%%, %%item_content%%, %%royalty_free_image_attribution%%, %%item_url%%, "
+"%%item_cat%%, %%item_tags%%, %%item_content_plain_text%%, "
+"%%item_screenshot_url%%, %%item_show_screenshot%%, %%item_read_more_button"
+"%%, %%item_show_image%%, %%item_image_URL%%, %%item_description%%, "
+"%%item_pub_date%%.  You will also be able to use the custom shortcodes "
+"defined in the 'Custom Shortcode Creator' feature from below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1226
+msgid "Post Custom Fields:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1239
+#, php-format
+msgid ""
+"Set the custom taxonomies that will be set for generated posts. The syntax "
+"for this field is the following: custom_taxonomy_name1 => "
+"custom_taxonomy_value1A, custom_taxonomy_value1B; custom_taxonomy_name2 => "
+"custom_taxonomy_value2A, custom_taxonomy_value2B; ... . In "
+"custom_taxonomy_valueX, you can use shortcodes. Example (without quotes): "
+"'cats_taxonomy_field => manualtax1, %%item_title%%; tags_taxonomy_field => "
+"manualtax2, %%item_title%%'. You can use the following shortcodes: "
+"%%item_pub_date%%, %%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_content_plain_text%%, %%item_screenshot_url%%, "
+"%%item_show_screenshot%%, %%item_img_url%%, %%royalty_free_image_attribution"
+"%%, %%item_url%%, %%item_cat%%, %%item_tags%%, %%item_read_more_button%%, "
+"%%item_show_image%%, %%item_image_URL%%, %%author%%, %%author_link%%, "
+"%%author_email%%. If you defined custom tag names in the 'Feed Item Custom "
+"Tag Names' settings field in plugin's 'Main Settings', you will also be able "
+"to use a shortcode for each inserted field name, in this format: "
+"%%custom_*field_name*%%"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1243
+msgid "Post Custom Taxonomies:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1252
+msgid "Crawling & Content Grabbing Customizations:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1261 res/crawlomatic-rules-list.php:3500
+msgid ""
+"Select the cookie values you want to send with each request. The syntax for "
+"this field is the following: cookie_key1=cookie_value1; "
+"cookie_key2=cookie_value2 . To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1265
+msgid "Send Cookies With Request:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1278 res/crawlomatic-rules-list.php:3512
+msgid ""
+"Input the user:pass for the website (HTTP simple authentication). This "
+"feature grants access to password restricted websites. This is not for wp-"
+"login like user login to website. For that, you must use preset cookies. To "
+"disable this feature, leave this field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1282
+msgid "HTTP User & Password:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1295 res/crawlomatic-rules-list.php:3524
+msgid ""
+"Select the user agent value you want to send with each request. If crawling "
+"fails for a webpage, you can try to set here a custom value. Example of "
+"Google Chrome user agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 "
+"(KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1299
+msgid "Set Custom Curl User Agent:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1310
+msgid ""
+"Choose if you don't want to scrape the source URL that you provided as a "
+"crawling starting point."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1313
+msgid "Do Not Scrape Start URL:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1326 res/crawlomatic-rules-list.php:3553
+msgid ""
+"Choose if you want to allow crawling of external links or not. In most "
+"cases, unchecking this will result in unpredicted posts appearing."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1329
+msgid "Do Not Crawl External Links:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1342 res/crawlomatic-rules-list.php:3570
+msgid ""
+"Choose the maximum depth when crawling the selected link. The default value "
+"is 2. Choosing a greater value may cause unexpected posts appearing on your "
+"website."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1345
+msgid "Maximum Link Crawling Depth:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1358 res/crawlomatic-rules-list.php:3582
+msgid ""
+"Choose the maximum number of URL results to return after crawling the "
+"starting page. If this value is not set, it will be set to the value of the "
+"parameter of the maximum number of posts that will be generated by this rule."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1361
+msgid "Maximum Crawl Results to Get:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1374 res/crawlomatic-rules-list.php:3594
+msgid ""
+"Do you want to also get any CSS file content that was included in the "
+"scraped URL?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1377
+msgid "Also Get Found CSS Files Content:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1390
+msgid ""
+"Do you want to use the proxy set in the 'Main Settings' menu of the plugin? "
+"If you disable this, the server's IP address will be used instead, for this "
+"rule."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1393
+msgid "Use Proxy From Main Settings Plugin Menu:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1406 res/crawlomatic-rules-list.php:3628
+msgid "Select the source page encoding"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1409
+msgid "Source Article Encoding:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1415 res/crawlomatic-rules-list.php:3641
+msgid "Feature Disabled"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1416 res/crawlomatic-rules-list.php:3647
+msgid "Auto Detect"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1433
+msgid ""
+"Do you want to try to use PhantomJS to try to parse JavaScript from crawled "
+"pages (for pages that create dynamic content, on page load, using "
+"JavaScript)? Please note that for this to work, you must have PhantomJs "
+"installed on your server. You can configure the path to PhantomJS from your "
+"server, from plugin's 'Main Settings'."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1436
+msgid "Use PhantomJs To Parse JavaScript On Pages:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1447 res/crawlomatic-rules-list.php:3692
+msgid "Crawling Restrictions:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1456 res/crawlomatic-rules-list.php:3695
+#, php-format
+msgid ""
+"Select the query type you want to crawl source page from. XPath: <a "
+"href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1460
+msgid "Seed Page Crawling Query Type:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1467 res/crawlomatic-rules-list.php:1509
+#: res/crawlomatic-rules-list.php:1551 res/crawlomatic-rules-list.php:1646
+#: res/crawlomatic-rules-list.php:1686 res/crawlomatic-rules-list.php:1744
+#: res/crawlomatic-rules-list.php:1784 res/crawlomatic-rules-list.php:1824
+#: res/crawlomatic-rules-list.php:1886 res/crawlomatic-rules-list.php:1967
+#: res/crawlomatic-rules-list.php:3714 res/crawlomatic-rules-list.php:3758
+#: res/crawlomatic-rules-list.php:3802 res/crawlomatic-rules-list.php:3882
+#: res/crawlomatic-rules-list.php:3932 res/crawlomatic-rules-list.php:3989
+#: res/crawlomatic-rules-list.php:4039 res/crawlomatic-rules-list.php:4089
+#: res/crawlomatic-rules-list.php:4152 res/crawlomatic-rules-list.php:4227
+msgid "Class"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1468 res/crawlomatic-rules-list.php:1510
+#: res/crawlomatic-rules-list.php:1552 res/crawlomatic-rules-list.php:1647
+#: res/crawlomatic-rules-list.php:1687 res/crawlomatic-rules-list.php:1745
+#: res/crawlomatic-rules-list.php:1785 res/crawlomatic-rules-list.php:1825
+#: res/crawlomatic-rules-list.php:1887 res/crawlomatic-rules-list.php:1968
+#: res/crawlomatic-rules-list.php:3720 res/crawlomatic-rules-list.php:3764
+#: res/crawlomatic-rules-list.php:3808 res/crawlomatic-rules-list.php:3888
+#: res/crawlomatic-rules-list.php:3938 res/crawlomatic-rules-list.php:3995
+#: res/crawlomatic-rules-list.php:4045 res/crawlomatic-rules-list.php:4095
+#: res/crawlomatic-rules-list.php:4158 res/crawlomatic-rules-list.php:4233
+msgid "XPath"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1479 res/crawlomatic-rules-list.php:3726
+#, php-format
+msgid ""
+"Input the search query for source page crawling. This can be the ID or class "
+"name you want to search, the <a href='%s' target='_blank'>regex expression</"
+"a> you want to apply for or the XPath Expression you want to query for. <a "
+"href='%s' target='_blank'>More info/tutorial</a>. If you leave this field "
+"blank, content will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1483
+msgid "Seed Page Crawling Query String"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1483 res/crawlomatic-rules-list.php:1525
+#: res/crawlomatic-rules-list.php:1567 res/crawlomatic-rules-list.php:1663
+#: res/crawlomatic-rules-list.php:1702 res/crawlomatic-rules-list.php:1761
+#: res/crawlomatic-rules-list.php:1801 res/crawlomatic-rules-list.php:1841
+#: res/crawlomatic-rules-list.php:1903 res/crawlomatic-rules-list.php:1941
+#: res/crawlomatic-rules-list.php:1984 res/crawlomatic-rules-list.php:3729
+#: res/crawlomatic-rules-list.php:3773 res/crawlomatic-rules-list.php:3817
+#: res/crawlomatic-rules-list.php:3903 res/crawlomatic-rules-list.php:3947
+#: res/crawlomatic-rules-list.php:4010 res/crawlomatic-rules-list.php:4060
+#: res/crawlomatic-rules-list.php:4110 res/crawlomatic-rules-list.php:4173
+#: res/crawlomatic-rules-list.php:4199 res/crawlomatic-rules-list.php:4248
+msgid "Help!"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1498 res/crawlomatic-rules-list.php:3739
+#, php-format
+msgid ""
+"Select the query type you want to use for crawling pagination links. This is "
+"useful if you want to redirect the plugin to crawl another page, after it "
+"crawled the initial page (and it did not get enough usable results). XPath: "
+"<a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1502
+msgid "Seed Page Pagination Query Type:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1521 res/crawlomatic-rules-list.php:3770
+#, php-format
+msgid ""
+"Input the search query for crawling pagination links. This is useful if you "
+"want to redirect the plugin to crawl another page, after it crawled the "
+"initial page (and it did not get enough usable results). This can be the ID "
+"or class name you want to search, the <a href='%s' target='_blank'>regex "
+"expression</a> you want to apply for or the XPath Expression you want to "
+"query for. <a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1525 res/crawlomatic-rules-list.php:3773
+msgid "Seed Page Pagination Query String"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1540 res/crawlomatic-rules-list.php:3783
+#, php-format
+msgid ""
+"Select the query type you want to crawl already crawled pages from. XPath: "
+"<a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1544
+msgid "Crawled Pages Crawling Query Type:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1563 res/crawlomatic-rules-list.php:3814
+#, php-format
+msgid ""
+"Input the search query for already crawled pages crawling. This can be the "
+"ID or class name you want to search, the <a href='%s' target='_blank'>regex "
+"expression</a> you want to apply for or the XPath Expression you want to "
+"query for. <a href='%s' target='_blank'>More info/tutorial</a>. If you leave "
+"this field blank, content will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1567
+msgid "Crawled Pages Crawling Query String"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1580 res/crawlomatic-rules-list.php:3827
+msgid ""
+"Select the classes for which you want to crawl links, only. Separate "
+"multiple classes by commas."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1583
+msgid "Crawl Only Links With Class:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1596 res/crawlomatic-rules-list.php:3839
+msgid ""
+"Select the ids for which you want to crawl links, only. Separate multiple "
+"ids by commas."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1599
+msgid "Crawl Only Links With ID:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1612 res/crawlomatic-rules-list.php:3851
+msgid ""
+"Input a list of URLs to not crawl (one on each line). You can input also "
+"partial URLs, the plugin will match all URLs that start with the string you "
+"entered."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1615
+msgid "URLs to Not Crawl and Import:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1626 res/crawlomatic-rules-list.php:3860
+msgid "Content Scraping Customizations:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1635
+#, php-format
+msgid ""
+"Select the query type you want to search for the article full content. "
+"XPath: <a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1639
+msgid "Content Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1648 res/crawlomatic-rules-list.php:1746
+#: res/crawlomatic-rules-list.php:1786 res/crawlomatic-rules-list.php:1826
+#: res/crawlomatic-rules-list.php:1888 res/crawlomatic-rules-list.php:1969
+#: res/crawlomatic-rules-list.php:3894 res/crawlomatic-rules-list.php:4001
+#: res/crawlomatic-rules-list.php:4051 res/crawlomatic-rules-list.php:4101
+#: res/crawlomatic-rules-list.php:4164 res/crawlomatic-rules-list.php:4239
+msgid "Regex"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1659
+#, php-format
+msgid ""
+"Input the search query for full content searching. This can be the ID or "
+"class name you want to search, the <a href='%s' target='_blank'>regex "
+"expression</a> you want to apply for or the XPath Expression you want to "
+"query for. <a href='%s' target='_blank'>More info/tutorial</a>. If you leave "
+"this field blank, content will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1663 res/crawlomatic-rules-list.php:3903
+msgid "Content Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1676 res/crawlomatic-rules-list.php:3913
+msgid ""
+"Input the query type of the html element where the post pagination links "
+"will be found. These links will be crawled and content will be concatenated "
+"into one single generated post."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1679
+msgid "Post Pagination Link Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1698 res/crawlomatic-rules-list.php:3944
+msgid ""
+"Input the query string of the html element where the post pagination links "
+"will be found. These links will be crawled and content will be concatenated "
+"into one single generated post."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1702 res/crawlomatic-rules-list.php:3947
+msgid "Post Pagination Link Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1717 res/crawlomatic-rules-list.php:3957
+msgid ""
+"Input the maximum depth of the post pagination crawling search. If you "
+"specify here a value, only that number of posts will be crawled for "
+"pagination links."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1721
+msgid "Maximum Post Pagination Depth:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1734
+msgid "Select the query type you want to search for the article title. XPath:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1734 res/crawlomatic-rules-list.php:1774
+#: res/crawlomatic-rules-list.php:1814
+msgid "More info/tutorial"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1737
+msgid "Title Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1757 res/crawlomatic-rules-list.php:4007
+#, php-format
+msgid ""
+"Input the search query for title searching. This can be the ID or class name "
+"you want to search, the <a href='%s' target='_blank'>regex expression</a> "
+"you want to apply for or the XPath Expression you want to query for. <a "
+"href='%s' target='_blank'>More info/tutorial</a>. If you leave this field "
+"blank, the title will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1761 res/crawlomatic-rules-list.php:4010
+msgid "Title Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1774
+msgid "Select the query type you want to search for the article image. XPath:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1777
+msgid "Featured Image Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1797
+#, php-format
+msgid ""
+"Input the search query for image searching. This can be the ID or class name "
+"you want to search, the <a href='%s' target='_blank'>regex expression</a> "
+"you want to apply for or the XPath Expression you want to query for. <a "
+"href='%s' target='_blank'>More info/tutorial</a>. If you leave this field "
+"blank, the featured image will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1801 res/crawlomatic-rules-list.php:4060
+msgid "Featured Image Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1814
+msgid "Select the query type you want to search for the article date. XPath:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1817
+msgid "Date Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1837
+#, php-format
+msgid ""
+"Input the search query for date searching. This can be the ID or class name "
+"you want to search, the <a href='%s' target='_blank'>regex expression</a> "
+"you want to apply for or the XPath Expression you want to query for. <a "
+"href='%s' target='_blank'>More info/tutorial</a>. If you leave this field "
+"blank, the current date will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1841 res/crawlomatic-rules-list.php:4110
+msgid "Date Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1856 res/crawlomatic-rules-list.php:4120
+msgid ""
+"Input the number of hours to add/substract from the date - it can change the "
+"timezone of the imported date."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1860
+msgid "Add Hours To The Imported Date (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1875
+#, php-format
+msgid ""
+"Select the query type you want to search for the article category. XPath: <a "
+"href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1879
+msgid "Category Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1899
+#, php-format
+msgid ""
+"Input the search query for category searching. This can be the ID or class "
+"name you want to search, the <a href='%s' target='_blank'>regex expression</"
+"a> you want to apply for or the XPath Expression you want to query for. <a "
+"href='%s' target='_blank'>More info/tutorial</a>. If you leave this field "
+"blank, no categories will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1903 res/crawlomatic-rules-list.php:4173
+msgid "Category Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1918 res/crawlomatic-rules-list.php:4183
+msgid ""
+"Input the separator for categories that are being queried. This can be "
+"different characters like -, / or any similar (to match the source page "
+"content). The default is , (comma)."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1922
+msgid "Category Separator (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1937
+#, php-format
+msgid ""
+"Custom crawled content shortcode creator. If you wish to crawl multiple "
+"content from the imported pages, and use them in post content/post custom "
+"fields/taxonomies, you can configure them from here. Syntax for this field: "
+"shortcode_name => [class/id/xpath/regex] @@ [class/id/xpath/regex "
+"expression] (to specify multiple shortcodes and crawling values, separate "
+"them by a new line.  Example: my_custom_shortcode => class @@ post-content. "
+"Afterwards, you can use shortcodes in the any settings field that supports "
+"shortcodes (ex: 'Generated Post Content' settings field), like this: "
+"%%my_custom_shortcode%%. Official format is %%name_of_custom_shortcode%%"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1941 res/crawlomatic-rules-list.php:4199
+msgid "Custom Shortcode Creator (from Crawled Content) (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1956
+#, php-format
+msgid ""
+"Select the query type you want to search for the product price. XPath: <a "
+"href='%s' target='_blank'>More info/tutorial</a>. The price will be "
+"automatically added to the product if you are importing it to WooCommerce. "
+"Also, the price will be available in the %%item_price%% shortcode. You can "
+"modify the price from the 'Price Related Options' in plugin's 'Main "
+"Settings'. In this case, old price will be available in the %%item_old_price"
+"%% shortcode and the new price will be added to the %%item_price%% shortcode."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1960
+msgid "Product Price Query Type (Optional):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1980 res/crawlomatic-rules-list.php:4245
+#, php-format
+msgid ""
+"Input the search query for product price searching. This can be the ID or "
+"class name you want to search, the <a href='%s' target='_blank'>regex "
+"expression</a> you want to apply for or the XPath Expression you want to "
+"query for. <a href='%s' target='_blank'>More info/tutorial</a>. The price "
+"will be automatically added to the product if you are importing it to "
+"WooCommerce. Also, the price will be available in the %%item_price%% "
+"shortcode. You can modify the price from the 'Price Related Options' in "
+"plugin's 'Main Settings'. In this case, old price will be available in the "
+"%%item_old_price%% shortcode and the new price will be added to the "
+"%%item_price%% shortcode."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1984 res/crawlomatic-rules-list.php:4248
+msgid "Product Price Query String (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:1997 res/crawlomatic-rules-list.php:4258
+msgid ""
+"Do you want to strip commas from product prices? This will help if you have "
+"prices with commas that are not decimal separators."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2000
+msgid "Strip Comma From Product Prices:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2030
+msgid "No info."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2040 res/crawlomatic-rules-list.php:4422
+msgid "Select an Action"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2041 res/crawlomatic-rules-list.php:4423
+msgid "Run This Rule Now"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2042 res/crawlomatic-rules-list.php:4424
+msgid "Move All Posts To Trash"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2043 res/crawlomatic-rules-list.php:4425
+msgid "Duplicate This Rule"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2044 res/crawlomatic-rules-list.php:4426
+msgid "Permanently Delete All Posts"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "First Page"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "Previous Page"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "Page"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "of"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "Rules Per Page:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "Next Page"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2267
+msgid "Last Page"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2275
+msgid "Nested Shortcodes also supported!"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2275
+msgid "Confused about rule running status icons?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2275
+msgid "More info"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2280
+msgid "In Progress"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2280
+msgid "Importing is Running"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2284
+msgid "Success"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2284
+msgid "New Posts Created"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2288
+msgid "Failed"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2288
+msgid "An Error Occurred."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2288
+msgid "Please check 'Activity and Logging' plugin menu for details."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2292
+msgid "No Change - No New Posts Created"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2292
+msgid "Possible reasons:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2298
+msgid ""
+"Already all posts are published that match your search and posts will be "
+"posted when new content will be available"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2299
+msgid "Some restrictions you defined in the plugin's 'Main Settings'"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2299
+msgid ""
+"example: 'Minimum Content Word Count', 'Maximum Content Word Count', "
+"'Minimum Title Word Count', 'Maximum Title Word Count', 'Banned Words List', "
+"'Reuired Words List', 'Skip Posts Without Images'"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2299
+msgid "prevent posting of new posts."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2872
+msgid "Rule"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2882
+#, php-format
+msgid ""
+"Set the title of the generated posts for user rules. You can use the "
+"following shortcodes:  %%random_sentence%%, %%random_sentence2%%, "
+"%%item_title%%, %%item_description%%, %%item_content%%, %%item_cat%%, "
+"%%item_tags%%.  You will also be able to use the custom shortcodes defined "
+"in the \\'Custom Shortcode Creator\\' feature from below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2885
+msgid "Generated Post Title"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2894
+#, php-format
+msgid ""
+"Set the content of the generated posts for user rules. You can use the "
+"following shortcodes: %%custom_html%%, %%custom_html2%%, %%random_sentence"
+"%%, %%random_sentence2%%, %%item_title%%, %%item_original_price%%, "
+"%%item_price%%, %%item_content%%, %%royalty_free_image_attribution%%, "
+"%%item_url%%, %%item_cat%%, %%item_tags%%, %%item_content_plain_text%%, "
+"%%item_screenshot_url%%, %%item_show_screenshot%%, %%item_read_more_button"
+"%%, %%item_show_image%%, %%item_image_URL%%, %%item_description%%, "
+"%%item_pub_date%%. If you wish to embed YouTube or Vimeo videos, you should "
+"use the following format: [embed]%%item_url%%[/embed].  You will also be "
+"able to use the custom shortcodes defined in the \\'Custom Shortcode Creator"
+"\\' feature from below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2897
+msgid "Generated Post Content"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2906
+msgid ""
+"If your template supports \"Post Formats\", than you can select one here. If "
+"not, leave this at it's default value."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2909
+msgid "Generated Post Format"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:2980
+msgid "Additional Post Category"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3055
+msgid "Categories To Remove"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3067
+msgid "Add Post Categories From Query Strings (Below)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3083
+msgid "Auto Created Categories Parent Category ID"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3092
+msgid ""
+"This feature will try to remove the WordPress\\'s default post category. "
+"This may fail in case no additional categories are added, because WordPress "
+"requires at least one post category for every post."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3095
+msgid "Remove WP Default Post Category"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3112
+msgid "Add Post Tags From Query Strings (Below)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3129
+msgid "Additional Post Tags"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3141
+msgid "Enable Comments"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3155
+msgid "Do you want to enable pingbacks and trackbacks for the generated posts?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3158
+msgid "Enable Pingbacks/Trackbacks"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3175
+msgid "Auto Featured Image"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3189
+msgid ""
+"Do you want to replace the imported article\\'s image with a royalty free "
+"image? Please note that for this feature to function you must configure the "
+"plugin (add API keys) in the plugin\\'s \\'Main Settings\\' menu -> "
+"\\'Royalty Free Featured Image Importing Options\\' section."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3192
+msgid "Replace Article Image With Royalty Free Image"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3208
+msgid "Strip Images From Post Content"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3221
+msgid ""
+"Do you want to skip checking the og image meta tag when searching for a "
+"featured image for the generated article?."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3224
+msgid "Skip Checking OG:Image Meta"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3237
+msgid ""
+"Do you want to skip checking the post content when searching for a featured "
+"image for the generated article?."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3240
+msgid "Skip Checking Post Content"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3255
+msgid "Default Featured Image List"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3263
+msgid ""
+"Do not include posts that\\'s title or content contains at least one of "
+"these words. Separate words by comma. To disable this feature, leave this "
+"field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3266
+msgid "Banned Words List"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3275
+msgid ""
+"Do not include posts that\\'s title or content does not contain at least one "
+"of these words. Separate words by comma. To disable this feature, leave this "
+"field blank."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3278
+msgid "Required Words List"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3290
+msgid "Run Regex On Content"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3302
+msgid "Replace Matches From Regex"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3312
+msgid "Do you want to strip HTML from Full Content?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3315
+msgid "Strip HTML From Full Content"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3332
+msgid "Strip HTML Elements by ID"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3344
+msgid "Strip HTML Elements by Class"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3356
+msgid "Strip HTML Elements by Tag Name"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3368
+msgid "Limit Article Word Count"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3380
+msgid "Automatically Translate Content To"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3400
+msgid ""
+"If you use the above translate feature and want to translate not english "
+"articles to other languages, please select their original language here."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3403
+msgid "Source Articles Language"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3426
+msgid "Keep Original Link Source After Translation"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3440
+msgid ""
+"Set the text to be shown for the \\'Read More\\' link. If you leave this "
+"field blank, the global setting will take effect, defined in the plugin\\'s "
+"\\'Main Settings\\' -> \\'\\'Read More\\' Button Text\\'. To disable the "
+"read more button, enter a space in this settings field."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3443
+msgid "'Read More' Button Text"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3455
+msgid "Automatically Delete Post"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3467
+msgid "Percentage Of The Content To Keep"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3477
+#, php-format
+msgid ""
+"Set the custom fields that will be set for generated posts. The syntax for "
+"this field is the following: custom_field_name1 => custom_field_value1, "
+"custom_field_name2 => custom_field_value2, ... . In custom_field_valueX, you "
+"can use shortcodes, same like in post content. Example (without quotes): "
+"\\'title_custom_field => %%item_title%%\\'. You can use the following "
+"shortcodes: %%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_original_price%%, %%item_price"
+"%%, %%item_content%%, %%royalty_free_image_attribution%%, %%item_url%%, "
+"%%item_cat%%, %%item_tags%%, %%item_content_plain_text%%, "
+"%%item_screenshot_url%%, %%item_show_screenshot%%, %%item_read_more_button"
+"%%, %%item_show_image%%, %%item_image_URL%%, %%item_description%%, "
+"%%item_pub_date%%.  You will also be able to use the custom shortcodes "
+"defined in the \\'Custom Shortcode Creator\\' feature from below."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3480
+msgid "Post Custom Fields"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3489
+#, php-format
+msgid ""
+"Set the custom taxonomies that will be set for generated posts. The syntax "
+"for this field is the following: custom_taxonomy_name1 => "
+"custom_taxonomy_value1A, custom_taxonomy_value1B; custom_taxonomy_name2 => "
+"custom_taxonomy_value2A, custom_taxonomy_value2B; ... . In "
+"custom_taxonomy_valueX, you can use shortcodes. Example (without quotes): "
+"\\'cats_taxonomy_field => manualtax1, %%item_title%%; tags_taxonomy_field => "
+"manualtax2, %%item_title%%\\'. You can use the following shortcodes: "
+"%%item_pub_date%%, %%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_content_plain_text%%, %%item_screenshot_url%%, "
+"%%item_show_screenshot%%, %%item_img_url%%, %%royalty_free_image_attribution"
+"%%, %%item_url%%, %%item_cat%%, %%item_tags%%, %%item_read_more_button%%, "
+"%%item_show_image%%, %%item_image_URL%%, %%author%%, %%author_link%%, "
+"%%author_email%%. If you defined custom tag names in the \\'Feed Item Custom "
+"Tag Names\\' settings field in plugin\\'s \\'Main Settings\\', you will also "
+"be able to use a shortcode for each inserted field name, in this format: "
+"%%custom_*field_name*%%"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3492
+msgid "Post Custom Taxonomies"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3503
+msgid "Send Cookies With Request"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3515
+msgid "HTTP User & Password"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3527
+msgid "Set Custom Curl User Agent"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3536
+msgid ""
+"Choose if you don\\'t want to scrape the source URL that you provided as a "
+"crawling starting point."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3539
+msgid "Do Not Scrape Start URL"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3556
+msgid "Do Not Crawl External Links"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3573
+msgid "Maximum Link Crawling Depth"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3585
+msgid "Maximum Crawl Results to Get"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3597
+msgid "Also Get Found CSS Files Content"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3610
+msgid ""
+"Do you want to use the proxy set in the \\'Main Settings\\' menu of the "
+"plugin? If you disable this, the server\\'s IP address will be used instead, "
+"for this rule."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3613
+msgid "Use Proxy From Main Settings Plugin Menu"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3631
+msgid "Source Article Encoding"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3663
+msgid ""
+"Do you want to try to use PhantomJS to try to parse JavaScript from crawled "
+"pages (for pages that create dynamic content, on page load, using "
+"JavaScript)? Please note that for this to work, you must have PhantomJs "
+"installed on your server. You can configure the path to PhantomJS from your "
+"server, from plugin\\'s \\'Main Settings\\'."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3666
+msgid "Use PhantomJs To Parse JavaScript On Pages"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3675
+msgid ""
+"INFO: PhantomJS not found - please install it on your server or configure "
+"the path to it in plugin's 'Main Settings'!"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3675
+msgid "How to install PhantomJs?"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3679
+msgid "INFO: PhantomJS OK"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3698
+msgid "Seed Page Crawling Query Type"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3729
+msgid "Seed Page Crawling Query String:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3742
+msgid "Seed Page Pagination Query Type"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3786
+msgid "Crawled Pages Crawling Query Type"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3817
+msgid "Crawled Pages Crawling Query String:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3830
+msgid "Crawl Only Links With Class"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3842
+msgid "Crawl Only Links With ID"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3854
+msgid "URLs to Not Crawl and Import"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3863
+#, php-format
+msgid ""
+"Select the query type you want to search for the article full content. "
+"XPath: <a href=\"%s\" target=\"_blank\">More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3866
+msgid "Content Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3900
+#, php-format
+msgid ""
+"Input the search query for full content searching. This can be the ID or "
+"class name you want to search for, the <a href=\"%s\" target=\"_blank"
+"\">regex expression</a> you want to apply or the XPath Expression you want "
+"to query for. <a href=\"%s\" target=\"_blank\">More info/tutorial</a>. If "
+"you leave this field blank, content will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3916
+msgid "Post Pagination Link Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3960
+msgid "Maximum Post Pagination Depth"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3970
+#, php-format
+msgid ""
+"Select the query type you want to search for the article title. XPath: <a "
+"href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:3973
+msgid "Title Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4020
+#, php-format
+msgid ""
+"Select the query type you want to search for the article image. XPath: <a "
+"href=\"%s\" target=\"_blank\">More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4023
+msgid "Featured Image Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4057
+#, php-format
+msgid ""
+"Input the search query for image searching. This can be the ID or class name "
+"you want to search for, the <a href=\"%s\" target=\"_blank\">regex "
+"expression</a> you want to apply or the XPath Expression you want to query "
+"for. <a href=\"%s\" target=\"_blank\">More info/tutorial</a>. If you leave "
+"this field blank, the featured image will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4070
+#, php-format
+msgid ""
+"Select the query type you want to search for the article date. XPath: <a "
+"href=\"%s\" target=\"_blank\">More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4073
+msgid "Date Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4107
+#, php-format
+msgid ""
+"Input the search query for date searching. This can be the ID or class name "
+"you want to search for, the <a href=\"%s\" target=\"_blank\">regex "
+"expression</a> you want to apply or the XPath Expression you want to query "
+"for. <a href=\"%s\" target=\"_blank\">More info/tutorial</a>. If you leave "
+"this field blank, current date will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4123
+msgid "Add Hours To The Imported Date (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4133
+#, php-format
+msgid ""
+"Select the query type you want to search for the article category. XPath: <a "
+"href=\"%s\" target=\"_blank\">More info/tutorial</a>."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4136
+msgid "Category Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4170
+#, php-format
+msgid ""
+"Input the search query for category searching. This can be the ID or class "
+"name you want to search for, the <a href=\"%s\" target=\"_blank\">regex "
+"expression</a> you want to apply or the XPath Expression you want to query "
+"for. <a href=\"%s\" target=\"_blank\">More info/tutorial</a>. If you leave "
+"this field blank, no categories will be automatically detected for you."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4186
+msgid "Category Separator (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4196
+#, php-format
+msgid ""
+"Custom crawled content shortcode creator. If you wish to crawl multiple "
+"content from the imported pages, and use them in post content/post custom "
+"fields/taxonomies, you can configure them from here. Syntax for this field: "
+"shortcode_name => [class/id/xpath/regex] @@ [class/id/xpath/regex "
+"expression] (to specify multiple shortcodes and crawling values, separate "
+"them by a new line.  Example: my_custom_shortcode => class @@ post-content "
+"Afterwards, you can use shortcodes in the any settings field that supports "
+"shortcodes (ex: \\'Generated Post Content\\' settings field), like this: "
+"%%my_custom_shortcode%%. Official format is %%name_of_custom_shortcode%%"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4208
+#, php-format
+msgid ""
+"Select the query type you want to search for the product price. XPath: <a "
+"href='%s' target='_blank'>More info/tutorial</a>.  The price will be "
+"automatically added to the product if you are importing it to WooCommerce. "
+"Also, the price will be available in the %%item_price%% shortcode.  You can "
+"modify the price from the 'Price Related Options' in plugin's 'Main "
+"Settings'. In this case, old price will be available in the %%item_old_price"
+"%% shortcode and the new price will be added to the %%item_price%% shortcode."
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4211
+msgid "Product Price Query Type (Optional)"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4261
+msgid "Strip Comma From Product Prices"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4295 res/crawlomatic-rules-list.php:4299
+msgid ""
+"Shortcode for this rule<br/>(to cross-post from this plugin in other "
+"plugins):"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4295 res/crawlomatic-rules-list.php:4299
+msgid "Posts Generated:"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4295
+msgid "post count checking disabled from plugin settings"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4304 res/crawlomatic-rules-list.php:4308
+msgid "View Generated Posts"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4311
+msgid "Last Run: "
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4320
+msgid "Next Run: "
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4331
+msgid "WP-CRON Disabled. Rules will not automatically run!"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4358
+msgctxt "Date Time Format1"
+msgid "Y-m-d H:i:s"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4379
+msgid "Rule Disabled"
+msgstr ""
+
+#: res/crawlomatic-rules-list.php:4382
+msgid "Local Time: "
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:363
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:400
+msgid "Check for updates"
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:409
+msgid "This plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:411
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:413
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:563
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update-checker/Puc/v4/Vcs/PluginUpdateChecker.php:83
+#: update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:437
+msgid "View details"
+msgstr ""
+
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:460
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:553
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:555
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v4p4/Plugin/UpdateChecker.php:557
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Crawlomatic Multipage Scraper Post Generator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "//codecanyon.net/user/coderevolution/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will generate content for you, even in your sleep using article "
+"crawling and scraping."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeRevolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "//codecanyon.net/user/coderevolution"
+msgstr ""
