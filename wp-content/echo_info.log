@@ -1,1 +1,4 @@
 [17-Oct-2020 19:58:42 UTC] Error in parsing RSS feed (custom method): cURL error 28: Operation timed out after 10001 milliseconds with 0 bytes received for https://www.hindustantimes.com/rss/tennis/rssfeed.xml!<br/>
+[26-Oct-2020 07:00:14 UTC] Error in parsing RSS feed (custom method): cURL error 22: The requested URL returned error: 403  for https://www.indiatoday.in/rss/1206509!<br/>
+[26-Oct-2020 07:00:16 UTC] Error in parsing RSS feed (custom method): cURL error 22: The requested URL returned error: 403  for https://www.indiatoday.in/rss/1206514!<br/>
+[26-Oct-2020 08:06:06 UTC] Error in parsing RSS feed (custom method): cURL error 22: The requested URL returned error: 403  for https://www.indiatoday.in/rss/1206550!<br/>
